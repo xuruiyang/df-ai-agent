@@ -1,0 +1,17 @@
+[project]
+name = "df-agent"
+version = "0.1.0"
+description = "AI assistant for Dwarf Fortress powered by Claude"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.40.0",
+    "prompt-toolkit>=3.0",
+    "rich>=13.0",
+]
+
+[project.scripts]
+df-agent = "df_agent.__main__:main"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
