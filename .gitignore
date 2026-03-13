@@ -1,0 +1,18 @@
+df-ai-git-describe.h
+df-ai-git-describe.tmp.h
+
+# Build artifacts
+dfhack-0.47.05/
+df_osx/
+
+# macOS
+.DS_Store
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (for ajv schema validation)
+node_modules/

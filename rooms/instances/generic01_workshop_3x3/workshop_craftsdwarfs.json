@@ -1,0 +1,17 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-instance.json",
+	"p": [
+		{
+			"type": "workshop",
+			"workshop_type": "Craftsdwarfs"
+		},
+		{
+			"stockpile_type": "refuse",
+			"stock_disable": [
+				"RefuseItems",
+				"RefuseCorpses",
+				"RefuseParts"
+			]
+		}
+	]
+}

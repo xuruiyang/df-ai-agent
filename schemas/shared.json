@@ -1,0 +1,186 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema",
+	"id": "https://ben.lubar.me/df-ai-schemas/shared.json",
+	"room-tag": {
+		"id": "#room-tag",
+		"type": "string"
+	},
+	"room-name": {
+		"id": "#room-name",
+		"type": "string"
+	},
+	"room-name-or-tag": {
+		"id": "#room-name-or-tag",
+		"anyOf": [
+			{ "$ref": "#room-tag" },
+			{ "$ref": "#room-name" }
+		]
+	},
+	"padding": {
+		"id": "#padding",
+		"type": "array",
+		"minItems": 2,
+		"maxItems": 2,
+		"items": [
+			{
+				"type": "integer",
+				"maximum": 0
+			},
+			{
+				"type": "integer",
+				"minimum": 0
+			}
+		],
+		"default": [0, 0]
+	},
+	"limit": {
+		"id": "#limit",
+		"type": "array",
+		"minItems": 2,
+		"maxItems": 2,
+		"items": {
+			"type": "integer",
+			"minimum": 0
+		}
+	},
+	"coord": {
+		"id": "#coord",
+		"type": "array",
+		"minItems": 3,
+		"maxItems": 3,
+		"items": {
+			"type": "integer"
+		}
+	},
+	"exit-def": {
+		"id": "#exit-def",
+		"type": "array",
+		"minItems": 4,
+		"maxItems": 5,
+		"items": [
+			{
+				"$ref": "#room-name-or-tag"
+			},
+			{
+				"type": "integer"
+			},
+			{
+				"type": "integer"
+			},
+			{
+				"type": "integer"
+			},
+			{
+				"type": "object",
+				"additionalProperties": {
+					"$ref": "#variable-string"
+				}
+			}
+		]
+	},
+	"variable-string": {
+		"id": "#variable-string",
+		"anyOf": [
+			{
+				"type": "string"
+			},
+			{
+				"type": "array",
+				"items": {
+					"oneOf": [
+						{
+							"type": "string",
+							"title": "Variable",
+							"pattern": "^\\$.*$"
+						},
+						{
+							"type": "string",
+							"pattern": "^$|^[^\\$].*$"
+						}
+					]
+				}
+			}
+		],
+		"default": ""
+	},
+	"stocks_goal_need_or_track": {
+		"type": "object",
+		"anyOf": [
+			{
+				"properties": {
+					"needed": {
+						"type": "integer",
+						"minimum": 1
+					},
+					"per_cent": {
+						"type": "integer",
+						"minimum": 1
+					}
+				},
+				"required": ["needed"]
+			},
+			{ "$ref": "#stocks_goal_track_only" }
+		],
+		"additionalProperties": false
+	},
+	"stocks_goal_need_watch_or_track": {
+		"type": "object",
+		"anyOf": [
+			{
+				"properties": {
+					"needed": {
+						"type": "integer",
+						"minimum": 1
+					},
+					"per_cent": {
+						"type": "integer",
+						"minimum": 1
+					},
+					"maximum": {
+						"type": "integer",
+						"minimum": 1
+					}
+				},
+				"required": ["needed"]
+			},
+			{
+				"properties": {
+					"maximum": {
+						"type": "integer",
+						"minimum": 1
+					}
+				},
+				"required": ["maximum"]
+			},
+			{ "$ref": "#stocks_goal_track_only" }
+		],
+		"additionalProperties": false
+	},
+	"stocks_goal_watch_or_track": {
+		"type": "object",
+		"anyOf": [
+			{
+				"properties": {
+					"maximum": {
+						"type": "integer",
+						"minimum": 1
+					}
+				},
+				"required": ["maximum"]
+			},
+			{ "$ref": "#stocks_goal_track_only" }
+		],
+		"additionalProperties": false
+	},
+	"stocks_goal_track_only": {
+		"type": "object",
+		"properties": {
+			"track_only": {
+				"type": "boolean",
+				"enum": [true]
+			}
+		},
+		"required": ["track_only"],
+		"additionalProperties": false
+	}
+}

@@ -1,0 +1,292 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema",
+	"id": "https://ben.lubar.me/df-ai-schemas/room-instance.json",
+	"type": "object",
+	"title": "Blueprint Room Instance",
+	"description": "A room instance.",
+	"definitions": {
+		"room": {
+			"type": "object",
+			"title": "Room",
+			"description": "",
+			"properties": {
+				"type": { "$ref": "enums.json#room_type" },
+				"corridor_type": { "$ref": "enums.json#corridor_type" },
+				"farm_type": { "$ref": "enums.json#farm_type" },
+				"stockpile_type": { "$ref": "enums.json#stockpile_type" },
+				"nobleroom_type": { "$ref": "enums.json#nobleroom_type" },
+				"outpost_type": { "$ref": "enums.json#outpost_type" },
+				"location_type": { "$ref": "enums.json#location_type" },
+				"cistern_type": { "$ref": "enums.json#cistern_type" },
+				"workshop_type": { "$ref": "enums.json#workshop_type" },
+				"furnace_type": { "$ref": "enums.json#furnace_type" },
+				"raw_type": { "$ref": "shared.json#variable-string" },
+				"comment": { "$ref": "shared.json#variable-string" },
+				"min": { "$ref": "shared.json#coord" },
+				"max": { "$ref": "shared.json#coord" },
+				"exits": {
+					"type": "array",
+					"items": { "$ref": "shared.json#exit-def" },
+					"default": []
+				},
+				"optional_walls": {
+					"type": "array",
+					"items": { "$ref": "shared.json#coord" },
+					"default": []
+				},
+				"accesspath": {
+					"type": "array",
+					"items": {
+						"type": "number",
+						"minimum": 0
+					},
+					"uniqueItems": true,
+					"default": []
+				},
+				"layout": {
+					"type": "array",
+					"items": {
+						"type": "number",
+						"minimum": 0
+					},
+					"uniqueItems": true,
+					"default": []
+				},
+				"level": {
+					"type": "integer"
+				},
+				"noblesuite": {
+					"type": "integer",
+					"minimum": 0
+				},
+				"queue": {
+					"type": "integer",
+					"default": 0
+				},
+				"workshop": {
+					"type": "integer",
+					"minimum": 0
+				},
+				"stock_disable": {
+					"type": "array",
+					"items": { "$ref": "enums.json#stockpile_list" },
+					"uniqueItems": true,
+					"default": []
+				},
+				"stock_specific1": {
+					"type": "boolean",
+					"default": false
+				},
+				"stock_specific2": {
+					"type": "boolean",
+					"default": false
+				},
+				"has_users": {
+					"type": "integer",
+					"minimum": 0,
+					"default": 0
+				},
+				"temporary": {
+					"type": "boolean",
+					"default": false
+				},
+				"outdoor": {
+					"type": "boolean",
+					"default": false
+				},
+				"single_biome": {
+					"type": "boolean",
+					"default": false
+				},
+				"require_walls": {
+					"type": "boolean",
+					"default": true
+				},
+				"require_floor": {
+					"type": "boolean",
+					"default": true
+				},
+				"require_grass": {
+					"type": "integer",
+					"minimum": 0,
+					"default": 0
+				},
+				"require_stone": {
+					"type": "boolean",
+					"default": true
+				},
+				"in_corridor": {
+					"type": "boolean",
+					"default": false
+				},
+				"remove_if_unused": {
+					"type": "boolean",
+					"default": false
+				},
+				"build_when_accessible": {
+					"type": "boolean",
+					"default": false
+				},
+				"placeholder": {
+					"type": "integer",
+					"minimum": 0
+				}
+			},
+			"additionalProperties": false
+		},
+		"furniture": {
+			"type": "object",
+			"title": "Furniture",
+			"description": "",
+			"properties": {
+				"type": {
+					"$ref": "enums.json#layout_type"
+				},
+				"construction": {
+					"$ref": "enums.json#construction_type",
+					"default": "Floor"
+				},
+				"dig": {
+					"$ref": "enums.json#tile_dig_designation",
+					"default": "Default"
+				},
+				"x": {
+					"type": "integer"
+				},
+				"y": {
+					"type": "integer"
+				},
+				"z": {
+					"type": "integer",
+					"default": 0
+				},
+				"target": {
+					"type": "integer",
+					"minimum": 0
+				},
+				"has_users": {
+					"type": "integer",
+					"minimum": 0,
+					"default": 0
+				},
+				"ignore": {
+					"type": "boolean",
+					"default": false
+				},
+				"makeroom": {
+					"type": "boolean",
+					"default": false
+				},
+				"internal": {
+					"type": "boolean",
+					"default": false
+				},
+				"stairs_special": {
+					"type": "boolean",
+					"default": false
+				},
+				"comment": {
+					"$ref": "shared.json#variable-string"
+				},
+				"placeholder": {
+					"type": "integer",
+					"minimum": 0
+				}
+			},
+			"additionalProperties": false
+		},
+		"not-template": {
+			"properties": {
+				"placeholder": {
+					"description": "Placeholder is only available in room templates, not room instances.",
+					"not": {}
+				}
+			}
+		},
+		"room-instance": {
+			"title": "Room Instance",
+			"description": "A room defined inside a room instance.",
+			"allOf": [
+				{ "$ref": "#/definitions/room" },
+				{ "$ref": "#/definitions/not-template" }
+			]
+		},
+		"furniture-instance": {
+			"title": "Furniture Instance",
+			"description": "Furniture defined inside a room instance.",
+			"allOf": [
+				{ "$ref": "#/definitions/furniture" },
+				{ "$ref": "#/definitions/not-template" }
+			]
+		},
+		"skip-placeholder": {
+			"type": "object",
+			"title": "Skip Placeholder",
+			"description": "This placeholder causes any room or furniture that references it to be ignored by the blueprint.",
+			"properties": {
+				"skip": {
+					"type": "boolean",
+					"enum": [true]
+				}
+			},
+			"required": [
+				"skip"
+			],
+			"additionalProperties": false
+		},
+		"room-placeholder": {
+			"title": "Room Placeholder",
+			"description": "A placeholder that fills properties for a room from the template.",
+			"oneOf": [
+				{ "$ref": "#/definitions/room-instance" },
+				{ "$ref": "#/definitions/skip-placeholder" }
+			]
+		},
+		"furniture-placeholder": {
+			"title": "Furniture Placeholder",
+			"description": "A placeholder that fills properties for furniture from the template.",
+			"oneOf": [
+				{ "$ref": "#/definitions/furniture-instance" },
+				{ "$ref": "#/definitions/skip-placeholder" }
+			]
+		}
+	},
+	"properties": {
+		"$schema": { "type": "string" },
+        "blacklist": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+		"p": {
+			"type": "array",
+			"title": "Instance Placeholders",
+			"description": "Placeholders defined by this instance.",
+			"items": {
+				"anyOf": [
+					{ "$ref": "#/definitions/room-placeholder" },
+					{ "$ref": "#/definitions/furniture-placeholder" }
+				]
+			}
+		},
+		"f": {
+			"type": "array",
+			"title": "Instance Furniture",
+			"description": "The furniture defined inside this instance.",
+			"items": {
+				"$ref": "#/definitions/furniture-instance"
+			}
+		},
+		"r": {
+			"type": "array",
+			"title": "Instance Rooms",
+			"description": "The rooms defined inside this instance.",
+			"items": {
+				"$ref": "#/definitions/room-instance"
+			},
+			"default": []
+		}
+	},
+	"additionalProperties": false
+}

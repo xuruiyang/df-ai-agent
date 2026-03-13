@@ -1,0 +1,17 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-instance.json",
+	"p": [
+		{
+			"type": "workshop",
+			"workshop_type": "Mechanics"
+		},
+		{
+			"stockpile_type": "stone",
+			"stock_disable": [
+				"StoneOres",
+				"StoneEconomic",
+				"StoneClay"
+			]
+		}
+	]
+}

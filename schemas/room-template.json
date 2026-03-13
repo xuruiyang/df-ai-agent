@@ -1,0 +1,27 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema",
+	"id": "https://ben.lubar.me/df-ai-schemas/room-template.json",
+	"type": "object",
+	"title": "Blueprint Room Template",
+	"description": "A room template.",
+	"properties": {
+		"$schema": { "type": "string" },
+		"f": {
+			"type": "array",
+			"title": "Template Furniture",
+			"description": "The furniture defined inside this template.",
+			"items": { "$ref": "room-instance.json#/definitions/furniture" }
+		},
+		"r": {
+			"type": "array",
+			"title": "Template Rooms",
+			"description": "The rooms defined inside this template.",
+			"minItems": 1,
+			"items": { "$ref": "room-instance.json#/definitions/room" }
+		}
+	},
+	"required": [
+		"r"
+	],
+	"additionalProperties": false
+}

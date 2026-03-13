@@ -1,0 +1,255 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema",
+	"id": "https://ben.lubar.me/df-ai-schemas/plan.json",
+	"type": "object",
+	"title": "Blueprint Plan",
+	"description": "A set of constraints used to generate a fortress.",
+	"properties": {
+		"$schema": { "type": "string" },
+		"max_retries": {
+			"type": "integer",
+			"title": "Maximum Retries",
+			"description": "The maximum number of times this plan can be restarted before the AI gives up and tries a different plan.",
+			"minimum": 0,
+			"exclusiveMinimum": true,
+			"default": 25
+		},
+		"max_failures": {
+			"type": "integer",
+			"title": "Maximum Failures",
+			"description": "The maximum number of consecutive room placement failures that can occur before the AI considers this plan failed.",
+			"minimum": 0,
+			"exclusiveMinimum": true,
+			"default": 100
+		},
+		"start": {
+			"title": "Start Room",
+			"description": "The room to place first as the fortress entrance. This room must be at least partially outside.",
+			"$ref": "shared.json#room-name-or-tag"
+		},
+		"padding_x": {
+			"title": "X-Axis Padding",
+			"description": "The number of tiles the west and east edges of the fortress entrance should be extended by to provide enough space for the body of the fortress.",
+			"$ref": "shared.json#padding"
+		},
+		"padding_y": {
+			"title": "Y-Axis Padding",
+			"description": "The number of tiles the north and south edges of the fortress entrance should be extended by to provide enough space for the body of the fortress.",
+			"$ref": "shared.json#padding"
+		},
+		"tags": {
+			"type": "object",
+			"title": "Room Tags",
+			"description": "A collection of tags that can be used in place of room names to refer to a set of rooms simultaneously.",
+			"additionalProperties": {
+				"type": "array",
+				"items": { "$ref": "shared.json#room-name" },
+				"uniqueItems": true
+			}
+		},
+		"outdoor": {
+			"type": "array",
+			"title": "Outdoor Rooms",
+			"description": "A set of rooms to place on the surface in random locations.",
+			"items": { "$ref": "shared.json#room-name-or-tag" },
+			"uniqueItems": true
+		},
+		"count_as": {
+			"type": "object",
+			"title": "Room Equivalency",
+			"description": "Count these rooms as multiple other rooms.",
+			"additionalProperties": {
+				"type": "object",
+				"description": "A mapping from room/template or room/template/instance to counts.",
+				"additionalProperties": {
+					"type": "integer",
+					"description": "A mapping from room names to the number of implicit copies of that room.",
+					"minimum": 1,
+					"minProperties": 1
+				},
+				"minProperties": 1
+			}
+		},
+		"limits": {
+			"type": "object",
+			"title": "Room Limits",
+			"description": "The lower and upper bounds on the number of each room that should appear in this plan.",
+			"additionalProperties": { "$ref": "shared.json#limit" }
+		},
+		"instance_limits": {
+			"type": "object",
+			"title": "Room Instance Limits",
+			"description": "The lower and upper bounds on the number of each room instance that should appear in this plan.",
+			"additionalProperties": {
+				"type": "object",
+				"additionalProperties": { "$ref": "shared.json#limit" },
+				"minProperties": 1
+			}
+		},
+		"variables": {
+			"type": "object",
+			"title": "Variables",
+			"description": "The default values for variables used in this plan.",
+			"additionalProperties": { "type": "string" }
+		},
+		"priorities": {
+			"type": "array",
+			"title": "Plan Priorities",
+			"description": "A list of tasks the AI will perform in order.",
+			"items": { "$ref": "plan-priority.json" }
+		},
+		"stock_goals": {
+			"type": "object",
+			"title": "Stock Goals",
+			"description": "Override the number of items of each type wanted by the AI.",
+			"properties": {
+				"ammo_combat": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"ammo_training": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"anvil": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"armor_feet": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"armor_hands": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"armor_head": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"armor_legs": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"armor_shield": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"armor_stand": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"armor_torso": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"ash": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"axe": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"backpack": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"bag": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"barrel": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"bed": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"bin": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"block": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"bone": { "$ref": "shared.json#stocks_goal_need_watch_or_track" },
+				"book_binding": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"bookcase": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"bucket": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"cabinet": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"cage": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"cage_metal": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"chair": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"chest": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"clothes_feet": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"clothes_hands": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"clothes_head": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"clothes_legs": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"clothes_torso": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"coal": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"coffin": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"crutch": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"die": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"door": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"drink": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"dye": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"dye_seeds": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"flask": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"floodgate": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"food_storage": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"goblet": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"gypsum": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"hatch_cover": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"hive": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"jug": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"lye": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"meal": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"mechanism": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"minecart": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"nest_box": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"offering_place": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"paper": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"pedestal": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"pick": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"pipe_section": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"plaster_powder": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"quern": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"quire": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"quiver": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"raw_coke": { "$ref": "shared.json#stocks_goal_need_watch_or_track" },
+				"rope": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"screw": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"slab": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"slurry": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"soap": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"splint": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"stepladder": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"table": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"thread_seeds": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"toy": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"traction_bench": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"weapon_melee": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"weapon_rack": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"weapon_ranged": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"wheelbarrow": { "$ref": "shared.json#stocks_goal_need_or_track" },
+				"wood": { "$ref": "shared.json#stocks_goal_need_or_track" },
+
+				"bag_plant": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"clay": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"cloth_nodye": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"drink_fruit": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"drink_plant": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"food_ingredients": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"goblinite": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"honey": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"honeycomb": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"metal_ore": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"metal_strand": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"milk": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"mill_plant": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"raw_fish": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"rough_gem": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"shell": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"skull": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"tallow": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"thread_plant": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"wool": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+				"written_on_quire": { "$ref": "shared.json#stocks_goal_watch_or_track" },
+
+				"cloth": { "$ref": "shared.json#stocks_goal_track_only" },
+				"dye_plant": { "$ref": "shared.json#stocks_goal_track_only" },
+				"leather": { "$ref": "shared.json#stocks_goal_track_only" },
+				"slurry_plant": { "$ref": "shared.json#stocks_goal_track_only" },
+				"statue": { "$ref": "shared.json#stocks_goal_track_only" },
+				"stone": { "$ref": "shared.json#stocks_goal_track_only" },
+				"thread": { "$ref": "shared.json#stocks_goal_track_only" }
+			},
+			"additionalProperties": false
+		},
+		"military_limit": {
+			"type": "array",
+			"title": "Military Limit",
+			"description": "Goal percentage of the population to be in the military (minimum/maximum).",
+			"minItems": 2,
+			"maxItems": 2,
+			"items": {
+				"type": "integer",
+				"minimum": 0,
+				"maximum": 100
+			},
+			"default": [25, 75]
+		}
+	},
+	"required": [
+		"start",
+		"priorities"
+	],
+	"anyOf": [
+		{
+			"properties": {
+				"limits": {
+					"minProperties": 1
+				}
+			},
+			"required": ["limits"]
+		},
+		{
+			"properties": {
+				"instance_limits": {
+					"minProperties": 1
+				}
+			},
+			"required": ["instance_limits"]
+		}
+	],
+	"additionalProperties": false
+}

@@ -1,0 +1,38 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-template.json",
+	"f": [
+		{
+			"type": "hatch",
+			"x": 5,
+			"y": 1,
+			"z": 0,
+			"dig": "DownStair",
+			"construction": "DownStair"
+		}
+	],
+	"r": [
+		{
+			"type": "outpost",
+			"outpost_type": "mining",
+			"min": [-3, -3, 0],
+			"max": [3, 3, 0],
+			"outdoor": true,
+			"layout": [0],
+			"exits": [
+				["generic01_mineshaft_segment", 3, 3, -1]
+			],
+			"comment": "mining outpost"
+		},
+		{
+			"type": "stockpile",
+			"stockpile_type": "stone",
+			"level": 4,
+			"min": [-3, -1, 0],
+			"max": [3, 3, 0],
+			"outdoor": true,
+			"in_corridor": true,
+			"build_when_accessible": true,
+			"accesspath": [0]
+		}
+	]
+}

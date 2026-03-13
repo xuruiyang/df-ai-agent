@@ -1,0 +1,32 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-instance.json",
+	"p": [
+		{
+			"type": "workshop",
+			"workshop_type": "Still"
+		},
+		{
+			"stockpile_type": "food",
+			"stock_disable": [
+				"FoodMeat",
+				"FoodFish",
+				"FoodUnpreparedFish",
+				"FoodEgg",
+				"FoodDrinkPlant",
+				"FoodDrinkAnimal",
+				"FoodCheesePlant",
+				"FoodCheeseAnimal",
+				"FoodSeeds",
+				"FoodMilledPlant",
+				"FoodBoneMeal",
+				"FoodFat",
+				"FoodPaste",
+				"FoodPressedMaterial",
+				"FoodExtractPlant",
+				"FoodExtractAnimal",
+				"FoodMiscLiquid"
+			],
+			"stock_specific1": true
+		}
+	]
+}

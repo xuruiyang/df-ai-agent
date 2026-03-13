@@ -1,0 +1,8 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-instance.json",
+	"p": [
+		{
+			"stockpile_type": "stone"
+		}
+	]
+}
