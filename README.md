@@ -4,7 +4,7 @@ An AI agent that plays Dwarf Fortress — not through hardcoded rules, but by ac
 
 ## Demo
 
-<video src="demo.mp4" width="800" controls></video>
+![Demo](demo.gif)
 
 ## What Makes This Different
 
