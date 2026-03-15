@@ -61,7 +61,10 @@
       "Bash(python3 df-agent/df_agent/bridge_cli.py get_map_area '{\"x\":101,\"y\":100,\"z\":178,\"w\":1,\"h\":1}' | python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); t=d['result']['tiles'][0][0]; print\\(t['shape'], t['material']\\)\")",
       "Bash(python3 df-agent/df_agent/bridge_cli.py run_dfhack_command '{\"command\":\"lua local b = dfhack.maps.getTileBlock\\(101,100,178\\); print\\(\\\\\"dig designation:\\\\\", b.designation[101%16][100%16].dig\\)\"}')",
       "Bash(python3 df-agent/df_agent/bridge_cli.py run_dfhack_command '{\"command\":\"check-dig\"}')",
-      "Bash(python3 df-agent/df_agent/bridge_cli.py run_dfhack_command '{\"command\":\"dig-now\"}')"
+      "Bash(python3 df-agent/df_agent/bridge_cli.py run_dfhack_command '{\"command\":\"dig-now\"}')",
+      "Bash(python3 df-agent/df_agent/bridge_cli.py assign_labor '{\"unit_id\":5089,\"labor\":\"BREW\",\"enable\":true}')",
+      "Bash(python3 df-agent/df_agent/bridge_cli.py assign_labor '{\"unit_id\":5090,\"labor\":\"CARPENTER\",\"enable\":true}')",
+      "Bash(python3 df-agent/df_agent/bridge_cli.py)"
     ]
   }
 }

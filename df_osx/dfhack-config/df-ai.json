@@ -1,0 +1,57 @@
+{
+	// true or false: should df-ai allow the game to be paused?
+	"allow_pause" : true,
+	// true or false: should the AI automatically follow dwarves it thinks are interesting?
+	"camera" : true,
+	// how many job cancellation notices to show. 0: none, 1: some, 2: most, 3: all
+	"cancel_announce" : 0,
+	// site finder options. -1 is "N/A", 0 is the first option, 1 is the second, and so on.
+	"embark_options" : 
+	{
+		"AquiferHeavy" : 0,
+		"AquiferLight" : 0,
+		"BottomlessPit" : -1,
+		"Chasm" : -1,
+		"Clay" : -1,
+		"DeepMetal" : -1,
+		"DimensionX" : 3,
+		"DimensionY" : 2,
+		"Drainage" : -1,
+		"Elevation" : -1,
+		"Evil" : -1,
+		"FluxStone" : -1,
+		"MagmaPipe" : -1,
+		"MagmaPool" : -1,
+		"OtherFeatures" : -1,
+		"Rain" : -1,
+		"River" : -1,
+		"Savagery" : 2,
+		"ShallowMetal" : -1,
+		"Soil" : -1,
+		"Temperature" : -1,
+		"UndergroundPool" : -1,
+		"UndergroundRiver" : -1
+	},
+	// true or false: should the AI hide the FPS meter when in a menu? (the FPS meter is always hidden in lockstep mode)
+	"fps_meter" : true,
+	// true or false: should the AI make Dwarf Fortress think it's running at 100 simulation ticks, 50 graphical frames per second? this option is most useful when recording as lag will not affect animation speeds in the CMV files. the game will not accept input if this is set to true. does not work in TEXT mode.
+	"lockstep" : false,
+	// the name of a DFHack plugin that manages labors, in quotes, or "" for no automated labor management. "autolabor" and "labormanager" are specifically supported.
+	"manage_labors" : "autolabor",
+	// true or false: should the AI assign administrators in the fortress?
+	"manage_nobles" : true,
+	// true or false: should the AI keep the game running after it loses?
+	"no_quit" : true,
+	// true or false: should the AI automatically pick an embark location?
+	"random_embark" : true,
+	// the name of the region to embark on, between quotes, or "" to generate a new world.
+	"random_embark_world" : "region1",
+	// true or false: should the AI automatically record CMV files while it plays?
+	"record_movie" : false,
+	// 0: pocket, 1: smaller, 2: small, 3: medium, 4: large
+	"world_size" : 1,
+	// true or false: should the AI say what it's thinking in the DFHack console?
+	"write_console" : true,
+	// true or false: should the AI say what it's thinking in df-ai.log?
+	"write_log" : true
+}

@@ -1,0 +1,933 @@
+?????-??-??:???? choosing "New World"
+?????-??-??:???? choosing "New World"
+?????-??-??:???? leaving world gen disclaimer
+?????-??-??:???? choosing "Generate World"
+00250-??-??:???? world gen finished, save name is region1
+00250-??-??:???? [ERROR] paused in unknown viewscreen viewscreen_game_cleanerst
+00250-01-01:0000 choosing "Start Game"
+00250-01-01:0000 choosing "Dwarf Fortress Mode"
+00250-01-01:0000 updating world, goal: 00250-01-15:0000
+00250-01-02:0000 updating world, goal: 00250-01-15:0000
+00250-01-03:0000 updating world, goal: 00250-01-15:0000
+00250-01-04:0000 updating world, goal: 00250-01-15:0000
+00250-01-05:0000 updating world, goal: 00250-01-15:0000
+00250-01-06:0000 updating world, goal: 00250-01-15:0000
+00250-01-07:0000 updating world, goal: 00250-01-15:0000
+00250-01-08:0000 updating world, goal: 00250-01-15:0000
+00250-01-09:0000 updating world, goal: 00250-01-15:0000
+00250-01-10:0000 updating world, goal: 00250-01-15:0000
+00250-01-11:0000 updating world, goal: 00250-01-15:0000
+00250-01-12:0000 updating world, goal: 00250-01-15:0000
+00250-01-13:0000 updating world, goal: 00250-01-15:0000
+00250-01-14:0000 updating world, goal: 00250-01-15:0000
+00250-01-15:0000 choosing "Site Finder"
+00250-01-15:0000 searching for a site (0/2, 1/2)
+00250-01-15:0000 searching for a site (0/2, 2/2)
+00250-01-15:0000 searching for a site (1/2, 0/2)
+00250-01-15:0000 searching for a site (1/2, 1/2)
+00250-01-15:0000 searching for a site (1/2, 2/2)
+00250-01-15:0000 searching for a site (2/2, 0/2)
+00250-01-15:0000 searching for a site (2/2, 1/2)
+00250-01-15:0000 searching for a site (2/2, 2/2)
+00250-01-15:0000 choosing "Embark"
+00250-01-15:0000 found sites count: 5
+00250-01-15:0000 choosing "Prepare Carefully"
+00250-01-15:0000 site is ready.
+00250-01-15:0000 disabling minimap.
+00250-01-15:0000 [Setup] Reading blueprints...
+00250-01-15:0000 [Setup] There are 0 blueprint plans.
+00250-01-15:0000 [Setup] Failed to build blueprint.
+00250-01-15:0010 [ERROR] AI can't getbedroom(5085)
+00250-01-15:0010 [ERROR] AI can't getbedroom(5086)
+00250-01-15:0010 [ERROR] AI can't getbedroom(5087)
+00250-01-15:0010 [ERROR] AI can't getbedroom(5088)
+00250-01-15:0010 [ERROR] AI can't getbedroom(5089)
+00250-01-15:0010 [ERROR] AI can't getbedroom(5090)
+00250-01-15:0010 [ERROR] AI can't getbedroom(5091)
+?????-??-??:???? choosing "Start Game"
+?????-??-??:???? choosing "Dwarf Fortress Mode"
+00250-01-01:0000 updating world, goal: 00250-01-15:0000
+00250-01-02:0000 updating world, goal: 00250-01-15:0000
+00250-01-03:0000 updating world, goal: 00250-01-15:0000
+00250-01-04:0000 updating world, goal: 00250-01-15:0000
+00250-01-05:0000 updating world, goal: 00250-01-15:0000
+00250-01-06:0000 updating world, goal: 00250-01-15:0000
+00250-01-07:0000 updating world, goal: 00250-01-15:0000
+00250-01-08:0000 updating world, goal: 00250-01-15:0000
+00250-01-09:0000 updating world, goal: 00250-01-15:0000
+00250-01-10:0000 updating world, goal: 00250-01-15:0000
+00250-01-11:0000 updating world, goal: 00250-01-15:0000
+00250-01-12:0000 updating world, goal: 00250-01-15:0000
+00250-01-13:0000 updating world, goal: 00250-01-15:0000
+00250-01-14:0000 updating world, goal: 00250-01-15:0000
+00250-01-15:0000 choosing "Site Finder"
+00250-01-15:0000 searching for a site (0/2, 1/2)
+00250-01-15:0000 searching for a site (0/2, 2/2)
+00250-01-15:0000 searching for a site (1/2, 0/2)
+00250-01-15:0000 searching for a site (1/2, 1/2)
+00250-01-15:0000 searching for a site (1/2, 2/2)
+00250-01-15:0000 searching for a site (2/2, 0/2)
+00250-01-15:0000 searching for a site (2/2, 1/2)
+00250-01-15:0000 searching for a site (2/2, 2/2)
+00250-01-15:0000 choosing "Embark"
+00250-01-15:0000 found sites count: 5
+00250-01-15:0000 choosing "Prepare Carefully"
+00250-01-15:0000 site is ready.
+00250-01-15:0000 disabling minimap.
+00250-01-15:0000 [Setup] Reading blueprints...
+00250-01-15:0000 [Setup] There are 1 blueprint plans.
+00250-01-15:0000 [Setup] Trying plan 1: generic01 (attempt 1 of 25)
+00250-01-15:0000 [Setup] Creating outdoor gathering zones...
+00250-01-15:0000 [Setup] Searching for caverns...
+00250-01-15:0000 outpost: searching z-level 136
+00250-01-15:0000 outpost: searching z-level 135
+00250-01-15:0000 outpost: searching z-level 134
+00250-01-15:0000 outpost: searching z-level 133
+00250-01-15:0000 outpost: searching z-level 132
+00250-01-15:0000 outpost: searching z-level 131
+00250-01-15:0000 outpost: searching z-level 130
+00250-01-15:0000 outpost: searching z-level 129
+00250-01-15:0000 outpost: searching z-level 128
+00250-01-15:0000 outpost: searching z-level 127
+00250-01-15:0000 outpost: searching z-level 126
+00250-01-15:0000 outpost: searching z-level 125
+00250-01-15:0000 outpost: searching z-level 124
+00250-01-15:0000 outpost: searching z-level 123
+00250-01-15:0000 outpost: searching z-level 122
+00250-01-15:0000 outpost: searching z-level 121
+00250-01-15:0000 outpost: searching z-level 120
+00250-01-15:0000 outpost: searching z-level 119
+00250-01-15:0000 outpost: searching z-level 118
+00250-01-15:0000 outpost: searching z-level 117
+00250-01-15:0000 outpost: searching z-level 116
+00250-01-15:0000 outpost: searching z-level 115
+00250-01-15:0000 outpost: searching z-level 114
+00250-01-15:0000 outpost: searching z-level 113
+00250-01-15:0000 outpost: searching z-level 112
+00250-01-15:0000 outpost: searching z-level 111
+00250-01-15:0000 outpost: searching z-level 110
+00250-01-15:0000 outpost: searching z-level 109
+00250-01-15:0000 outpost: searching z-level 108
+00250-01-15:0000 outpost: searching z-level 107
+00250-01-15:0000 outpost: searching z-level 106
+00250-01-15:0000 outpost: searching z-level 105
+00250-01-15:0000 outpost: searching z-level 104
+00250-01-15:0000 outpost: searching z-level 103
+00250-01-15:0000 outpost: searching z-level 102
+00250-01-15:0000 outpost: searching z-level 101
+00250-01-15:0000 outpost: searching z-level 100
+00250-01-15:0000 outpost: searching z-level 99
+00250-01-15:0000 outpost: searching z-level 98
+00250-01-15:0000 outpost: searching z-level 97
+00250-01-15:0000 outpost: searching z-level 96
+00250-01-15:0000 outpost: searching z-level 95
+00250-01-15:0000 outpost: searching z-level 94
+00250-01-15:0000 outpost: searching z-level 93
+00250-01-15:0000 outpost: searching z-level 92
+00250-01-15:0000 outpost: searching z-level 91
+00250-01-15:0000 outpost: searching z-level 90
+00250-01-15:0000 outpost: searching z-level 89
+00250-01-15:0000 outpost: searching z-level 88
+00250-01-15:0000 outpost: searching z-level 87
+00250-01-15:0000 outpost: searching z-level 86
+00250-01-15:0000 outpost: searching z-level 85
+00250-01-15:0000 outpost: searching z-level 84
+00250-01-15:0000 outpost: searching z-level 83
+00250-01-15:0000 outpost: searching z-level 82
+00250-01-15:0000 outpost: searching z-level 81
+00250-01-15:0000 outpost: searching z-level 80
+00250-01-15:0000 outpost: searching z-level 79
+00250-01-15:0000 outpost: searching z-level 78
+00250-01-15:0000 outpost: searching z-level 77
+00250-01-15:0000 outpost: searching z-level 76
+00250-01-15:0000 outpost: searching z-level 75
+00250-01-15:0000 outpost: searching z-level 74
+00250-01-15:0000 outpost: searching z-level 73
+00250-01-15:0000 outpost: searching z-level 72
+00250-01-15:0000 outpost: searching z-level 71
+00250-01-15:0000 outpost: searching z-level 70
+00250-01-15:0000 outpost: searching z-level 69
+00250-01-15:0000 outpost: searching z-level 68
+00250-01-15:0000 outpost: searching z-level 67
+00250-01-15:0000 outpost: searching z-level 66
+00250-01-15:0000 outpost: searching z-level 65
+00250-01-15:0000 outpost: wall (111, 73, 65)
+00250-01-15:0000 outpost: target (113, 75, 65)
+00250-01-15:0000 outpost: up (111, 73, 105)
+00250-01-15:0000 [Setup] Searching for mineral veins...
+00250-01-15:0000 [Setup] Finding areas that need access tunnels...
+00250-01-15:0000 [Setup] Planning complete!
+00250-01-15:0010 wantdig farmplot (food) (0 users) (plan)
+00250-01-15:0010 wantdig farmplot (cloth) (0 users) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Kogan Mengcatten, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Kikrost Ninurkûbuk, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Momuz Keskalashok, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Zon èzumkoman, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Datan Olineshtân, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Rigòth Litastidos, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Logem Astnakas, expedition leader) (plan)
+00250-01-15:0022 digroom stockpile (food) (level 1) (plan)
+00250-01-15:0022 digroom corridor (staircase) (plan)
+00250-01-15:0022 digroom corridor (fort entrance) (plan)
+00250-01-15:0022 plan fixup_open corridor (fort entrance) (dig) Floor(6, 0, 0) Sapling
+00250-01-15:0022 plan fixup_open corridor (fort entrance) (dig) Floor(6, 4, 0) Sapling
+00250-01-15:0022 digroom workshop (Carpenters) (level 1) (plan)
+00250-01-15:0022 digroom stockpile (wood) (workshop (Carpenters) (level 1) (dig)) (plan)
+00250-01-15:0022 digroom workshop (Masons) (level 1) (plan)
+00250-01-15:0022 digroom stockpile (stone) (workshop (Masons) (level 1) (dig)) (plan)
+00250-01-15:0036 Appointing Momuz Keskalashok, Peasant as position manager
+00250-01-15:0037 Appointing Datan Olineshtân, Peasant as position bookkeeper
+00250-01-15:0038 Appointing Kikrost Ninurkûbuk, Peasant as position broker
+00250-01-15:0110 digroom pasture (plan)
+00250-01-15:0150 need 40 more food
+00250-01-15:0151 add_manager_order(1) Construct rock Armor Stand
+00250-01-15:0152 add_manager_order(1) Make rock Book Binding
+00250-01-15:0153 add_manager_order(3) Make rock Bookcase
+00250-01-15:0154 add_manager_order(6) Construct rock Cabinet
+00250-01-15:0155 add_manager_order(4) Construct rock Throne
+00250-01-15:0156 add_manager_order(6) Construct rock Coffer
+00250-01-15:0157 add_manager_order(18) Make Charcoal
+00250-01-15:0158 add_manager_order(3) Construct rock Coffin
+00250-01-15:0159 add_manager_order(4) Make rock Die
+00250-01-15:0160 add_manager_order(6) Construct rock Door
+00250-01-15:0161 add_manager_order(8) Make rock Pot
+00250-01-15:0162 add_manager_order(5) Construct cloth Bag
+00250-01-15:0163 add_manager_order(1) Construct rock Floodgate
+00250-01-15:0164 add_manager_order(15) Make rock Mug
+00250-01-15:0165 add_manager_order(3) Construct rock Hatch Cover
+00250-01-15:0166 add_manager_order(1) Make rock Hive
+00250-01-15:0167 add_manager_order(1) Make rock Jug
+00250-01-15:0168 add_manager_order(6) Construct rock Mechanisms
+00250-01-15:0169 add_manager_order(1) Make rock Nest Box
+00250-01-15:0170 add_manager_order(1) Make rock Altar
+00250-01-15:0171 add_manager_order(1) Make rock Pedestal
+00250-01-15:0172 add_manager_order(4) Construct rock Quern
+00250-01-15:0173 add_manager_order(1) Construct rock Slab
+00250-01-15:0174 add_manager_order(4) Construct rock Table
+00250-01-15:0175 add_manager_order(3) Make rock Toy
+00250-01-15:0176 add_manager_order(1) Construct rock Weapon Rack
+00250-01-15:0177 add_manager_order(2) Make wooden crossbow
+00250-01-15:0178 add_manager_order(1) Prepare Lavish Meal
+00250-01-15:0304 wantdig nobleroom (office) (required value 1) (owned by Momuz Keskalashok, manager) (noble suite 1) (plan)
+00250-01-15:0304 wantdig nobleroom (office) (required value 1) (owned by Datan Olineshtân, bookkeeper) (noble suite 0) (plan)
+00250-01-15:0627 plan setup_outdoor_gathering_zones finished
+00250-01-15:0759 construct pasture (dug)
+00250-01-15:0879 digroom pasture (plan)
+00250-01-15:0994 construct corridor (fort entrance) (dug)
+00250-01-16:0033 construct corridor (staircase) (dug)
+00250-01-16:0148 add_manager_order(1) Make Ash
+00250-01-16:0149 add_manager_order(6) Construct Bed
+00250-01-16:0150 add_manager_order(1) Mill Plants
+00250-01-16:0151 add_manager_order(8) Make Ash
+00250-01-16:0519 construct pasture (dug)
+00250-01-16:0679 digroom pasture (plan)
+00250-01-16:0753 construct workshop (Carpenters) (level 1) (dug)
+00250-01-16:0754 construct stockpile (wood) (workshop (Carpenters) (level 1) (dug)) (dug)
+00250-01-16:0992 construct stockpile (food) (level 1) (dug)
+00250-01-16:0993 construct workshop (Masons) (level 1) (dug)
+00250-01-16:0994 construct stockpile (stone) (workshop (Masons) (level 1) (dug)) (dug)
+00250-01-16:0995 digroom nobleroom (office) (required value 1) (owned by Momuz Keskalashok, manager) (noble suite 1) (plan)
+00250-01-16:0996 digroom nobleroom (office) (required value 1) (owned by Datan Olineshtân, bookkeeper) (noble suite 0) (plan)
+00250-01-16:1011 digroom farmplot (food) (7 users) (plan)
+00250-01-16:1011 digroom stockpile (food) (seeds) (farmplot (food) (7 users) (dig)) (plan)
+00250-01-16:1011 digroom corridor (plan)
+00250-01-16:1011 digroom corridor (staircase) (plan)
+00250-01-16:1011 digroom corridor (plan)
+00250-01-16:1011 digroom corridor (staircase) (plan)
+00250-01-16:1011 digroom corridor (plan)
+00250-01-16:1011 digroom corridor (staircase) (plan)
+00250-01-16:1011 digroom corridor (staircase) (plan)
+00250-01-16:1011 digroom pond (irrigation) (farmplot (food) (7 users) (dig)) (plan)
+00250-01-16:1011 digroom farmplot (cloth) (7 users) (plan)
+00250-01-16:1011 digroom stockpile (food) (seeds) (farmplot (cloth) (7 users) (dig)) (plan)
+00250-01-16:1011 digroom corridor (plan)
+00250-01-16:1011 digroom corridor (staircase) (plan)
+00250-01-16:1011 digroom corridor (staircase) (plan)
+00250-01-16:1011 digroom corridor (staircase) (plan)
+00250-01-16:1011 digroom pond (irrigation) (farmplot (cloth) (7 users) (dig)) (plan)
+00250-01-16:1011 wantdig garbagedump (plan)
+00250-01-16:1011 wantdig tradedepot (plan)
+00250-01-17:0748 queueing 4 chairs directly at workshop (Masons) (level 1) (dug)
+00250-01-18:0032 construct pasture (dug)
+00250-01-18:0281 digroom pasture (plan)
+00250-01-18:0513 construct nobleroom (office) (required value 1) (owned by Datan Olineshtân, bookkeeper) (noble suite 0) (dug)
+00250-01-18:0522 construct corridor (staircase) (dug)
+00250-01-19:0032 construct nobleroom (office) (required value 1) (owned by Momuz Keskalashok, manager) (noble suite 1) (dug)
+00250-01-19:0748 add_manager_order(3) Construct rock Blocks
+00250-01-19:1006 construct corridor (staircase) (dug)
+00250-01-20:0039 construct corridor (staircase) (dug)
+00250-01-20:0524 construct corridor (staircase) (dug)
+00250-01-20:0528 construct pasture (dug)
+00250-01-20:0632 digroom pasture (plan)
+00250-01-21:0043 construct corridor (staircase) (dug)
+00250-01-22:0036 construct corridor (dug)
+00250-01-22:0748 add_manager_order(4) Make wooden bolts
+00250-01-22:0749 add_manager_order(6) Make wooden Barrel
+00250-01-22:0750 add_manager_order(6) Construct wooden Bin
+00250-01-22:0751 add_manager_order(4) Make wooden Cage
+00250-01-22:0753 add_manager_order(30) Make wooden Crafts
+00250-01-22:0754 add_manager_order(1) Make wooden Minecart
+00250-01-22:0755 add_manager_order(1) Make wooden Pipe Section
+00250-01-22:0756 add_manager_order(1) Make enormous wooden corkscrew
+00250-01-22:0757 add_manager_order(2) Make wooden Stepladder
+00250-01-22:0758 add_manager_order(1) Make wooden Wheelbarrow
+00250-01-23:0518 construct pond (irrigation) (farmplot (food) (7 users) (dig)) (dug)
+00250-01-23:0522 construct pond (irrigation) (farmplot (cloth) (7 users) (dig)) (dug)
+00250-01-23:0761 construct corridor (dug)
+00250-01-23:0766 construct pasture (dug)
+00250-01-23:0784 digroom pasture (plan)
+00250-01-24:0033 construct stockpile (food) (seeds) (farmplot (food) (7 users) (dig)) (dug)
+00250-01-24:0272 construct farmplot (food) (7 users) (dug)
+00250-01-24:0293 wantdig releasecage (plan)
+00250-01-24:0749 add_manager_order(1) Brew drink from plant
+00250-01-24:0754 construct corridor (dug)
+00250-01-24:0758 construct farmplot (cloth) (7 users) (dug)
+00250-01-24:0785 construct corridor (staircase) (dug)
+00250-01-24:0992 construct corridor (staircase) (dug)
+00250-01-24:1017 construct stockpile (food) (seeds) (farmplot (cloth) (7 users) (dug)) (dug)
+00250-01-24:1032 wantdig infirmary (plan)
+00250-01-24:1042 construct corridor (dug)
+00250-01-24:1043 digroom garbagedump (plan)
+00250-01-24:1043 digroom corridor (garbage pit) (plan)
+00250-01-24:1043 digroom corridor (garbage pit (underground)) (plan)
+00250-01-24:1044 digroom tradedepot (plan)
+00250-01-24:1044 plan fixup_open tradedepot (dig) Floor(2, 0, 0) Sapling
+00250-01-24:1044 digroom corridor (trade depot - surrounding area) (plan)
+00250-01-24:1044 plan fixup_open corridor (trade depot - surrounding area) (dig) Floor(4, 2, 0) Sapling
+00250-01-24:1044 plan fixup_open corridor (trade depot - surrounding area) (dig) Floor(8, 0, 0) Sapling
+00250-01-24:1049 digroom releasecage (plan)
+00250-01-24:1052 digroom infirmary (plan)
+00250-01-24:1052 digroom corridor (plan)
+00250-01-24:1052 digroom corridor (staircase) (plan)
+00250-01-24:1052 digroom corridor (staircase) (plan)
+00250-01-24:1052 digroom corridor (plan)
+00250-01-24:1052 digroom corridor (plan)
+00250-01-24:1053 construct garbagedump (dug)
+00250-01-24:1070 wantdig workshop (Mechanics) (level 1) (plan)
+00250-01-24:1073 digroom bedroom (owned by Kogan Mengcatten, Herbalist) (plan)
+00250-01-24:1073 digroom corridor (plan)
+00250-01-24:1074 digroom bedroom (owned by Kikrost Ninurkûbuk, broker) (plan)
+00250-01-24:1075 digroom bedroom (owned by Momuz Keskalashok, manager) (plan)
+00250-01-24:1097 digroom workshop (Mechanics) (level 1) (plan)
+00250-01-24:1097 digroom stockpile (stone) (workshop (Mechanics) (level 1) (dig)) (plan)
+00250-01-24:1103 construct stockpile (stone) (workshop (Mechanics) (level 1) (dig)) (dug)
+00250-01-24:1109 wantdig workshop (Still) (level 1) (plan)
+00250-01-25:0063 Appointing Rigòth Litastidos, Peasant as position chief medical dwarf
+00250-01-25:0269 construct pasture (dug)
+00250-01-25:0387 digroom pasture (plan)
+00250-01-25:0528 construct pasture (dug)
+00250-01-25:0637 digroom pasture (plan)
+00250-01-25:0769 construct pasture (dug)
+00250-01-25:0887 digroom pasture (plan)
+00250-01-26:0031 construct corridor (garbage pit) (dug)
+00250-01-26:0032 construct corridor (garbage pit (underground)) (dug)
+00250-01-26:0271 construct tradedepot (dug)
+00250-01-26:0272 construct corridor (trade depot - surrounding area) (dug)
+00250-01-27:0284 construct pasture (dug)
+00250-01-27:0488 digroom pasture (plan)
+00250-01-28:0262 furnish chair (main) (1, 1, 0) in nobleroom (office) (required value 1) (owned by Momuz Keskalashok, manager) (noble suite 1)
+00250-01-28:1032 makeroom nobleroom (office) (value 10 / 1) (owned by Momuz Keskalashok, manager) (noble suite 1)
+00250-02-01:0510 construct releasecage (dug)
+00250-02-01:0743 furnish chair (main) (1, 1, 0) in nobleroom (office) (required value 1) (owned by Datan Olineshtân, bookkeeper) (noble suite 0)
+00250-02-02:0551 makeroom nobleroom (office) (value 10 / 1) (owned by Datan Olineshtân, bookkeeper) (noble suite 0)
+00250-02-02:0754 construct corridor (dug)
+00250-02-02:0756 construct corridor (dug)
+00250-02-02:0789 furnish bed (main) (0, 0, 0) in bedroom (owned by Momuz Keskalashok, manager) (dig)
+00250-02-02:0996 construct bedroom (owned by Momuz Keskalashok, manager) (dug)
+00250-02-02:1005 digroom bedroom (owned by Zon èzumkoman, Miner) (plan)
+00250-02-02:1027 furnish bed (main) (0, 0, 0) in bedroom (owned by Kikrost Ninurkûbuk, broker) (dig)
+00250-02-03:0065 furnish bed (main) (0, 0, 0) in bedroom (owned by Kogan Mengcatten, Herbalist) (dig)
+00250-02-03:0148 add_manager_order(5) Mill Plants
+00250-02-03:0271 construct bedroom (owned by Kogan Mengcatten, Herbalist) (dug)
+00250-02-03:0272 construct bedroom (owned by Kikrost Ninurkûbuk, broker) (dug)
+00250-02-03:0282 digroom bedroom (owned by Datan Olineshtân, bookkeeper) (plan)
+00250-02-03:0283 digroom bedroom (owned by Rigòth Litastidos, chief medical dwarf) (plan)
+00250-02-03:0283 digroom corridor (plan)
+00250-02-03:0549 furnish bed (main) (0, 0, 0) in bedroom (owned by Zon èzumkoman, Miner) (dig)
+00250-02-03:0754 construct bedroom (owned by Zon èzumkoman, Miner) (dug)
+00250-02-03:0761 digroom bedroom (owned by Logem Astnakas, expedition leader) (plan)
+00250-02-04:0551 makeroom bedroom (owned by Kogan Mengcatten, Herbalist)
+00250-02-04:0994 construct corridor (dug)
+00250-02-04:0997 wantdig corridor (nest box) (plan)
+00250-02-04:0997 wantdig corridor (nest box) (plan)
+00250-02-04:1011 digroom corridor (nest box) (plan)
+00250-02-04:1012 digroom corridor (nest box) (plan)
+00250-02-04:1013 construct corridor (nest box) (dug)
+00250-02-04:1014 construct corridor (nest box) (dug)
+00250-02-04:1030 makeroom bedroom (owned by Kikrost Ninurkûbuk, broker)
+00250-02-04:1038 furnish bed (main) (0, 0, 0) in bedroom (owned by Logem Astnakas, expedition leader) (dig)
+00250-02-05:0034 construct bedroom (owned by Logem Astnakas, expedition leader) (dug)
+00250-02-05:0148 add_manager_order(5) Construct Bed
+00250-02-05:0149 add_manager_order(5) Prepare Lavish Meal
+00250-02-05:0273 construct bedroom (owned by Rigòth Litastidos, chief medical dwarf) (dug)
+00250-02-05:0305 makeroom bedroom (owned by Momuz Keskalashok, manager)
+00250-02-05:0313 makeroom bedroom (owned by Zon èzumkoman, Miner)
+00250-02-05:0512 construct bedroom (owned by Datan Olineshtân, bookkeeper) (dug)
+00250-02-05:0788 makeroom bedroom (owned by Logem Astnakas, expedition leader)
+00250-02-07:0025 construct corridor (staircase) (dug)
+00250-02-07:0026 construct corridor (staircase) (dug)
+00250-02-07:0266 construct workshop (Mechanics) (level 1) (dug)
+00250-02-07:0278 digroom workshop (Still) (level 1) (plan)
+00250-02-07:0278 digroom stockpile (food) (workshop (Still) (level 1) (dig)) (plan)
+00250-02-07:0278 digroom corridor (plan)
+00250-02-07:0502 wantdig stockpile (food) (level 1) (plan)
+00250-02-07:0504 construct corridor (dug)
+00250-02-07:0505 construct corridor (dug)
+00250-02-07:0996 furnish bed (north-east) (2, 1, 0) in infirmary (dig)
+00250-02-10:0747 construct stockpile (food) (workshop (Still) (level 1) (dig)) (dug)
+00250-02-11:0027 construct corridor (dug)
+00250-02-11:0266 construct workshop (Still) (level 1) (dug)
+00250-02-11:0276 digroom stockpile (food) (level 1) (plan)
+00250-02-11:0276 digroom corridor (plan)
+00250-02-11:0276 digroom corridor (staircase) (plan)
+00250-02-11:0276 digroom corridor (staircase) (plan)
+00250-02-11:0502 wantdig workshop (Kitchen) (level 1) (plan)
+00250-02-12:0023 construct infirmary (dug)
+00250-02-12:0045 digroom workshop (Kitchen) (level 1) (plan)
+00250-02-12:0045 digroom stockpile (food) (workshop (Kitchen) (level 1) (dig)) (plan)
+00250-02-12:0045 digroom corridor (plan)
+00250-02-12:0262 wantdig outpost (mining) (mining outpost) (plan)
+00250-02-12:0271 furnish lever (1, 1, 0) in releasecage
+00250-02-12:0273 digroom outpost (mining) (mining outpost) (plan)
+00250-02-12:0273 plan fixup_open outpost (mining) (mining outpost) (dig) Floor(1, 5, 0) Sapling
+00250-02-12:0273 plan fixup_open outpost (mining) (mining outpost) (dig) Floor(5, 5, 0) Sapling
+00250-02-12:0502 wantdig location (tavern) (well) (plan)
+00250-02-13:0313 furnish cage_trap (3, 1, 0) in corridor (fort entrance)
+00250-02-13:0513 furnish bed (north-west) (0, 1, 0) in infirmary
+00250-02-14:0021 wantdig workshop ("SCREW_PRESS") (plan)
+00250-02-14:0035 digroom workshop ("SCREW_PRESS") (plan)
+00250-02-14:0036 construct workshop ("SCREW_PRESS") (dug)
+00250-02-14:0039 wantdig workshop ("SCREW_PRESS") (plan)
+00250-02-14:0039 wantdig corridor (nest box) (plan)
+00250-02-14:0039 wantdig workshop (Quern) (plan)
+00250-02-14:0054 digroom workshop ("SCREW_PRESS") (plan)
+00250-02-14:0055 digroom corridor (nest box) (plan)
+00250-02-14:0056 digroom workshop (Quern) (plan)
+00250-02-14:0057 construct workshop ("SCREW_PRESS") (dug)
+00250-02-14:0058 construct corridor (nest box) (dug)
+00250-02-14:0059 construct workshop (Quern) (dug)
+00250-02-14:0271 construct stockpile (food) (workshop (Kitchen) (level 1) (dig)) (dug)
+00250-02-14:0311 furnish cage_trap (3, 5, 0) in corridor (fort entrance)
+00250-02-14:0749 construct workshop (Kitchen) (level 1) (dug)
+00250-02-14:0769 digroom location (tavern) (well) (plan)
+00250-02-14:0769 digroom corridor (plan)
+00250-02-14:0769 digroom cistern (well) (location (tavern) (well) (dig)) (plan)
+00250-02-14:0769 digroom cistern (reserve) (location (tavern) (well) (dig)) (plan)
+00250-02-14:0769 digroom stockpile (food) (tavern - booze stockpile) (location (tavern) (well) (dig)) (plan)
+00250-02-14:0982 wantdig workshop (Craftsdwarfs) (level 1) (plan)
+00250-02-14:0989 construct corridor (dug)
+?????-??-??:???? choosing "Start Game"
+?????-??-??:???? choosing "Dwarf Fortress Mode"
+00250-01-01:0000 updating world, goal: 00250-01-15:0000
+00250-01-02:0000 updating world, goal: 00250-01-15:0000
+00250-01-03:0000 updating world, goal: 00250-01-15:0000
+00250-01-04:0000 updating world, goal: 00250-01-15:0000
+00250-01-05:0000 updating world, goal: 00250-01-15:0000
+00250-01-06:0000 updating world, goal: 00250-01-15:0000
+00250-01-07:0000 updating world, goal: 00250-01-15:0000
+00250-01-08:0000 updating world, goal: 00250-01-15:0000
+00250-01-09:0000 updating world, goal: 00250-01-15:0000
+00250-01-10:0000 updating world, goal: 00250-01-15:0000
+00250-01-11:0000 updating world, goal: 00250-01-15:0000
+00250-01-12:0000 updating world, goal: 00250-01-15:0000
+00250-01-13:0000 updating world, goal: 00250-01-15:0000
+00250-01-14:0000 updating world, goal: 00250-01-15:0000
+00250-01-15:0000 choosing "Site Finder"
+00250-01-15:0000 searching for a site (0/2, 1/2)
+00250-01-15:0000 searching for a site (0/2, 2/2)
+00250-01-15:0000 searching for a site (1/2, 0/2)
+00250-01-15:0000 searching for a site (1/2, 1/2)
+00250-01-15:0000 searching for a site (1/2, 2/2)
+00250-01-15:0000 searching for a site (2/2, 0/2)
+00250-01-15:0000 searching for a site (2/2, 1/2)
+00250-01-15:0000 searching for a site (2/2, 2/2)
+00250-01-15:0000 choosing "Embark"
+00250-01-15:0000 found sites count: 5
+00250-01-15:0000 choosing "Site Finder"
+00250-01-15:0000 searching for a site (0/2, 1/2)
+00250-01-15:0000 searching for a site (0/2, 2/2)
+00250-01-15:0000 searching for a site (1/2, 0/2)
+00250-01-15:0000 searching for a site (1/2, 1/2)
+00250-01-15:0000 searching for a site (1/2, 2/2)
+00250-01-15:0000 searching for a site (2/2, 0/2)
+00250-01-15:0000 searching for a site (2/2, 1/2)
+00250-01-15:0000 searching for a site (2/2, 2/2)
+00250-01-15:0000 choosing "Embark"
+00250-01-15:0000 found sites count: 5
+00250-01-15:0000 choosing "Prepare Carefully"
+00250-01-15:0000 site is ready.
+00250-01-15:0000 disabling minimap.
+00250-01-15:0000 [Setup] Reading blueprints...
+00250-01-15:0000 [Setup] There are 1 blueprint plans.
+00250-01-15:0000 [Setup] Trying plan 1: generic01 (attempt 1 of 25)
+00250-01-15:0000 [Setup] Creating outdoor gathering zones...
+00250-01-15:0000 [Setup] Searching for caverns...
+00250-01-15:0000 outpost: searching z-level 133
+00250-01-15:0000 outpost: searching z-level 132
+00250-01-15:0000 outpost: searching z-level 131
+00250-01-15:0000 outpost: searching z-level 130
+00250-01-15:0000 outpost: searching z-level 129
+00250-01-15:0000 outpost: searching z-level 128
+00250-01-15:0000 outpost: searching z-level 127
+00250-01-15:0000 outpost: searching z-level 126
+00250-01-15:0000 outpost: searching z-level 125
+00250-01-15:0000 outpost: searching z-level 124
+00250-01-15:0000 outpost: searching z-level 123
+00250-01-15:0000 outpost: searching z-level 122
+00250-01-15:0000 outpost: searching z-level 121
+00250-01-15:0000 outpost: searching z-level 120
+00250-01-15:0000 outpost: searching z-level 119
+00250-01-15:0000 outpost: searching z-level 118
+00250-01-15:0000 outpost: searching z-level 117
+00250-01-15:0000 outpost: searching z-level 116
+00250-01-15:0000 outpost: searching z-level 115
+00250-01-15:0000 outpost: searching z-level 114
+00250-01-15:0000 outpost: searching z-level 113
+00250-01-15:0000 outpost: searching z-level 112
+00250-01-15:0000 outpost: searching z-level 111
+00250-01-15:0000 outpost: searching z-level 110
+00250-01-15:0000 outpost: searching z-level 109
+00250-01-15:0000 outpost: searching z-level 108
+00250-01-15:0000 outpost: searching z-level 107
+00250-01-15:0000 outpost: searching z-level 106
+00250-01-15:0000 outpost: searching z-level 105
+00250-01-15:0000 outpost: searching z-level 104
+00250-01-15:0000 outpost: searching z-level 103
+00250-01-15:0000 outpost: searching z-level 102
+00250-01-15:0000 outpost: searching z-level 101
+00250-01-15:0000 outpost: searching z-level 100
+00250-01-15:0000 outpost: searching z-level 99
+00250-01-15:0000 outpost: searching z-level 98
+00250-01-15:0000 outpost: searching z-level 97
+00250-01-15:0000 outpost: searching z-level 96
+00250-01-15:0000 outpost: searching z-level 95
+00250-01-15:0000 outpost: searching z-level 94
+00250-01-15:0000 outpost: searching z-level 93
+00250-01-15:0000 outpost: searching z-level 92
+00250-01-15:0000 outpost: searching z-level 91
+00250-01-15:0000 outpost: searching z-level 90
+00250-01-15:0000 outpost: searching z-level 89
+00250-01-15:0000 outpost: searching z-level 88
+00250-01-15:0000 outpost: searching z-level 87
+00250-01-15:0000 outpost: searching z-level 86
+00250-01-15:0000 outpost: searching z-level 85
+00250-01-15:0000 outpost: searching z-level 84
+00250-01-15:0000 outpost: searching z-level 83
+00250-01-15:0000 outpost: searching z-level 82
+00250-01-15:0000 outpost: searching z-level 81
+00250-01-15:0000 outpost: searching z-level 80
+00250-01-15:0000 outpost: searching z-level 79
+00250-01-15:0000 outpost: searching z-level 78
+00250-01-15:0000 outpost: searching z-level 77
+00250-01-15:0000 outpost: searching z-level 76
+00250-01-15:0000 outpost: searching z-level 75
+00250-01-15:0000 outpost: searching z-level 74
+00250-01-15:0000 outpost: searching z-level 73
+00250-01-15:0000 outpost: searching z-level 72
+00250-01-15:0000 outpost: searching z-level 71
+00250-01-15:0000 outpost: searching z-level 70
+00250-01-15:0000 outpost: searching z-level 69
+00250-01-15:0000 outpost: searching z-level 68
+00250-01-15:0000 outpost: searching z-level 67
+00250-01-15:0000 outpost: searching z-level 66
+00250-01-15:0000 outpost: searching z-level 65
+00250-01-15:0000 outpost: searching z-level 64
+00250-01-15:0000 outpost: searching z-level 63
+00250-01-15:0000 outpost: searching z-level 62
+00250-01-15:0000 outpost: searching z-level 61
+00250-01-15:0000 outpost: searching z-level 60
+00250-01-15:0000 outpost: searching z-level 59
+00250-01-15:0000 outpost: wall (83, 80, 59)
+00250-01-15:0000 outpost: target (85, 78, 59)
+00250-01-15:0000 outpost: up (83, 80, 110)
+00250-01-15:0000 [Setup] Searching for mineral veins...
+00250-01-15:0000 [Setup] Finding areas that need access tunnels...
+00250-01-15:0000 [Setup] Planning complete!
+00250-01-15:0010 wantdig farmplot (food) (0 users) (plan)
+00250-01-15:0010 wantdig farmplot (cloth) (0 users) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Lòr Lolokzalìs, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Solon ùstreg, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Mörul Rimtarthad, expedition leader) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Reg Likotcudïst, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Rimtar Shorasttabar, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Ineth Geshudvúsh, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Ducim Kiblogem, Peasant) (plan)
+00250-01-15:0022 digroom stockpile (food) (level 1) (plan)
+00250-01-15:0022 digroom corridor (staircase) (plan)
+00250-01-15:0022 digroom corridor (fort entrance) (plan)
+00250-01-15:0022 plan fixup_open corridor (fort entrance) (dig) Floor(0, 1, 0) Sapling
+00250-01-15:0022 plan fixup_open corridor (fort entrance) (dig) Floor(3, 0, 0) Sapling
+00250-01-15:0022 digroom workshop (Carpenters) (level 1) (plan)
+00250-01-15:0022 digroom stockpile (wood) (workshop (Carpenters) (level 1) (dig)) (plan)
+00250-01-15:0022 digroom workshop (Masons) (level 1) (plan)
+00250-01-15:0022 digroom stockpile (stone) (workshop (Masons) (level 1) (dig)) (plan)
+00250-01-15:0036 Appointing Ineth Geshudvúsh, Peasant as position manager
+00250-01-15:0037 Appointing Reg Likotcudïst, Peasant as position bookkeeper
+00250-01-15:0038 Appointing Rimtar Shorasttabar, Peasant as position broker
+00250-01-15:0086 Creating new squad...
+00250-01-15:0086 Created new uniform for ranged squad.
+00250-01-15:0086 Selecting squad: The Gems of Outrage
+00250-01-15:0086 Recruiting new squad member: Lòr Lolokzalìs, Peasant
+00250-01-15:0110 digroom pasture (plan)
+00250-01-15:0152 need 40 more food
+00250-01-15:0153 add_manager_order(1) Construct rock Armor Stand
+00250-01-15:0154 add_manager_order(1) Make rock Book Binding
+00250-01-15:0155 add_manager_order(3) Make rock Bookcase
+00250-01-15:0156 add_manager_order(6) Construct rock Cabinet
+00250-01-15:0157 add_manager_order(4) Construct rock Throne
+00250-01-15:0158 add_manager_order(6) Construct rock Coffer
+00250-01-15:0159 add_manager_order(18) Make Charcoal
+00250-01-15:0160 add_manager_order(3) Construct rock Coffin
+00250-01-15:0161 add_manager_order(4) Make rock Die
+00250-01-15:0162 add_manager_order(6) Construct rock Door
+00250-01-15:0163 add_manager_order(8) Make rock Pot
+00250-01-15:0164 add_manager_order(5) Construct cloth Bag
+00250-01-15:0165 add_manager_order(1) Construct rock Floodgate
+00250-01-15:0166 add_manager_order(15) Make rock Mug
+00250-01-15:0167 add_manager_order(3) Construct rock Hatch Cover
+00250-01-15:0168 add_manager_order(1) Make rock Hive
+00250-01-15:0169 add_manager_order(1) Make rock Jug
+00250-01-15:0170 add_manager_order(6) Construct rock Mechanisms
+00250-01-15:0171 add_manager_order(1) Make rock Nest Box
+00250-01-15:0172 add_manager_order(1) Make rock Altar
+00250-01-15:0173 add_manager_order(1) Make rock Pedestal
+00250-01-15:0174 add_manager_order(4) Construct rock Quern
+00250-01-15:0175 add_manager_order(1) Construct rock Slab
+00250-01-15:0176 add_manager_order(4) Construct rock Table
+00250-01-15:0177 add_manager_order(3) Make rock Toy
+00250-01-15:0178 add_manager_order(1) Construct rock Weapon Rack
+00250-01-15:0179 add_manager_order(2) Make wooden crossbow
+00250-01-15:0180 add_manager_order(1) Prepare Lavish Meal
+00250-01-15:0306 wantdig nobleroom (office) (required value 1) (owned by Reg Likotcudïst, bookkeeper) (noble suite 1) (plan)
+00250-01-15:0306 wantdig nobleroom (office) (required value 1) (owned by Ineth Geshudvúsh, manager) (noble suite 0) (plan)
+00250-01-15:0356 squad 6 assign barracks (used by The Gems of Outrage) (plan)
+00250-01-15:0356 wantdig barracks (used by The Gems of Outrage) (plan)
+00250-01-15:0629 plan setup_outdoor_gathering_zones finished
+00250-01-16:0039 construct pasture (dug)
+00250-01-16:0151 add_manager_order(1) Make Ash
+00250-01-16:0152 add_manager_order(6) Construct Bed
+00250-01-16:0153 add_manager_order(1) Mill Plants
+00250-01-16:0154 add_manager_order(8) Make Ash
+00250-01-16:0181 digroom pasture (plan)
+00250-01-16:0273 construct corridor (staircase) (dug)
+00250-01-16:0274 construct corridor (fort entrance) (dug)
+00250-01-16:0995 construct workshop (Masons) (level 1) (dug)
+00250-01-16:0996 construct stockpile (stone) (workshop (Masons) (level 1) (dug)) (dug)
+00250-01-17:0032 construct stockpile (food) (level 1) (dug)
+00250-01-17:0034 construct stockpile (wood) (workshop (Carpenters) (level 1) (dig)) (dug)
+00250-01-17:0058 construct workshop (Carpenters) (level 1) (dug)
+00250-01-17:0059 digroom nobleroom (office) (required value 1) (owned by Reg Likotcudïst, bookkeeper) (noble suite 1) (plan)
+00250-01-17:0060 digroom nobleroom (office) (required value 1) (owned by Ineth Geshudvúsh, manager) (noble suite 0) (plan)
+00250-01-17:0061 digroom barracks (used by The Gems of Outrage) (plan)
+00250-01-17:0061 digroom corridor (plan)
+00250-01-17:0061 digroom corridor (staircase) (plan)
+00250-01-17:0061 digroom corridor (plan)
+00250-01-17:0061 digroom corridor (plan)
+00250-01-17:0061 digroom corridor (plan)
+00250-01-17:0061 digroom releasecage (plan)
+00250-01-17:0061 digroom corridor (staircase) (plan)
+00250-01-17:0078 digroom farmplot (food) (7 users) (plan)
+00250-01-17:0078 digroom stockpile (food) (seeds) (farmplot (food) (7 users) (dig)) (plan)
+00250-01-17:0078 digroom corridor (plan)
+00250-01-17:0078 digroom pond (irrigation) (farmplot (food) (7 users) (dig)) (plan)
+00250-01-17:0078 digroom farmplot (cloth) (7 users) (plan)
+00250-01-17:0078 digroom stockpile (food) (seeds) (farmplot (cloth) (7 users) (dig)) (plan)
+00250-01-17:0078 digroom pond (irrigation) (farmplot (cloth) (7 users) (dig)) (plan)
+00250-01-17:0078 wantdig garbagedump (plan)
+00250-01-17:0078 wantdig tradedepot (plan)
+00250-01-17:0512 construct pasture (dug)
+00250-01-17:0731 digroom pasture (plan)
+00250-01-18:0148 queueing 4 chairs directly at workshop (Masons) (level 1) (dug)
+00250-01-18:0513 construct nobleroom (office) (required value 1) (owned by Ineth Geshudvúsh, manager) (noble suite 0) (dug)
+00250-01-18:0748 queueing 1 chairs directly at workshop (Masons) (level 1)
+00250-01-18:1012 construct pasture (dug)
+00250-01-18:1031 digroom pasture (plan)
+00250-01-19:0148 queueing 3 chairs directly at workshop (Masons) (level 1)
+00250-01-19:0512 construct nobleroom (office) (required value 1) (owned by Reg Likotcudïst, bookkeeper) (noble suite 1) (dug)
+00250-01-19:0519 construct releasecage (dug)
+00250-01-19:0520 construct corridor (staircase) (dug)
+00250-01-19:1008 construct pasture (dug)
+00250-01-19:1081 digroom pasture (plan)
+00250-01-20:0037 construct corridor (dug)
+00250-01-20:0996 construct corridor (dug)
+00250-01-21:0279 construct pond (irrigation) (farmplot (food) (7 users) (dig)) (dug)
+00250-01-21:0515 construct corridor (dug)
+00250-01-21:0526 construct pasture (dug)
+00250-01-21:0681 digroom pasture (plan)
+00250-01-21:0994 construct corridor (staircase) (dug)
+00250-01-21:0996 construct stockpile (food) (seeds) (farmplot (food) (7 users) (dig)) (dug)
+00250-01-22:0034 construct farmplot (food) (7 users) (dug)
+00250-01-22:0750 add_manager_order(4) Make wooden bolts
+00250-01-22:0751 add_manager_order(6) Make wooden Barrel
+00250-01-22:0752 add_manager_order(6) Construct wooden Bin
+00250-01-22:0753 add_manager_order(2) Construct wooden Blocks
+00250-01-22:0754 add_manager_order(4) Make wooden Cage
+00250-01-22:0756 add_manager_order(30) Make wooden Crafts
+00250-01-22:0757 add_manager_order(1) Make wooden Minecart
+00250-01-22:0758 add_manager_order(1) Make wooden Pipe Section
+00250-01-22:0759 add_manager_order(1) Make enormous wooden corkscrew
+00250-01-22:0760 add_manager_order(2) Make wooden Stepladder
+?????-??-??:???? choosing "Start Game"
+?????-??-??:???? choosing "Start Game"
+?????-??-??:???? choosing "Dwarf Fortress Mode"
+?????-??-??:???? choosing "Start Game"
+?????-??-??:???? choosing "Dwarf Fortress Mode"
+00250-01-01:0000 updating world, goal: 00250-01-15:0000
+00250-01-02:0000 updating world, goal: 00250-01-15:0000
+00250-01-03:0000 updating world, goal: 00250-01-15:0000
+00250-01-04:0000 updating world, goal: 00250-01-15:0000
+00250-01-05:0000 updating world, goal: 00250-01-15:0000
+00250-01-06:0000 updating world, goal: 00250-01-15:0000
+00250-01-07:0000 updating world, goal: 00250-01-15:0000
+00250-01-08:0000 updating world, goal: 00250-01-15:0000
+00250-01-09:0000 updating world, goal: 00250-01-15:0000
+00250-01-10:0000 updating world, goal: 00250-01-15:0000
+00250-01-11:0000 updating world, goal: 00250-01-15:0000
+00250-01-12:0000 updating world, goal: 00250-01-15:0000
+00250-01-13:0000 updating world, goal: 00250-01-15:0000
+00250-01-14:0000 updating world, goal: 00250-01-15:0000
+00250-01-15:0000 choosing "Site Finder"
+00250-01-15:0000 searching for a site (0/2, 1/2)
+00250-01-15:0000 searching for a site (0/2, 2/2)
+00250-01-15:0000 searching for a site (1/2, 0/2)
+00250-01-15:0000 searching for a site (1/2, 1/2)
+00250-01-15:0000 searching for a site (1/2, 2/2)
+00250-01-15:0000 searching for a site (2/2, 0/2)
+00250-01-15:0000 searching for a site (2/2, 1/2)
+00250-01-15:0000 searching for a site (2/2, 2/2)
+00250-01-15:0000 choosing "Embark"
+00250-01-15:0000 found sites count: 5
+00250-01-15:0000 choosing "Prepare Carefully"
+00250-01-15:0000 site is ready.
+00250-01-15:0000 disabling minimap.
+00250-01-15:0000 [Setup] Reading blueprints...
+00250-01-15:0000 [Setup] There are 1 blueprint plans.
+00250-01-15:0000 [Setup] Trying plan 1: generic01 (attempt 1 of 25)
+00250-01-15:0000 [Setup] Creating outdoor gathering zones...
+00250-01-15:0000 [Setup] Searching for caverns...
+00250-01-15:0000 outpost: searching z-level 136
+00250-01-15:0000 outpost: searching z-level 135
+00250-01-15:0000 outpost: searching z-level 134
+00250-01-15:0000 outpost: searching z-level 133
+00250-01-15:0000 outpost: searching z-level 132
+00250-01-15:0000 outpost: searching z-level 131
+00250-01-15:0000 outpost: searching z-level 130
+00250-01-15:0000 outpost: searching z-level 129
+00250-01-15:0000 outpost: searching z-level 128
+00250-01-15:0000 outpost: searching z-level 127
+00250-01-15:0000 outpost: searching z-level 126
+00250-01-15:0000 outpost: searching z-level 125
+00250-01-15:0000 outpost: searching z-level 124
+00250-01-15:0000 outpost: searching z-level 123
+00250-01-15:0000 outpost: searching z-level 122
+00250-01-15:0000 outpost: searching z-level 121
+00250-01-15:0000 outpost: searching z-level 120
+00250-01-15:0000 outpost: searching z-level 119
+00250-01-15:0000 outpost: searching z-level 118
+00250-01-15:0000 outpost: searching z-level 117
+00250-01-15:0000 outpost: searching z-level 116
+00250-01-15:0000 outpost: searching z-level 115
+00250-01-15:0000 outpost: searching z-level 114
+00250-01-15:0000 outpost: searching z-level 113
+00250-01-15:0000 outpost: searching z-level 112
+00250-01-15:0000 outpost: searching z-level 111
+00250-01-15:0000 outpost: searching z-level 110
+00250-01-15:0000 outpost: searching z-level 109
+00250-01-15:0000 outpost: searching z-level 108
+00250-01-15:0000 outpost: searching z-level 107
+00250-01-15:0000 outpost: searching z-level 106
+00250-01-15:0000 outpost: searching z-level 105
+00250-01-15:0000 outpost: searching z-level 104
+00250-01-15:0000 outpost: searching z-level 103
+00250-01-15:0000 outpost: searching z-level 102
+00250-01-15:0000 outpost: searching z-level 101
+00250-01-15:0000 outpost: searching z-level 100
+00250-01-15:0000 outpost: searching z-level 99
+00250-01-15:0000 outpost: searching z-level 98
+00250-01-15:0000 outpost: searching z-level 97
+00250-01-15:0000 outpost: searching z-level 96
+00250-01-15:0000 outpost: searching z-level 95
+00250-01-15:0000 outpost: searching z-level 94
+00250-01-15:0000 outpost: searching z-level 93
+00250-01-15:0000 outpost: searching z-level 92
+00250-01-15:0000 outpost: searching z-level 91
+00250-01-15:0000 outpost: searching z-level 90
+00250-01-15:0000 outpost: searching z-level 89
+00250-01-15:0000 outpost: searching z-level 88
+00250-01-15:0000 outpost: searching z-level 87
+00250-01-15:0000 outpost: searching z-level 86
+00250-01-15:0000 outpost: searching z-level 85
+00250-01-15:0000 outpost: searching z-level 84
+00250-01-15:0000 outpost: searching z-level 83
+00250-01-15:0000 outpost: searching z-level 82
+00250-01-15:0000 outpost: searching z-level 81
+00250-01-15:0000 outpost: searching z-level 80
+00250-01-15:0000 outpost: searching z-level 79
+00250-01-15:0000 outpost: searching z-level 78
+00250-01-15:0000 outpost: searching z-level 77
+00250-01-15:0000 outpost: searching z-level 76
+00250-01-15:0000 outpost: searching z-level 75
+00250-01-15:0000 outpost: searching z-level 74
+00250-01-15:0000 outpost: searching z-level 73
+00250-01-15:0000 outpost: searching z-level 72
+00250-01-15:0000 outpost: searching z-level 71
+00250-01-15:0000 outpost: searching z-level 70
+00250-01-15:0000 outpost: searching z-level 69
+00250-01-15:0000 outpost: searching z-level 68
+00250-01-15:0000 outpost: searching z-level 67
+00250-01-15:0000 outpost: searching z-level 66
+00250-01-15:0000 outpost: searching z-level 65
+00250-01-15:0000 outpost: wall (111, 73, 65)
+00250-01-15:0000 outpost: target (113, 75, 65)
+00250-01-15:0000 outpost: up (111, 73, 106)
+00250-01-15:0000 [Setup] Searching for mineral veins...
+00250-01-15:0000 [Setup] Finding areas that need access tunnels...
+00250-01-15:0000 [Setup] Planning complete!
+00250-01-15:0010 wantdig farmplot (food) (0 users) (plan)
+00250-01-15:0010 wantdig farmplot (cloth) (0 users) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Kol Shemsárek, expedition leader) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by ïteb Semorinod, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Asmel Idekèrith, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Minkot Gulnasiden, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Ral Lòrîd, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Tulon Udistkadôl, Peasant) (plan)
+00250-01-15:0010 wantdig bedroom (plan)
+00250-01-15:0010 assign bedroom (owned by Id Nikuzonol, Peasant) (plan)
+00250-01-15:0022 digroom stockpile (food) (level 1) (plan)
+00250-01-15:0022 digroom corridor (staircase) (plan)
+00250-01-15:0022 digroom corridor (fort entrance) (plan)
+00250-01-15:0022 plan fixup_open corridor (fort entrance) (dig) Floor(6, 0, 0) Sapling
+00250-01-15:0022 plan fixup_open corridor (fort entrance) (dig) Floor(6, 4, 0) Sapling
+00250-01-15:0022 digroom workshop (Carpenters) (level 1) (plan)
+00250-01-15:0022 digroom stockpile (wood) (workshop (Carpenters) (level 1) (dig)) (plan)
+00250-01-15:0022 digroom workshop (Masons) (level 1) (plan)
+00250-01-15:0022 digroom stockpile (stone) (workshop (Masons) (level 1) (dig)) (plan)
+00250-01-15:0036 Appointing Tulon Udistkadôl, Peasant as position manager
+00250-01-15:0037 Appointing ïteb Semorinod, Peasant as position bookkeeper
+00250-01-15:0038 Appointing Minkot Gulnasiden, Peasant as position broker
+00250-01-15:0110 digroom pasture (plan)
+00250-01-15:0150 need 40 more food
+00250-01-15:0151 add_manager_order(1) Construct rock Armor Stand
+00250-01-15:0152 add_manager_order(1) Make rock Book Binding
+00250-01-15:0153 add_manager_order(3) Make rock Bookcase
+00250-01-15:0154 add_manager_order(6) Construct rock Cabinet
+00250-01-15:0155 add_manager_order(4) Construct rock Throne
+00250-01-15:0156 add_manager_order(6) Construct rock Coffer
+00250-01-15:0157 add_manager_order(18) Make Charcoal
+00250-01-15:0158 add_manager_order(3) Construct rock Coffin
+00250-01-15:0159 add_manager_order(4) Make rock Die
+00250-01-15:0160 add_manager_order(6) Construct rock Door
+00250-01-15:0161 add_manager_order(8) Make rock Pot
+00250-01-15:0162 add_manager_order(5) Construct cloth Bag
+00250-01-15:0163 add_manager_order(1) Construct rock Floodgate
+00250-01-15:0164 add_manager_order(15) Make rock Mug
+00250-01-15:0165 add_manager_order(3) Construct rock Hatch Cover
+00250-01-15:0166 add_manager_order(1) Make rock Hive
+00250-01-15:0167 add_manager_order(1) Make rock Jug
+00250-01-15:0168 add_manager_order(6) Construct rock Mechanisms
+00250-01-15:0169 add_manager_order(1) Make rock Nest Box
+00250-01-15:0170 add_manager_order(1) Make rock Altar
+00250-01-15:0171 add_manager_order(1) Make rock Pedestal
+00250-01-15:0172 add_manager_order(4) Construct rock Quern
+00250-01-15:0173 add_manager_order(1) Construct rock Slab
+00250-01-15:0174 add_manager_order(4) Construct rock Table
+00250-01-15:0175 add_manager_order(3) Make rock Toy
+00250-01-15:0176 add_manager_order(1) Construct rock Weapon Rack
+00250-01-15:0177 add_manager_order(2) Make wooden crossbow
+00250-01-15:0178 add_manager_order(1) Prepare Lavish Meal
+00250-01-15:0304 wantdig nobleroom (office) (required value 1) (owned by ïteb Semorinod, bookkeeper) (noble suite 1) (plan)
+00250-01-15:0304 wantdig nobleroom (office) (required value 1) (owned by Tulon Udistkadôl, manager) (noble suite 0) (plan)
+00250-01-15:0627 plan setup_outdoor_gathering_zones finished
+00250-01-15:0994 construct corridor (fort entrance) (dug)
+00250-01-16:0033 construct corridor (staircase) (dug)
+00250-01-16:0148 add_manager_order(1) Make Ash
+00250-01-16:0149 add_manager_order(4) Construct Bed
+00250-01-16:0150 add_manager_order(5) Make Ash
+00250-01-16:0517 construct pasture (dug)
+00250-01-16:0679 digroom pasture (plan)
+00250-01-16:0752 construct stockpile (food) (level 1) (dug)
+00250-01-16:0755 construct workshop (Masons) (level 1) (dug)
+00250-01-16:0756 construct stockpile (stone) (workshop (Masons) (level 1) (dug)) (dug)
+00250-01-16:0992 construct workshop (Carpenters) (level 1) (dug)
+00250-01-16:0993 construct stockpile (wood) (workshop (Carpenters) (level 1) (dug)) (dug)
+00250-01-16:0994 digroom nobleroom (office) (required value 1) (owned by ïteb Semorinod, bookkeeper) (noble suite 1) (plan)
+00250-01-16:0995 digroom nobleroom (office) (required value 1) (owned by Tulon Udistkadôl, manager) (noble suite 0) (plan)
+00250-01-16:1007 digroom farmplot (food) (7 users) (plan)
+00250-01-16:1007 digroom stockpile (food) (seeds) (farmplot (food) (7 users) (dig)) (plan)
+00250-01-16:1007 digroom farmplot (cloth) (7 users) (plan)
+00250-01-16:1007 digroom stockpile (food) (seeds) (farmplot (cloth) (7 users) (dig)) (plan)
+00250-01-16:1007 digroom corridor (plan)
+00250-01-16:1007 digroom corridor (staircase) (plan)
+00250-01-16:1007 digroom corridor (staircase) (plan)
+00250-01-16:1007 digroom corridor (staircase) (plan)
+00250-01-16:1007 digroom pond (irrigation) (farmplot (cloth) (7 users) (dig)) (plan)
+00250-01-16:1007 digroom pond (irrigation) (farmplot (food) (7 users) (dig)) (plan)
+00250-01-16:1007 wantdig garbagedump (plan)
+00250-01-16:1007 wantdig tradedepot (plan)
+00250-01-17:0512 construct pasture (dug)
+00250-01-17:0729 digroom pasture (plan)
+00250-01-17:0748 queueing 4 chairs directly at workshop (Masons) (level 1)
+00250-01-18:0032 construct nobleroom (office) (required value 1) (owned by ïteb Semorinod, bookkeeper) (noble suite 1) (dug)
+00250-01-18:0041 construct corridor (staircase) (dug)
+00250-01-18:0519 construct corridor (staircase) (dug)
+00250-01-18:0544 construct corridor (staircase) (dug)
+00250-01-18:0749 add_manager_order(1) Mill Plants
+00250-01-18:0754 construct nobleroom (office) (required value 1) (owned by Tulon Udistkadôl, manager) (noble suite 0) (dug)
+00250-01-19:0276 construct corridor (dug)
+00250-01-19:0281 construct pasture (dug)
+00250-01-19:0329 digroom pasture (plan)
+00250-01-19:0516 construct pond (irrigation) (farmplot (cloth) (7 users) (dig)) (dug)
+00250-01-19:0757 construct pond (irrigation) (farmplot (food) (7 users) (dig)) (dug)
+00250-01-20:0148 add_manager_order(3) Construct rock Blocks
+00250-01-20:0274 construct farmplot (cloth) (7 users) (dug)
+00250-01-20:0275 construct stockpile (food) (seeds) (farmplot (cloth) (7 users) (dug)) (dug)
+00250-01-20:0754 construct stockpile (food) (seeds) (farmplot (food) (7 users) (dig)) (dug)
+00250-01-20:0768 wantdig infirmary (plan)
+00250-01-20:0992 construct farmplot (food) (7 users) (dug)
+00250-01-20:0993 digroom garbagedump (plan)
+00250-01-20:0993 digroom corridor (garbage pit) (plan)
+00250-01-20:0993 digroom corridor (garbage pit (underground)) (plan)
+00250-01-20:0994 digroom tradedepot (plan)
+00250-01-20:0994 digroom corridor (trade depot - surrounding area) (plan)
+00250-01-20:0994 plan fixup_open corridor (trade depot - surrounding area) (dig) Floor(1, 7, 0) Sapling
+00250-01-20:1000 digroom infirmary (plan)
+00250-01-20:1000 digroom corridor (plan)
+00250-01-20:1000 digroom corridor (staircase) (plan)
+00250-01-20:1000 digroom corridor (staircase) (plan)
+00250-01-20:1003 construct garbagedump (dug)
+00250-01-20:1017 wantdig workshop (Mechanics) (level 1) (plan)
+00250-01-20:1020 digroom bedroom (owned by Kol Shemsárek, expedition leader) (plan)
+00250-01-20:1020 digroom corridor (plan)
+00250-01-20:1021 digroom bedroom (owned by ïteb Semorinod, bookkeeper) (plan)
+00250-01-20:1022 digroom bedroom (owned by Asmel Idekèrith, Peasant) (plan)
+00250-01-20:1042 digroom workshop (Mechanics) (level 1) (plan)
+00250-01-20:1042 digroom stockpile (stone) (workshop (Mechanics) (level 1) (dig)) (plan)
+00250-01-20:1042 digroom corridor (plan)
+00250-01-20:1042 digroom corridor (staircase) (plan)
+00250-01-20:1042 digroom corridor (staircase) (plan)
+00250-01-20:1042 digroom corridor (plan)
+00250-01-20:1058 Appointing Asmel Idekèrith, Peasant as position chief medical dwarf
+00250-01-21:0022 wantdig workshop (Still) (level 1) (plan)
+00250-01-21:0994 construct corridor (garbage pit) (dug)
+00250-01-21:0995 construct corridor (garbage pit (underground)) (dug)
+00250-01-22:0022 furnish chair (main) (1, 1, 0) in nobleroom (office) (required value 1) (owned by ïteb Semorinod, bookkeeper) (noble suite 1)

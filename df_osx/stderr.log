@@ -1,0 +1,944 @@
+dfhack: saving real SDL functions
+dfhack: saved real SDL functions
+dfhack: hooking successful
+DFHack build: 0.47.05-r7-0-g3f6e92ed
+Starting with working directory: /Users/ruiyangxu/Downloads/df-ai-develop/df_osx
+Identifying DF version.
+Loading hack/symbols.xml ... OK
+v0.47.05 SDL win32 (windows): PE: 0x6011F2EF
+v0.47.05 SDL win64 (windows): PE: 0x6011FB69
+v0.47.05 linux32 (linux): MD5: 9b111ecd0204cc8c3a172ed69565f275
+v0.47.05 linux64 (linux): MD5: 65dbcb224f2ad723f0f25d2a29c2f3fb
+v0.47.05 osx32 (darwin): MD5: f062d29459ddee045e0ad3cd8e22c9fe
+v0.47.05 osx64 (darwin): MD5: 232024887e8312916a503c80b6c70f45
+Loaded 6 DF symbol tables.
+Version: v0.47.05 osx64
+Initializing Console.
+Console is not available. Use dfhack-run to send commands.
+Initializing Plugins.
+loading plugin eventful
+loaded plugin eventful; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin digFlood
+loaded plugin digFlood; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin createitem
+loaded plugin createitem; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin prospector
+loaded plugin prospector; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin automaterial
+loaded plugin automaterial; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin follow
+loaded plugin follow; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin cleaners
+loaded plugin cleaners; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin manipulator
+loaded plugin manipulator; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autogems
+loaded plugin autogems; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin df-ai
+loaded plugin df-ai; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin spectate
+loaded plugin spectate; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin petcapRemover
+loaded plugin petcapRemover; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin mode
+loaded plugin mode; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin resume
+loaded plugin resume; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin dwarfvet
+loaded plugin dwarfvet; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin rendermax
+loaded plugin rendermax; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autolabor
+loaded plugin autolabor; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin add-spatter
+loaded plugin add-spatter; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autofarm
+loaded plugin autofarm; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin cleanowned
+loaded plugin cleanowned; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin stocks
+loaded plugin stocks; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin changeitem
+loaded plugin changeitem; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin RemoteFortressReader
+loaded plugin RemoteFortressReader; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin embark-tools
+loaded plugin embark-tools; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin stockpiles
+loaded plugin stockpiles; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autochop
+loaded plugin autochop; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autodump
+loaded plugin autodump; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin changevein
+loaded plugin changevein; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin power-meter
+loaded plugin power-meter; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin plants
+loaded plugin plants; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin fix-unit-occupancy
+loaded plugin fix-unit-occupancy; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin fixveins
+loaded plugin fixveins; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin map-render
+loaded plugin map-render; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin misery
+loaded plugin misery; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin debug
+loaded plugin debug; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin 3dveins
+loaded plugin 3dveins; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin xlsxreader
+loaded plugin xlsxreader; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin getplants
+loaded plugin getplants; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autonestbox
+loaded plugin autonestbox; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin title-folder
+loaded plugin title-folder; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin dig
+loaded plugin dig; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin lair
+loaded plugin lair; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin stockflow
+loaded plugin stockflow; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin workNow
+loaded plugin workNow; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin title-version
+loaded plugin title-version; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin liquids
+loaded plugin liquids; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin zone
+loaded plugin zone; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin trackstop
+loaded plugin trackstop; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autohauler
+loaded plugin autohauler; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin hotkeys
+loaded plugin hotkeys; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin search
+loaded plugin search; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin cxxrandom
+loaded plugin cxxrandom; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin infiniteSky
+loaded plugin infiniteSky; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin dig-now
+loaded plugin dig-now; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin jobutils
+loaded plugin jobutils; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin confirm
+loaded plugin confirm; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin cursecheck
+loaded plugin cursecheck; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin strangemood
+loaded plugin strangemood; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin nestboxes
+loaded plugin nestboxes; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin automelt
+loaded plugin automelt; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin isoworldremote
+loaded plugin isoworldremote; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin mousequery
+loaded plugin mousequery; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin embark-assistant
+loaded plugin embark-assistant; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin workflow
+loaded plugin workflow; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin labormanager
+loaded plugin labormanager; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin steam-engine
+loaded plugin steam-engine; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin tweak
+loaded plugin tweak; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin luasocket
+loaded plugin luasocket; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin changelayer
+loaded plugin changelayer; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin ruby
+dlopen(hack/libruby.dylib, 0x0006): tried: './hack/libruby.dylib' (no such file), './libs/libruby.dylib' (no such file), './hack/libs/libruby.dylib' (no such file), 'hack/libruby.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OShack/libruby.dylib' (no such file), '/Users/ruiyangxu/Downloads/df-ai-develop/df_osx/hack/hack/libruby.dylib' (no such file), '/usr/local/Cellar/gcc@13/13.4.0/lib/gcc/13/gcc/x86_64-apple-darwin25/13/hack/libruby.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/usr/local/Cellar/gcc@13/13.4.0/lib/gcc/13/gcc/x86_64-apple-darwin25/13/hack/libruby.dylib' (no such file), '/usr/local/Cellar/gcc@13/13.4.0/lib/gcc/13/gcc/hack/libruby.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/usr/local/Cellar/gcc@13/13.4.0/lib/gcc/13/gcc/hack/libruby.dylib' (no such file), '/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/lib/hack/libruby.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/lib/hack/libruby.dylib' (no such file), '/usr/local/Cellar/gcc@13/13.4.0/lib/gcc/13/hack/libruby.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/usr/local/Cellar/gcc@13/13.4.0/lib/gcc/13/hack/libruby.dylib' (no such file), '/usr/lib/hack/libruby.dylib' (no such file, not in dyld cache), 'hack/libruby.dylib' (no such file), './hack/libruby.dylib' (no such file), './libs/libruby.dylib' (no such file), './hack/libs/libruby.dylib' (no such file), '/Users/ruiyangxu/Downloads/df-ai-develop/df_osx/hack/libruby.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/Users/ruiyangxu/Downloads/df-ai-develop/df_osx/hack/libruby.dylib' (no such file), '/Users/ruiyangxu/Downloads/df-ai-develop/df_osx/hack/libruby.dylib' (no such file)
+ruby: warning: Failed to load hack/libruby.dylib
+loaded plugin ruby; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin flows
+loaded plugin flows; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin overlay
+loaded plugin overlay; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin pathable
+loaded plugin pathable; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin seedwatch
+loaded plugin seedwatch; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin command-prompt
+loaded plugin command-prompt; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin buildingplan
+loaded plugin buildingplan; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin dwarfmonitor
+loaded plugin dwarfmonitor; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin diggingInvaders
+loaded plugin diggingInvaders; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autobutcher
+loaded plugin autobutcher; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autotrade
+loaded plugin autotrade; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin tubefill
+loaded plugin tubefill; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin tailor
+loaded plugin tailor; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin orders
+loaded plugin orders; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin siege-engine
+loaded plugin siege-engine; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin cleanconst
+loaded plugin cleanconst; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin rename
+loaded plugin rename; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin burrows
+loaded plugin burrows; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin showmood
+loaded plugin showmood; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin filltraffic
+loaded plugin filltraffic; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin sort
+loaded plugin sort; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin blueprint
+loaded plugin blueprint; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin generated-creature-renamer
+loaded plugin generated-creature-renamer; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin regrass
+loaded plugin regrass; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin reveal
+loaded plugin reveal; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin deramp
+loaded plugin deramp; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin autoclothing
+loaded plugin autoclothing; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin fastdwarf
+loaded plugin fastdwarf; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin probe
+loaded plugin probe; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin building-hacks
+loaded plugin building-hacks; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin tiletypes
+loaded plugin tiletypes; DFHack build 0.47.05-r7-0-g3f6e92ed
+loading plugin forceequip
+loaded plugin forceequip; DFHack build 0.47.05-r7-0-g3f6e92ed
+Starting the TCP listener.
+Starting dfhack.init thread.
+Starting DF input capture thread.
+Listening on port 5001
+TCP listen failed.
+DFHack is running.
+Loading script: dfhack-config/init/default.dfhack.init
+Loading script: dfhack-config/init/default.dfhack.init
+Invoking: script hack/init/dfhack.default.init
+Loading script: hack/init/dfhack.default.init
+Loading script: hack/init/dfhack.default.init
+Invoking: script hack/init/dfhack.keybindings.init
+Loading script: hack/init/dfhack.keybindings.init
+Loading script: hack/init/dfhack.keybindings.init
+Invoking: keybinding add ` gui/launcher
+Invoking: keybinding add Ctrl-Shift-D gui/launcher
+Invoking: keybinding add Ctrl-F1 hotkeys
+Invoking: keybinding add Alt-F1 hotkeys
+Invoking: keybinding add Ctrl-W twaterlvl
+Invoking: keybinding add Ctrl-V digv
+Invoking: keybinding add Ctrl-Shift-V "digv x"
+Invoking: keybinding add Ctrl-C spotclean
+Invoking: keybinding add Ctrl-Shift-K autodump-destroy-here
+Invoking: keybinding add Alt-Shift-I@dwarfmode/Zones "zone set"
+Invoking: keybinding add Ctrl-K autodump-destroy-item
+Invoking: keybinding add Ctrl-Alt-S@dwarfmode/Default quicksave
+Invoking: keybinding add Ctrl-Shift-Q@dwarfmode gui/quickfort
+Invoking: keybinding add Alt-F@dwarfmode gui/quickfort
+Invoking: keybinding add Ctrl-Shift-N gui/rename
+Invoking: keybinding add Ctrl-Shift-T "gui/rename unit-profession"
+Invoking: keybinding add Ctrl-Shift-P command-prompt
+Invoking: keybinding add Alt-M@dwarfmode/Default "dwarfmonitor prefs"
+Invoking: keybinding add Ctrl-F@dwarfmode/Default "dwarfmonitor stats"
+Invoking: keybinding add Ctrl-Shift-F@dwarfmode forum-dwarves
+Invoking: keybinding add Alt-S@title gui/settings-manager
+Invoking: keybinding add Alt-S@dwarfmode/Default gui/settings-manager
+Invoking: keybinding add Alt-Q@jobmanagement/Main gui/manager-quantity
+Invoking: keybinding add Alt-R@jobmanagement/Main workorder-recheck
+Invoking: keybinding add D@workquota_details gui/workorder-details
+Invoking: keybinding add Ctrl-Shift-R view-unit-reports
+Invoking: keybinding add Alt-I@dwarfmode/ViewUnits|unitlist gui/unit-info-viewer
+Invoking: keybinding add D@workquota_details gui/workorder-details
+Invoking: keybinding add Alt-N do-job-now
+Invoking: keybinding add Ctrl-B@dungeonmode adv-bodyswap
+Invoking: keybinding add Ctrl-Shift-B@dungeonmode "adv-bodyswap force"
+Invoking: keybinding add Shift-O@dungeonmode gui/companion-order
+Invoking: keybinding add Ctrl-T@dungeonmode gui/advfort
+Invoking: keybinding add Ctrl-A@dungeonmode/ConversationSpeak adv-rumors
+Invoking: keybinding add Ctrl-A@legends "exportlegends all"
+Invoking: keybinding add Ctrl-Shift-Z@dwarfmode/Default "stocks show"
+Invoking: keybinding add Ctrl-Shift-I@dwarfmode/Default "gui/dfstatus"
+Invoking: keybinding add Ctrl-Shift-I@dfhack/lua/dfstatus "gui/dfstatus"
+Invoking: keybinding add Alt-P copystock
+Invoking: keybinding add Alt-L@dwarfmode/QueryBuilding/Some/Stockpile "gui/stockpiles -load"
+Invoking: keybinding add Alt-S@dwarfmode/QueryBuilding/Some/Stockpile "gui/stockpiles -save"
+Invoking: keybinding add Ctrl-D job-duplicate
+Invoking: keybinding add Shift-A "job-material ALUNITE"
+Invoking: keybinding add Shift-M "job-material MICROCLINE"
+Invoking: keybinding add Shift-D "job-material DACITE"
+Invoking: keybinding add Shift-R "job-material RHYOLITE"
+Invoking: keybinding add Shift-I "job-material CINNABAR"
+Invoking: keybinding add Shift-B "job-material COBALTITE"
+Invoking: keybinding add Shift-O "job-material OBSIDIAN"
+Invoking: keybinding add Shift-T "job-material ORTHOCLASE"
+Invoking: keybinding add Shift-G "job-material GLASS_GREEN"
+Invoking: keybinding add Alt-Shift-N "sort-units name" "sort-items description"
+Invoking: keybinding add Alt-Shift-R "sort-units arrival"
+Invoking: keybinding add Alt-Shift-T "sort-units profession" "sort-items type material"
+Invoking: keybinding add Alt-Shift-Q "sort-units squad_position" "sort-items quality"
+Invoking: keybinding add Ctrl-M@dwarfmode/QueryBuilding/Some gui/mechanisms
+Invoking: keybinding add Alt-R@dwarfmode/QueryBuilding/Some gui/room-list
+Invoking: keybinding add Alt-L@dwarfmode/LookAround gui/liquids
+Invoking: keybinding add Ctrl-Shift-M@dwarfmode/Build/Position/Trap gui/power-meter
+Invoking: keybinding add Alt-A@dwarfmode/QueryBuilding/Some/SiegeEngine gui/siege-engine
+Invoking: keybinding add Ctrl-W@layer_military/Equip/Customize/View gui/choose-weapons
+Invoking: keybinding add Ctrl-C@layer_military/Uniforms gui/clone-uniform
+Invoking: keybinding add Alt-P@dwarfmode/Hauling/DefineStop/Cond/Guide gui/guide-path
+Invoking: keybinding add Alt-A@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workshop-job
+Invoking: keybinding add Alt-W@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workflow
+Invoking: keybinding add Alt-W@overallstatus "gui/workflow status"
+Invoking: keybinding add Alt-W@dfhack/lua/status_overlay "gui/workflow status"
+Invoking: keybinding add Shift-B@pet/List/Unit "gui/autobutcher"
+Invoking: keybinding add Alt-Shift-P@dwarfmode/LookAround gui/pathable
+Invoking: script hack/init/dfhack.tools.init
+Loading script: hack/init/dfhack.tools.init
+Loading script: hack/init/dfhack.tools.init
+Invoking: tweak stable-cursor
+Enabled tweak stable-cursor (stable_cursor_hook::feed)
+Invoking: tweak advmode-contained
+Enabled tweak advmode-contained (advmode_contained_hook::feed)
+Invoking: tweak fast-trade
+Enabled tweak fast-trade (fast_trade_assign_hook::feed)
+Enabled tweak fast-trade (fast_trade_select_hook::feed)
+Invoking: tweak military-stable-assign
+Enabled tweak military-stable-assign (military_assign_hook::feed)
+Invoking: tweak military-color-assigned
+Enabled tweak military-color-assigned (military_assign_hook::render)
+Invoking: tweak craft-age-wear
+Enabled tweak craft-age-wear (craft_age_wear_hook::ageItem)
+Invoking: tweak farm-plot-select
+Enabled tweak farm-plot-select (farm_select_hook::feed)
+Enabled tweak farm-plot-select (farm_select_hook::render)
+Invoking: tweak import-priority-category
+Enabled tweak import-priority-category (takerequest_hook::feed)
+Enabled tweak import-priority-category (takerequest_hook::render)
+Invoking: tweak condition-material
+Enabled tweak condition-material (condition_material_hook::feed)
+Invoking: tweak hotkey-clear
+Enabled tweak hotkey-clear (hotkey_clear_hook::feed)
+Enabled tweak hotkey-clear (hotkey_clear_hook::render)
+Invoking: tweak embark-profile-name
+Enabled tweak embark-profile-name (embark_profile_name_hook::feed)
+Invoking: tweak fast-heat 100
+Enabled tweak fast-heat (fast_heat_hook::updateTempFromMap)
+Enabled tweak fast-heat (fast_heat_hook::updateTemperature)
+Enabled tweak fast-heat (fast_heat_hook::adjustTemperature)
+Invoking: tweak block-labors              # Prevents labors that can't be used from being toggled
+Enabled tweak block-labors (block_labors_hook::feed)
+Enabled tweak block-labors (block_labors_hook::render)
+Invoking: tweak burrow-name-cancel
+Enabled tweak burrow-name-cancel (burrow_name_cancel_hook::feed)
+Invoking: tweak cage-butcher
+Enabled tweak cage-butcher (cage_butcher_hook::feed)
+Enabled tweak cage-butcher (cage_butcher_hook::render)
+Invoking: tweak civ-view-agreement
+Enabled tweak civ-view-agreement (civ_agreement_view_hook::render)
+Invoking: tweak do-job-now
+Enabled tweak do-job-now (do_job_now_hook::feed)
+Enabled tweak do-job-now (do_job_now_hook::render)
+Invoking: tweak eggs-fertile
+Enabled tweak eggs-fertile (egg_fertile_hook::render)
+Invoking: tweak fps-min
+Enabled tweak fps-min (fps_min_hook)
+Invoking: tweak hide-priority
+Enabled tweak hide-priority (hide_priority_hook::feed)
+Enabled tweak hide-priority (hide_priority_hook::render)
+Invoking: tweak kitchen-prefs-all
+Enabled tweak kitchen-prefs-all (kitchen_prefs_all_hook::feed)
+Enabled tweak kitchen-prefs-all (kitchen_prefs_all_hook::render)
+Invoking: tweak kitchen-prefs-empty
+Enabled tweak kitchen-prefs-empty (kitchen_prefs_empty_hook::render)
+Invoking: tweak max-wheelbarrow
+Enabled tweak max-wheelbarrow (max_wheelbarrow_hook::render)
+Enabled tweak max-wheelbarrow (max_wheelbarrow_hook::feed)
+Invoking: tweak partial-items
+Enabled tweak partial-items (partial_items_hook_bar::getItemDescription)
+Enabled tweak partial-items (partial_items_hook_drink::getItemDescription)
+Enabled tweak partial-items (partial_items_hook_glob::getItemDescription)
+Enabled tweak partial-items (partial_items_hook_liquid_misc::getItemDescription)
+Enabled tweak partial-items (partial_items_hook_powder_misc::getItemDescription)
+Enabled tweak partial-items (partial_items_hook_cloth::getItemDescription)
+Enabled tweak partial-items (partial_items_hook_sheet::getItemDescription)
+Enabled tweak partial-items (partial_items_hook_thread::getItemDescription)
+Invoking: tweak shift-8-scroll
+Enabled tweak shift-8-scroll (shift_8_scroll_hook::feed)
+Invoking: tweak stone-status-all
+Enabled tweak stone-status-all (stone_status_all_hook::feed)
+Enabled tweak stone-status-all (stone_status_all_hook::render)
+Invoking: tweak title-start-rename
+Enabled tweak title-start-rename (title_start_rename_hook::feed)
+Enabled tweak title-start-rename (title_start_rename_hook::render)
+Invoking: tweak tradereq-pet-gender
+Enabled tweak tradereq-pet-gender (pet_gender_hook::render)
+Invoking: enable title-version
+Invoking: enable manipulator
+Invoking: enable search
+Invoking: enable automaterial
+Invoking: enable  confirm  dwarfmonitor  mousequery  autogems  autodump  automelt  autotrade  buildingplan  resume  trackstop  zone  stocks  autochop  stockpiles
+Invoking: embark-tools enable sticky sand mouse
+Invoking: enable embark-assistant
+Invoking: modtools/extra-gamelog enable
+Invoking: enable gui/extended-status
+Invoking: view-item-info enable
+Invoking: gui/load-screen enable
+Loading script: dfhack-config/init/dfhack.init
+Loading script: dfhack-config/init/dfhack.init
+Class not in symbols.xml: 'ack21dfhack_lua_viewscreenE': vtable = 0x10bc689e0
+Loading script: dfhack-config/init/default.onLoad.init
+Loading script: dfhack-config/init/default.onLoad.init
+Invoking: script hack/init/onLoad.default.init
+Loading script: hack/init/onLoad.default.init
+Loading script: hack/init/onLoad.default.init
+Loading script: dfhack-config/init/onLoad.init
+Loading script: dfhack-config/init/onLoad.init
+Invoking: prospect
+Loading script: dfhack-config/init/default.onMapLoad.init
+Loading script: dfhack-config/init/default.onMapLoad.init
+Invoking: script hack/init/onMapLoad.default.init
+Loading script: hack/init/onMapLoad.default.init
+Loading script: hack/init/onMapLoad.default.init
+Loading script: dfhack-config/init/onMapLoad.init
+Loading script: dfhack-config/init/onMapLoad.init
+Invoking: df-agent-bridge start
+df-agent-bridge: started (file IPC at /Users/ruiyangxu/Downloads/df-ai-develop/df_osx/df-agent-ipc)
+Invoking: quicksave
+The game should save the state now.
+Invoking: startup
+Invoking: dig-now
+Invoking: dig-now
+Invoking: build-all
+Invoking: quicksave
+The game should save the state now.
+Invoking: check-ws
+Invoking: queue-production
+Invoking: setup-farms
+Invoking: quicksave
+The game should save the state now.
+Invoking: count-furniture
+Invoking: check-axes
+Invoking: chop-trees
+Invoking: quicksave
+The game should save the state now.
+Invoking: count-furniture
+Invoking: queue-production
+Invoking: chop-trees
+Invoking: quicksave
+The game should save the state now.
+Invoking: count-furniture
+Invoking: dig-deeper
+Invoking: dig-now
+Invoking: queue-production
+Invoking: quicksave
+The game should save the state now.
+Invoking: count-furniture
+Invoking: place-furniture
+Invoking: quicksave
+The game should save the state now.
+Invoking: count-furniture
+Invoking: gather-plants
+...oads/df-ai-develop/df_osx/hack/scripts/gather-plants.lua:6: Cannot read field building_farmplotst.z1: not found.
+stack traceback:
+	[C]: in metamethod '__index'
+	...oads/df-ai-develop/df_osx/hack/scripts/gather-plants.lua:6: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: gather-plants
+Invoking: getplants -a
+Invoking: requeue-production
+Invoking: dig-now
+Invoking: count-furniture
+Invoking: place-dining
+Invoking: setup-dining-room
+.../df-ai-develop/df_osx/hack/scripts/setup-dining-room.lua:12: Cannot write field building_extents.extents: incompatible pointer type.
+stack traceback:
+	[C]: in metamethod '__newindex'
+	.../df-ai-develop/df_osx/hack/scripts/setup-dining-room.lua:12: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: setup-dining-room
+Invoking: gather-plants
+Invoking: requeue-production
+Invoking: quicksave
+The game should save the state now.
+Invoking: dig-now
+Invoking: build-depot
+...nloads/df-ai-develop/df_osx/hack/scripts/build-depot.lua:35: Cannot write field (global).constructWithFilters(): complex object.
+stack traceback:
+	[C]: in field 'constructWithFilters'
+	...nloads/df-ai-develop/df_osx/hack/scripts/build-depot.lua:35: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: build-depot
+Invoking: count-furniture
+Invoking: place-more-beds
+Invoking: gather-plants
+Invoking: boost-brewing
+Invoking: requeue-production
+Invoking: gather-plants
+Invoking: chop-trees
+Invoking: dig-now
+Invoking: gather-plants
+Invoking: quicksave
+The game should save the state now.
+Invoking: build-industry
+...ads/df-ai-develop/df_osx/hack/scripts/build-industry.lua:14: Cannot write field (global).constructWithFilters(): complex object.
+stack traceback:
+	[C]: in field 'constructWithFilters'
+	...ads/df-ai-develop/df_osx/hack/scripts/build-industry.lua:14: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: build-industry
+...ads/df-ai-develop/df_osx/hack/scripts/build-industry.lua:41: Cannot write field (global).allocInstance(): integer expected.
+stack traceback:
+	[C]: in field 'allocInstance'
+	...ads/df-ai-develop/df_osx/hack/scripts/build-industry.lua:41: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: list-furnace-types
+Invoking: list-workshop-types
+Invoking: build-industry2
+Invoking: prospect
+Invoking: find-surface
+Invoking: dig-now
+Invoking: assign-migrants
+Invoking: dig-now
+Invoking: getplants -a
+Invoking: count-furniture
+Invoking: place-extra-beds
+Invoking: requeue-production
+Invoking: queue-extras
+Invoking: quicksave
+The game should save the state now.
+Invoking: gather-plants
+Invoking: getplants -a
+Invoking: gather-plants
+Invoking: more-farms
+...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:12: Cannot write field (global).constructWithFilters(): complex object.
+stack traceback:
+	[C]: in field 'constructWithFilters'
+	...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:12: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: more-farms
+...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:25: Cannot invoke field (global).constructAbstract(): In bool DFHack::Buildings::constructAbstract(df::building*): Invalid argument; expected: !bld->isActual().
+stack traceback:
+	[C]: in field 'constructAbstract'
+	...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:25: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: check-build-api
+Invoking: more-farms
+...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:12: bad argument #2 to 'format' (number expected, got boolean)
+stack traceback:
+	[C]: in function 'string.format'
+	...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:12: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: more-farms
+...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:12: bad argument #2 to 'setSize' (number expected, got table)
+stack traceback:
+	[C]: in field 'setSize'
+	...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:12: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: more-farms
+...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:16: Cannot write field (global).checkFreeTiles(): incompatible type in complex assignment.
+stack traceback:
+	[C]: in field 'checkFreeTiles'
+	...wnloads/df-ai-develop/df_osx/hack/scripts/more-farms.lua:16: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: more-farms
+Invoking: more-farms
+Invoking: count-furniture
+Invoking: quicksave
+The game should save the state now.
+Invoking: queue-crafts
+Invoking: appoint-nobles
+Invoking: fill-nobles
+Invoking: gather-plants
+Invoking: requeue-production
+Invoking: queue-crafts
+Invoking: check-trade
+Invoking: setup-trade
+Invoking: quicksave
+The game should save the state now.
+Invoking: setup-military
+Invoking: requeue-production
+Invoking: queue-crafts
+Invoking: chop-trees
+Invoking: quicksave
+The game should save the state now.
+Invoking: dig-now
+Invoking: assign-wave2
+...loads/df-ai-develop/df_osx/hack/scripts/assign-wave2.lua:11: Cannot write field bool[].CLOTHESMAKING: not found.
+stack traceback:
+	[C]: in metamethod '__newindex'
+	...loads/df-ai-develop/df_osx/hack/scripts/assign-wave2.lua:11: in local 'assign'
+	...loads/df-ai-develop/df_osx/hack/scripts/assign-wave2.lua:17: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: assign-wave2
+Invoking: count-furniture
+Invoking: place-wave2-beds
+Invoking: requeue-production
+Invoking: queue-extras
+Invoking: getplants -a
+Invoking: quicksave
+The game should save the state now.
+Invoking: queue-extras
+Invoking: requeue-production
+Invoking: build-carp2
+Invoking: queue-barrels2
+Invoking: check-mood
+Invoking: build-glass
+Invoking: prospect
+Invoking: dig-now
+Invoking: check-mood
+Invoking: requeue-production
+Invoking: queue-crafts
+Invoking: quicksave
+The game should save the state now.
+Invoking: count-furniture
+Invoking: gather-plants
+Invoking: queue-barrels2
+Invoking: queue-extras
+Invoking: build-still3
+Invoking: chop-trees
+Invoking: getplants -a
+Invoking: gather-plants
+Invoking: count-furniture
+Invoking: quicksave
+The game should save the state now.
+Invoking: count-furniture
+Invoking: gather-plants
+Invoking: requeue-production
+Invoking: queue-barrels2
+Invoking: dig-now
+Invoking: quicksave
+The game should save the state now.
+Invoking: gather-plants
+Invoking: count-furniture
+Invoking: requeue-production
+Invoking: queue-barrels2
+Invoking: queue-extras
+Invoking: setup-tomb
+Invoking: gather-plants
+Invoking: fix-farms
+Invoking: check-mood
+Invoking: quicksave
+The game should save the state now.
+Invoking: getplants -a
+Invoking: requeue-production
+Invoking: queue-barrels2
+Invoking: status-check
+...loads/df-ai-develop/df_osx/hack/scripts/status-check.lua:37: Cannot read field building_type._attr_entry_type.caption: not found.
+stack traceback:
+	[C]: in metamethod '__index'
+	...loads/df-ai-develop/df_osx/hack/scripts/status-check.lua:37: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: status-check2
+Invoking: spring-actions
+Invoking: quicksave
+The game should save the state now.
+Invoking: handle-berserk
+...ads/df-ai-develop/df_osx/hack/scripts/handle-berserk.lua:8: Cannot read field unit_flags1.crazed: not found.
+stack traceback:
+	[C]: in metamethod '__index'
+	...ads/df-ai-develop/df_osx/hack/scripts/handle-berserk.lua:8: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: handle-berserk2
+Invoking: create-military
+Invoking: kill-order
+...wnloads/df-ai-develop/df_osx/hack/scripts/kill-order.lua:14: Cannot read field vector<squad_schedule_entry[12]*>.0: index out of bounds.
+stack traceback:
+	[C]: in metamethod '__index'
+	...wnloads/df-ai-develop/df_osx/hack/scripts/kill-order.lua:14: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: kill-order2
+Invoking: status-check2
+Invoking: fix-crafts
+Invoking: dig-stone
+...ownloads/df-ai-develop/df_osx/hack/scripts/dig-stone.lua:14: Cannot read field BitArray<>.ITE_GENERIC: not found.
+stack traceback:
+	[C]: in metamethod '__index'
+	...ownloads/df-ai-develop/df_osx/hack/scripts/dig-stone.lua:14: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: dig-stone2
+Invoking: check-stone-types
+.../df-ai-develop/df_osx/hack/scripts/check-stone-types.lua:37: Cannot read field BitArray<>.ITE_STONE: not found.
+stack traceback:
+	[C]: in metamethod '__index'
+	.../df-ai-develop/df_osx/hack/scripts/check-stone-types.lua:37: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: check-crafts-ws
+Invoking: build-crafts2
+Invoking: requeue-brew
+Invoking: handle-migrants3
+Invoking: expand-fortress
+Invoking: queue-beds
+Invoking: place-beds
+Invoking: find-floors
+Invoking: place-beds2
+Invoking: quicksave
+The game should save the state now.
+Invoking: quick-status
+Invoking: fix-barrels
+Invoking: boost-crafts
+Invoking: queue-z96-crafts
+Invoking: quick-status
+Invoking: manage-production
+Invoking: fix-construction
+Invoking: check-stairs
+Invoking: fix-stairs
+Invoking: fix-z94-access
+Invoking: build-stair-z94
+...ds/df-ai-develop/df_osx/hack/scripts/build-stair-z94.lua:6: bad argument #3 to 'format' (number expected, got light userdata)
+stack traceback:
+	[C]: in function 'string.format'
+	...ds/df-ai-develop/df_osx/hack/scripts/build-stair-z94.lua:6: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: build-stair-z94
+Invoking: check-stairs
+Invoking: check-z94-stair
+Invoking: manage-production
+Invoking: fix-z94-stair
+Invoking: rebuild-stair
+Invoking: find-wall-z94
+Invoking: carve-stair-z94
+Invoking: dig-now
+Invoking: verify-and-connect
+Invoking: force-stairs
+Invoking: set-stairs
+Invoking: manage-production
+Invoking: quick-status
+Invoking: production-cycle
+Invoking: farm-check
+Invoking: expand-farms
+Invoking: diversify-farms
+Invoking: rebuild-farms
+Invoking: getplants SHRUB_FISHER_BERRY SHRUB_ROPE_REED SHRUB_WHIP_VINE
+Invalid plant ID(s): SHRUB_FISHER_BERRY SHRUB_ROPE_REED SHRUB_WHIP_VINE
+Invoking: getplants -a
+Invoking: quicksave
+The game should save the state now.
+Invoking: production-cycle
+Invoking: boost-gathering
+Invoking: getplants -a
+Invoking: quick-status
+Invoking: building-status
+Invoking: crafts-debug
+Invoking: quick-status
+Invoking: count-items
+Invoking: quicksave
+The game should save the state now.
+Invoking: fortress-health
+Invoking: food-audit
+Invoking: production-cycle
+Invoking: start-metal
+Invoking: setup-guildhall
+Invoking: handle-migrants4
+Invoking: production-cycle
+Invoking: quick-status
+Invoking: check-metal
+Invoking: check-workers
+Invoking: quicksave
+The game should save the state now.
+Invoking: production-cycle
+Invoking: check-metal
+Invoking: quick-status
+Invoking: fix-charcoal
+Invoking: fix-charcoal2
+Invoking: check-metal
+Invoking: debug-furnace
+Invoking: check-metal
+Invoking: quick-status
+Invoking: count-items
+Invoking: production-cycle
+Invoking: quicksave
+The game should save the state now.
+Invoking: check-metal
+Invoking: debug-furnace
+Invoking: drink-check
+Invoking: brew-debug
+Invoking: make-buckets
+Invoking: production-cycle
+Invoking: fix-ghost
+...ownloads/df-ai-develop/df_osx/hack/scripts/fix-ghost.lua:20: Cannot read field unit_flags1.dead: not found.
+stack traceback:
+	[C]: in metamethod '__index'
+	...ownloads/df-ai-develop/df_osx/hack/scripts/fix-ghost.lua:20: in local 'script_code'
+	./hack/lua/dfhack.lua:796: in function 'dfhack.run_script_with_env'
+	(...tail calls...)
+	[C]: in field 'runCommand'
+	./hack/lua/dfhack.lua:839: in upvalue '_run_command'
+	./hack/lua/dfhack.lua:843: in function 'dfhack.run_command_silent'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:468: in function <...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:466>
+	(...tail calls...)
+	[C]: in function 'pcall'
+	...ds/df-ai-develop/df_osx/hack/scripts/df-agent-bridge.lua:511: in upvalue 'func'
+	./hack/lua/repeat-util.lua:30: in function <./hack/lua/repeat-util.lua:29>
+Invoking: fix-ghost2
+Invoking: quicksave
+The game should save the state now.
+Invoking: production-cycle
+Invoking: drink-check
+Invoking: check-metal
+Invoking: smelt-gold
+Invoking: production-cycle
+Invoking: quicksave

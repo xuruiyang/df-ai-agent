@@ -1,0 +1,3261 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 2333334
+ Seed: GYGE4Q4iCKw8ASKYeKWu
+ History Seed: Wq2MkymwKkqwWEKqam62
+ Name Seed: u8GM4IW88CyiomGi6u0O
+ Creature Seed: Uf6D60EtMOVgYMlc54ZM
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+Logem Astnakas has become a expedition leader.
+You have struck hematite!
+Kogan Mengcatten has become a Herbalist.
+Kikrost Ninurkñbuk has become a broker.
+You have struck native gold!
+Zon äzumkoman has become a Miner.
+Rigïth Litastidos has become a chief medical dwarf.
+Make wooden Minecart (1) has been completed.
+Make wooden Pipe Section (1) has been completed.
+Make enormous wooden corkscrew (1) has been completed.
+Momuz Keskalashok has become a manager.
+Datan OlineshtÉn has become a bookkeeper.
+Make wooden Wheelbarrow (1) has been completed.
+You have struck hematite!
+Construct Bed (6) has been completed.
+Make wooden Stepladder (2) has been completed.
+Construct rock Armor Stand (1) has been completed.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+Mîrul Rimtarthad has become a expedition leader.
+Rimtar Shorasttabar has become a broker.
+Lïr Lolokzalçs has become a militia commander.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+Minkot Gulnasiden has become a broker.
+Kol Shems†rek has become a expedition leader.
+You have struck blue jade!
+It has started raining.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+There is nothing to catch in the western swamps.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+There is nothing to catch in the northwestern swamps.
+It has started raining.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region1, Olzulkusnathsmaksmo (The Legendary Dragon Land) at coordinates (9,13)
+Loaded the fortress Shodukurvad (Diveseals), colonized by the group Tirist Tumam (The Rim of Morals) of the civilization Deduk Urist (The Manor of Daggers).
+The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Olzulkusnathsmaksmo (The Legendary Dragon Land) at coordinates (9,13)
+Loaded the fortress Shodukurvad (Diveseals), colonized by the group Tirist Tumam (The Rim of Morals) of the civilization Deduk Urist (The Manor of Daggers).
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Olzulkusnathsmaksmo (The Legendary Dragon Land) at coordinates (9,13)
+Loaded the fortress Shodukurvad (Diveseals), colonized by the group Tirist Tumam (The Rim of Morals) of the civilization Deduk Urist (The Manor of Daggers).
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region1, Olzulkusnathsmaksmo (The Legendary Dragon Land) at coordinates (9,13)
+Loaded the fortress Shodukurvad (Diveseals), colonized by the group Tirist Tumam (The Rim of Morals) of the civilization Deduk Urist (The Manor of Daggers).
+It is now summer.
+There is nothing to catch in the western swamps.
+Some migrants have arrived.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Summer has arrived on the calendar.
+The weather has cleared.
+Loaded region1, Olzulkusnathsmaksmo (The Legendary Dragon Land) at coordinates (9,13)
+Loaded the fortress Shodukurvad (Diveseals), colonized by the group Tirist Tumam (The Rim of Morals) of the civilization Deduk Urist (The Manor of Daggers).
+The Fish Cleaner Astesh Mersethaban and the Miner Nil Olonbomrek have married.  Congratulations!
+An animal has grown to become a Stray Billy Goat.
+Autumn has come.
+There is nothing to catch in the western swamps.
+The outpost liaison Lïr Balmeng from Deduk Urist has arrived.
+A caravan from Deduk Urist has arrived.
+Their wagons have bypassed your inaccessible site.
+The merchants need a trade depot to unload their goods.
+Libash KÖlrethakrul, Stoneworker cancels Construct Building: Needs 3 building material non-economic items.
+The dwarves were unable to complete the Trade Depot.
+Some migrants have arrived.
+Libash KÖlrethakrul, Stoneworker cancels Construct Building: Needs 3 building material non-economic items.
+The dwarves were unable to complete the Trade Depot.
+Sazir Mengked, expedition leader cancels Construct Building: Needs building material non-economic item.
+Etur Oltarsemor, Jeweler cancels Construct Building: Needs building material non-economic item.
+Libash KÖlrethakrul, Stoneworker cancels Construct Building: Needs building material non-economic item.
+The dwarves were unable to complete the Craftsdwarf's Workshop.
+The dwarves were unable to complete the Mason's Workshop.
+The dwarves were unable to complete the Carpenter's Workshop.
+Sazir Mengked, expedition leader cancels Construct Building: Needs building material non-economic item.
+The dwarves were unable to complete the Still.
+Nil Olonbomrek, Miner cancels Carve Upward Staircase: Inappropriate dig square.
+Nil Olonbomrek, Miner cancels Dig: Inappropriate dig square.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+It has started raining.
+Nil Olonbomrek, Miner cancels Dig: Inappropriate dig square.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+Merchants have arrived and are unloading their goods.
+The weather has cleared.
+The merchants from Deduk Urist will be leaving soon.
+The merchants from Deduk Urist have embarked on their journey.
+An animal has grown to become a Stray Llama.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+x2
+x3
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+x2
+x3
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+x2
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+x2
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Olin Tostlimul, Leatherworker has been possessed!
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Water: Need empty bucket.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Water: Need empty bucket.
+Cog Bomreksashas, Furnace Operator cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+x3
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Endok Urdimuthmik, Gem Setter cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Sazir Mengked, expedition leader cancels Construct unknown material Bed: Hunting vermin for food.
+Reg Koganstibmer, Farmer cancels Process Plants (Barrel): Hunting vermin for food.
+Winter is upon you.
+Libash KÖlrethakrul, Stoneworker cancels Construct unknown material Door: Hunting vermin for food.
+Sibrek TimnÑrid, Woodcutter cancels Construct unknown material Bed: Hunting vermin for food.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Tholtig Ometdumat, Peasant cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Reg Koganstibmer has become a Thresher.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Reg Koganstibmer, Thresher cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: Hunting vermin for food.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: Hunting vermin for food.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Endok Urdimuthmik, Gem Setter cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Water: Hunting vermin for food.
+Endok Urdimuthmik, Gem Setter cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Endok Urdimuthmik, Gem Setter cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Endok Urdimuthmik, Gem Setter cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Endok Urdimuthmik, Gem Setter cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Water: Hunting vermin for food.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+x2
+Stukos Lektadavuz, Fisherdwarf cancels Fish: Hunting vermin for food.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+x2
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+x2
+x3
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+x2
+Reg Koganstibmer, Thresher cancels Process Plants (Barrel): Hunting vermin for food.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+x2
+x3
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Deduk Kilrudasob, Bone Carver cancels Hunt for Small Creature: Anguished.
+Olin Tostlimul, Leatherworker cancels Strange Mood: Went insane.
+Olin Tostlimul, Leatherworker is stricken by melancholy!
+Atås Rilbetushat has grown to become a Doe Rabbit.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+x3
+x4
+Cog Bomreksashas, Furnace Operator cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Cog Bomreksashas, Furnace Operator cancels Give Food: No food available.
+x2
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Cog Bomreksashas, Furnace Operator cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Cog Bomreksashas, Furnace Operator cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Cog Bomreksashas, Furnace Operator cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+x2
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Sazir Mengked, expedition leader cancels Give Food: No food available.
+x2
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Deduk Kilrudasob, Bone Carver cancels Drink: Water source vanished.
+Ral Amudkosoth, Engraver cancels Drink: Water source vanished.
+Cog Bomreksashas, Furnace Operator cancels Drink: Water source vanished.
+Ral Amudkosoth, Engraver cancels Drink: Water source vanished.
+x2
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+x3
+x4
+Sazir Mengked, expedition leader cancels Construct unknown material Bed: Hunting vermin for food.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Zon Oddomcog, Bowyer cancels Construct unknown material Table: Hunting vermin for food.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+x2
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+Catten Konosartob, Furnace Operator cancels Give Water: Hunting vermin for food.
+ïnul Ushatbelal, Peasant cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+ïnul Degkivish, Bowyer cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+x7
+ïnul Ushatbelal, Peasant cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+x2
+x3
+x4
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Hunt for Small Creature: Horrified.
+Ral Amudkosoth, Engraver cancels Hunt for Small Creature: Horrified.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+x2
+x3
+Nil Olonbomrek, Miner cancels Hunt for Small Creature: Anguished.
+Sibrek TimnÑrid, Woodcutter has been found, starved to death.
+Sazir Mengked, expedition leader cancels Hunt for Small Creature: Grieving.
+Catten Konosartob, Furnace Operator cancels Hunt for Small Creature: Horrified.
+Nil Olonbomrek, Miner cancels Hunt for Small Creature: Horrified.
+x2
+Tholtig Ometdumat, Peasant cancels Construct unknown material Throne: Hunting vermin for food.
+Libash KÖlrethakrul, Stoneworker cancels Hunt for Small Creature: Horrified.
+Sazir Mengked, expedition leader cancels Hunt for Small Creature: Horrified.
+x2
+Etur Oltarsemor, Jeweler cancels Hunt for Small Creature: Grieving.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Hunt for Small Creature: Horrified.
+Ingish Custithletmos, Weaver cancels Hunt for Small Creature: Horrified.
+Sazir Mengked, expedition leader cancels Hunt for Small Creature: Horrified.
+Zon Oddomcog, Bowyer has been found, starved to death.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+x2
+x3
+x4
+Libash KÖlrethakrul, Stoneworker cancels Hunt for Small Creature: Horrified.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+There is nothing to catch in the northwestern swamps.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Hunt for Small Creature: Horrified.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+x2
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Deduk Kilrudasob, Bone Carver cancels Hunt for Small Creature: Anguished.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Ral Amudkosoth, Engraver cancels Hunt for Small Creature: Horrified.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+x2
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Ingish Custithletmos, Weaver cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Momuz Ébirsolon, Weaponsmith cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Water: Hunting vermin for food.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Libash KÖlrethakrul, Stoneworker cancels Pickup Equipment: Hunting vermin for food.
+Endok Urdimuthmik, Gem Setter cancels Give Food: No food available.
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+x2
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+x2
+x3
+x4
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+x2
+Imush Kindomas, Animal Caretaker cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Astesh Mersethaban, Fish Cleaner cancels Hunt for Small Creature: Horrified.
+Libash KÖlrethakrul, Stoneworker cancels Hunt for Small Creature: Horrified.
+ïnul Ushatbelal, Peasant cancels Give Food: No food available.
+Cog Bomreksashas, Furnace Operator cancels Give Food: No food available.
+Catten Konosartob, Furnace Operator cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+x2
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Etur Oltarsemor, Jeweler cancels Give Food: No food available.
+Reg Koganstibmer, Thresher cancels Process Plants (Barrel): Hunting vermin for food.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+x2
+x3
+ïnul Ushatbelal, Peasant cancels Drink: Water source contaminated.
+Nil Olonbomrek, Miner cancels Give Food: No food available.
+Stukos Lektadavuz, Fisherdwarf cancels Give Food: No food available.
+Ral Amudkosoth, Engraver cancels Drink: Water source contaminated.
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Deduk Kilrudasob, Bone Carver cancels Pickup Equipment: Anguished.
+Spring has arrived!
+Libash KÖlrethakrul has become a Carpenter.
+There is nothing to catch in the northwestern swamps.
+A elven caravan from Milóçmimi has arrived.
+Merchants have arrived and are unloading their goods.
+Deduk Kilrudasob, Bone Carver withdraws from society...
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Sibrek TimnÑrid, Woodcutter cancels Construct Building: Could not find path.
+The dwarves suspended the construction of galena Table.
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+Zon Oddomcog, Bowyer cancels Give Food: No food available.
+Sibrek TimnÑrid, Woodcutter cancels Give Food: No food available.
+x2
+It has started raining.
+The weather has cleared.
+The merchants from Milóçmimi will be leaving soon.
+Sazir Mengked has become a expedition leader.
+The merchants from Milóçmimi have embarked on their journey.
+Merchants have arrived and are unloading their goods.
+The fortress attracted no migrants this season.
+Lokum Olincudãst has grown to become a Billy Goat.
+Libash KÖlrethakrul, Carpenter cancels Construct unknown material Bed: Horrified.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 5555334
+ Seed: s6SwUiECYEeAaUIQq40a
+ History Seed: OKMq4UuwGOwGK4GYSaE6
+ Name Seed: SCiYEskaUmYUsKaEGKmg
+ Creature Seed: AyMoA8kwUg8CEGoyuImm
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+Nothing has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+There is nothing to catch in the southeastern swamps.
+The stray dog scratches the badger boar in the teeth, but the attack glances away!
+The force bends the head!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the left front paw, denting the skin and bruising the fat!
+The stray dog misses the badger boar!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the right rear paw, denting the skin and bruising the muscle!
+The force bends the right rear leg!
+The stray dog charges at the badger boar!
+The stray dog collides with the badger boar!
+The badger boar is knocked over!
+The badger boar stands up.
+The stray dog scratches the badger boar in the left front paw, lightly tapping the target!
+The stray dog scratches the badger boar in the left front paw, tearing the skin!
+The badger boar attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the right front paw, denting the skin and bruising the muscle!
+The stray dog charges at the badger boar!
+The stray dog collides with the badger boar!
+The badger boar is knocked over!
+The stray dog attacks the badger boar but He jumps away!
+The badger boar is no longer stunned.
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The stray dog scratches the badger boar in the fifth right rear toe, but the attack glances away!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the left front leg, denting the skin and bruising the fat!
+The stray dog scratches the badger boar in the left rear paw, tearing the fat and bruising the muscle!
+The stray dog misses the badger boar!
+The badger boar stands up.
+The stray dog attacks the badger boar but He jumps away!
+The stray dog charges at the badger boar!
+The stray dog collides with the badger boar!
+The badger boar is knocked over!
+The stray dog scratches the badger boar in the right rear leg, tearing the fat!
+The badger boar is no longer stunned.
+The badger boar stands up.
+The badger boar scratches the stray dog in the left rear paw, denting the skin!
+The stray dog attacks the badger boar but He jumps away!
+The badger boar misses the stray dog!
+The badger boar attacks the stray dog but She jumps away!
+The stray dog scratches the badger boar in the lower body, denting the skin and bruising the fat!
+The stray dog misses the badger boar!
+The badger boar attacks the stray dog but She jumps away!
+The stray dog scratches the badger boar in the right front paw, denting the skin and bruising the muscle!
+The force bends the right front leg!
+The badger boar misses the stray dog!
+The stray dog attacks the badger boar but He jumps away!
+The badger boar misses the stray dog!
+The stray dog attacks the badger boar but He jumps away!
+The badger boar attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The badger boar scratches the stray dog in the right front paw, tearing the fat and bruising the muscle!
+The stray dog scratches the badger boar in the tail, tearing the fat and bruising the muscle!
+The stray dog scratches the badger boar in the head, tearing the fat and bruising the muscle!
+The force twists the neck, bruising the skin!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the left front leg, tearing the fat!
+The stray dog scratches the badger boar in the upper body, tearing the fat and bruising the muscle and bruising the liver!
+The stray dog scratches the badger boar in the right rear paw, denting the skin and bruising the fat!
+The stray dog scratches the badger boar in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The stray dog charges at the badger boar!
+The stray dog collides with the badger boar!
+The badger boar is knocked over and tumbles backward!
+The badger boar is no longer stunned.
+The stray dog scratches the badger boar in the upper body, tearing the muscle and bruising the right lung!
+The badger boar is having trouble breathing!
+The stray dog scratches the badger boar in the fourth left front toe, shattering the nail!
+The force pulls the left front paw, bruising the fat!
+The stray dog scratches the badger boar in the upper body, denting the skin and bruising the muscle!
+The stray dog misses the badger boar!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the left front paw, tearing the muscle!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The stray dog scratches the badger boar in the left front paw, denting the skin and bruising the muscle!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the right rear paw, tearing the muscle!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the left front leg, denting the skin and bruising the muscle!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The stray dog scratches the badger boar in the right front paw, denting the skin!
+The stray dog scratches the badger boar in the left rear leg, tearing the muscle!
+The stray dog scratches the badger boar in the upper body, tearing the muscle!
+The stray dog scratches the badger boar in the right rear paw, tearing the muscle!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog scratches the badger boar in the head, denting the skin and bruising the fat!
+The stray dog charges at the badger boar!
+The stray dog collides with the badger boar!
+The badger boar is knocked over!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger sow but She jumps away!
+The badger sow scratches the stray dog in the right rear paw, denting the skin and bruising the fat!
+The stray dog misses the badger sow!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog scratches the badger boar in the left front paw, denting the skin and bruising the fat!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog misses the badger sow!
+The badger sow scratches the stray dog in the left front paw, denting the skin and bruising the muscle!
+The stray dog attacks the badger sow but She jumps away!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger sow but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger sow but She jumps away!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog scratches the badger boar in the right front paw, tearing the fat and bruising the muscle!
+The force bends the right front leg!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The badger sow attacks the stray dog but She jumps away!
+The badger sow has become enraged!
+The stray dog scratches the badger sow in the right rear paw, denting the skin!
+The badger sow scratches the stray dog in the right rear paw, tearing the fat!
+The stray dog scratches the badger sow in the first right front toe, but the attack glances away!
+The force twists the right front paw!
+The badger sow misses the stray dog!
+The stray dog charges at the badger sow!
+The stray dog collides with the badger sow!
+The badger sow is knocked over!
+The badger sow stands up.
+The badger sow misses the stray dog!
+The stray dog scratches the badger sow in the lower body, denting the skin and bruising the muscle and bruising the pancreas!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger sow in the fourth left rear toe, but the attack glances away!
+The force bends the left rear paw!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger sow in the right rear paw, denting the skin!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog scratches the badger sow in the right rear paw, denting the skin!
+The badger sow misses the stray dog!
+The stray dog misses the badger sow!
+The stray dog charges at the badger sow!
+The stray dog collides with the badger sow!
+The badger sow is knocked over!
+The badger sow stands up.
+The badger sow attacks the stray dog but She jumps away!
+The stray dog misses the badger sow!
+The badger sow attacks the stray dog but She jumps away!
+The badger sow misses the stray dog!
+The stray dog misses the badger sow!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog misses the badger boar!
+The stray dog scratches the badger sow in the right rear leg, denting the skin and bruising the fat!
+The badger sow misses the stray dog!
+The stray dog scratches the badger boar in the left front leg, denting the skin and bruising the fat!
+The stray dog scratches the badger sow in the right front leg, denting the skin and bruising the fat!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The badger sow misses the stray dog!
+The stray dog scratches the badger sow in the first right rear toe, but the attack glances away!
+The force twists the right rear paw!
+The stray dog scratches the badger sow in the head, tearing the fat and bruising the muscle!
+The force pulls the neck!
+The badger sow scratches the stray dog in the upper body, tearing the fat and bruising the muscle and bruising the right lung!
+The stray dog is having trouble breathing!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The badger sow attacks the stray dog but She jumps away!
+The stray dog attacks the badger boar but He jumps away!
+The badger sow misses the stray dog!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The badger sow attacks the stray dog but She jumps away!
+The badger sow misses the stray dog!
+The badger sow charges at the stray dog!
+The badger sow collides with the stray dog!
+They tangle together and tumble forward!
+The stray dog attacks the badger boar but He jumps away!
+The badger sow stands up.
+The stray dog misses the badger boar!
+The stray dog is no longer stunned.
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The badger sow misses the stoneworker!
+The stoneworker punches the badger sow in the first left front toe with her right hand, shattering the nail!
+The force pulls the left front paw, tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been bruised and a tendon has been bruised!
+The badger sow misses the stoneworker!
+The stoneworker punches the badger sow in the lower body with her right hand, bruising the fat!
+ãngiz Kashezzasit, Stoneworker: This is a fight!  I feel no terror.
+The stoneworker charges at the badger sow!
+The stoneworker collides with the badger sow!
+The badger sow is knocked over and tumbles backward!
+The badger sow stands up.
+The badger sow attacks the stoneworker but She jumps away!
+The badger sow misses the fisherdwarf!
+The fisherdwarf punches the badger sow in the upper body with his left hand, bruising the muscle and bruising the liver!
+The fisherdwarf grabs the badger sow by the right eye tooth with his right lower arm!
+The fisherdwarf takes the badger sow down by the right eye tooth with The fisherdwarf's right lower arm!
+The stoneworker scratches the badger sow in the fourth right rear toe, shattering the nail!
+The force pulls the right rear paw, tearing apart the skin!
+The badger sow scratches the fisherdwarf in the left upper leg, bruising the muscle through the x(llama leather cloak)x!
+The force twists the left hip!
+The stray dog scratches the badger boar in the left front leg, denting the skin and bruising the fat!
+The badger sow stands up.
+Zan Eribrith, Fisherdwarf: The battle rages...  I feel no terror.
+The fisherdwarf throws the badger sow by the right eye tooth with The fisherdwarf's right lower arm!
+ãngiz Kashezzasit, Stoneworker: I cannot just stand by.  This might require an answer.
+The stoneworker punches the badger sow in the right front paw with her left hand, but the attack glances away!
+The fisherdwarf releases the grip of The fisherdwarf's right lower arm from The badger sow's right eye tooth.
+The fisherdwarf punches the badger sow in the right front paw with his right hand, bruising the muscle!
+The stray dog attacks the badger boar but He jumps away!
+The stoneworker charges at the fisherdwarf!
+The stoneworker collides with the fisherdwarf!
+The stoneworker bounces backward!
+The badger sow slams into an obstacle!
+The badger sow stands up.
+The fisherdwarf punches the badger sow in the right rear leg with his left hand, bruising the muscle!
+The badger sow scratches the fisherdwarf in the left lower arm, bruising the fat through the X(llama leather cloak)X!
+The stray dog scratches the badger boar in the right front leg, tearing the fat and bruising the muscle!
+The fisherdwarf punches the badger sow in the right rear leg with his right hand, bruising the muscle!
+The badger sow attacks the fisherdwarf but He jumps away!
+The fisherdwarf misses the badger sow!
+The badger sow attacks the stoneworker but She jumps away!
+The stray dog scratches the badger boar in the right rear leg, tearing the fat!
+The fisherdwarf punches the badger sow in the lower body with his left hand, bruising the muscle and bruising the lower spine's bone!
+The stoneworker grabs the badger sow by the fifth right rear toe with her right lower arm!
+The fisherdwarf is no longer stunned.
+The stoneworker takes the badger sow down by the fifth right rear toe with The stoneworker's right lower arm!
+The expedition leader punches the badger sow in the tail with her left hand and the injured part collapses!
+An artery has been opened by the attack!
+The badger sow stands up.
+The fisherdwarf grabs the badger sow by the right rear paw with his right upper arm!
+The stoneworker throws the badger sow by the fifth right rear toe with The stoneworker's right lower arm!
+The stoneworker punches the badger sow in the right front paw with her right hand, bruising the muscle!
+The expedition leader punches the badger sow in the right front paw with her left hand and the injured part collapses into a lump of gore!
+An artery has been opened by the attack!
+The fisherdwarf punches the badger sow in the upper body with his left hand, bruising the muscle and shattering the left true ribs!
+The badger sow slams into an obstacle!
+The badger sow misses the stoneworker!
+The stray dog scratches the badger boar in the right rear paw, tearing the fat and bruising the muscle!
+The stoneworker punches the badger sow in the upper body with her right hand, bruising the muscle and bruising the right lung!
+The badger sow is having trouble breathing!
+The fisherdwarf charges at the expedition leader!
+The fisherdwarf collides with the expedition leader!
+They tangle together and tumble forward!
+The stoneworker releases the grip of The stoneworker's right lower arm from The badger sow's fifth right rear toe.
+The expedition leader stands up.
+Badger Sow is no longer enraged.
+The fisherdwarf stands up.
+The expedition leader is no longer stunned.
+The fisherdwarf is no longer stunned.
+The stray dog scratches the badger boar in the right rear leg, tearing the fat and bruising the muscle!
+The stray dog scratches the badger boar in the right rear paw, tearing the skin!
+The stray dog stands up.
+The stray dog attacks the badger boar but He jumps away!
+The badger sow is no longer stunned.
+The stray dog scratches the badger boar in the lower body, tearing the fat and bruising the muscle and bruising the guts!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the right rear leg, denting the skin and bruising the fat!
+The stray dog scratches the badger boar in the right rear leg, denting the skin!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the right front paw, tearing the skin!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog misses the badger boar!
+The stray dog scratches the badger boar in the right eye, tearing it!
+The force twists the head, bruising the skin!
+The stray dog scratches the badger boar in the upper body, tearing the fat and bruising the muscle!
+The stray dog attacks the badger boar but He jumps away!
+The stray dog scratches the badger boar in the left rear leg, tearing the fat and bruising the muscle!
+The stray dog charges at the badger boar!
+The stray dog collides with the badger boar!
+The badger boar is knocked over!
+The badger boar is no longer stunned.
+The badger boar has become enraged!
+Badger Boar is no longer enraged.
+The badger boar stands up.
+The badger sow has become enraged!
+Badger Sow is no longer enraged.
+The badger sow has become enraged!
+Sigun Nàcikerush, expedition leader cancels Carve Downward Staircase: Inappropriate dig square.
+Badger Sow is no longer enraged.
+There is nothing to catch in the central swamps.
+Sigun Nàcikerush, expedition leader cancels Dig Channel: Inappropriate dig square.
+x2
+Sigun Nàcikerush, expedition leader cancels Carve Downward Staircase: Inappropriate dig square.
+You have struck cinnabar!
+Sigun Nàcikerush, expedition leader cancels Dig: Inappropriate dig square.
+Sigun Nàcikerush, expedition leader cancels Carve Up/Down Staircase: Inappropriate dig square.
+Sigun Nàcikerush, expedition leader cancels Carve Downward Staircase: Inappropriate dig square.
+It has started raining.
+The weather has cleared.
+Sigun Nàcikerush, expedition leader cancels Dig: Inappropriate dig square.
+x2
+x3
+x4
+x5
+It is now summer.
+Sigun Nàcikerush, expedition leader cancels Dig: Inappropriate dig square.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Sigun Nàcikerush, expedition leader cancels Carve Up/Down Staircase: Inappropriate dig square.
+Sigun Nàcikerush, expedition leader cancels Dig: Inappropriate dig square.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+x39
+x40
+x41
+x42
+x43
+x44
+x45
+x46
+x47
+x48
+x49
+x50
+x51
+x52
+x53
+x54
+x55
+x56
+x57
+x58
+x59
+x60
+x61
+x62
+x63
+x64
+x65
+x66
+x67
+x68
+x69
+x70
+x71
+x72
+x73
+x74
+x75
+x76
+x77
+x78
+x79
+x80
+x81
+x82
+x83
+x84
+x85
+x86
+x87
+x88
+x89
+x90
+x91
+x92
+x93
+x94
+x95
+x96
+x97
+x98
+x99
+x100
+x101
+x102
+x103
+x104
+x105
+x106
+x107
+x108
+x109
+x110
+x111
+x112
+x113
+x114
+x115
+x116
+x117
+x118
+x119
+x120
+x121
+x122
+x123
+x124
+x125
+x126
+x127
+x128
+x129
+x130
+x131
+x132
+x133
+x134
+x135
+x136
+x137
+x138
+x139
+x140
+x141
+x142
+x143
+x144
+x145
+x146
+x147
+x148
+x149
+x150
+x151
+x152
+x153
+x154
+x155
+x156
+x157
+x158
+x159
+x160
+x161
+x162
+x163
+x164
+x165
+x166
+x167
+x168
+x169
+x170
+x171
+x172
+x173
+x174
+x175
+x176
+x177
+x178
+x179
+x180
+x181
+x182
+x183
+x184
+x185
+x186
+x187
+x188
+x189
+x190
+There is nothing to catch in the central swamps.
+Sigun Nàcikerush, expedition leader cancels Dig: Inappropriate dig square.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+x23
+x24
+x25
+x26
+x27
+x28
+x29
+x30
+x31
+x32
+x33
+x34
+x35
+x36
+x37
+x38
+x39
+x40
+x41
+x42
+x43
+x44
+x45
+x46
+x47
+x48
+x49
+x50
+x51
+x52
+x53
+x54
+x55
+x56
+x57
+x58
+x59
+x60
+x61
+x62
+x63
+x64
+x65
+x66
+x67
+x68
+x69
+x70
+x71
+x72
+x73
+x74
+x75
+x76
+x77
+x78
+x79
+x80
+x81
+x82
+x83
+x84
+x85
+x86
+It has started raining.
+The weather has cleared.
+Asmel Okoldegâl has become a Carpenter.
+Some migrants have arrived.
+Medtob Likotrìber has become a Carpenter.
+Reg Amugunib has become a Planter.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+There is nothing to catch in the southeastern swamps.
+StÉkud Durlolok, Jeweler cancels Construct unknown material Bed: Needs logs.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Make unknown material Barrel: Needs logs.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Make unknown material Barrel: Needs logs.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Make unknown material Barrel: Needs logs.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Make unknown material Barrel: Needs logs.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Make unknown material Barrel: Needs logs.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+StÉkud Durlolok, Jeweler cancels Make unknown material Barrel: Needs logs.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Make unknown material Barrel: Needs logs.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Make unknown material Barrel: Needs logs.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Make unknown material Barrel: Needs logs.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Make unknown material Barrel: Needs logs.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Bin: Needs logs.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Bin: Needs logs.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Bin: Needs logs.
+x2
+x3
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+It has started raining.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Table: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Table: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Table: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Table: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Throne: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Throne: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Throne: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Throne: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+StÉkud Durlolok, Jeweler cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Meng Tanathel, Woodworker cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+Meng Tanathel, Woodworker cancels Construct unknown material Table: Needs building material non-economic stones.
+x2
+x3
+x4
+Meng Tanathel, Woodworker cancels Construct unknown material Throne: Needs building material non-economic stones.
+x2
+x3
+x4
+The weather has cleared.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+x2
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+x2
+x3
+x4
+x5
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+x2
+Rigïth Inethdum, Fisherdwarf cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Rigïth Inethdum, Fisherdwarf cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+x2
+x3
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs plants.
+x2
+x3
+It has started raining.
+Meng Tanathel has become a Carpenter.
+Urist Rithlutsibrek has become a expedition leader.
+The weather has cleared.
+It has started raining.
+Rigïth Inethdum has become a Herbalist.
+StÉkud Durlolok has become a Herbalist.
+The wolverine has become enraged!
+Deduk Ralkeskal, Miner cancels Gather Plants: Interrupted by a wolverine.
+The wolverine scratches the miner in the right lower arm, lightly tapping the target!
+The miner punches the wolverine in the right front paw with her right hand, bruising the bone!
+The force twists the right front leg, bruising the skin!
+The miner grabs the wolverine by the first right rear toe with her right hand!
+The wolverine scratches the miner in the right lower arm, bruising the skin through the x(cave spider silk cloak)x!
+The miner takes the wolverine down by the first right rear toe with The miner's right hand!
+The wolverine stands up.
+The miner releases the grip of The miner's right hand from The wolverine's first right rear toe.
+Deduk Ralkeskal, Miner: In the midst of conflict...  I feel no terror.
+The miner grabs the wolverine by the fourth left rear toe with her right hand!
+The wolverine scratches the miner in the right lower leg, bruising the muscle through the x(giant cave spider silk dress)x!
+The miner releases the grip of The miner's right hand from The wolverine's fourth left rear toe.
+The miner punches the wolverine in the left rear leg with her left hand, bruising the muscle!
+The wolverine misses the miner!
+The miner grabs the wolverine by the teeth with her left upper arm!
+The miner takes the wolverine down by the teeth with The miner's left upper arm!
+The miner releases the grip of The miner's left upper arm from The wolverine's teeth.
+The wolverine stands up.
+The miner grabs the wolverine by the lower body with her left hand!
+The wolverine scratches the miner in the right lower leg, bruising the skin through the X(giant cave spider silk dress)X!
+The miner throws the wolverine by the lower body with The miner's left hand!
+The miner scratches the wolverine in the left rear paw, tearing the fat and bruising the muscle!
+The wolverine's right front leg skids along the ground, bruising the muscle!
+Mîrul Arbaninod, Fish Cleaner cancels Gather Plants: Interrupted by a wolverine.
+The wolverine's right front leg skids along the ground, bruising the muscle!
+The wolverine slams into an obstacle!
+The wolverine stands up.
+The wolverine scratches the miner in the left lower arm, bruising the muscle through the X(cave spider silk cloak)X!
+The miner grabs the wolverine by the tail with her left lower arm!
+The miner punches the wolverine in the right rear leg with her left hand, bruising the muscle!
+The wolverine scratches the miner in the right lower arm, bruising the fat through the XX(cave spider silk cloak)XX!
+The miner punches the wolverine in the upper body with her right hand, bruising the muscle and bruising the heart!
+The miner charges at the wolverine!
+The miner collides with the wolverine!
+The wolverine is knocked over and tumbles backward!
+The wolverine stands up.
+The miner grabs the wolverine by the fourth left rear toe with her right lower arm!
+The wolverine scratches the miner in the left foot, bruising the skin through the x(alpaca wool shoe)x!
+The miner throws the wolverine by the fourth left rear toe with The miner's right lower arm!
+The miner punches the wolverine in the left front paw with her right hand, bruising the muscle!
+The wolverine slams into an obstacle!
+The fish cleaner kicks the wolverine in the right eye with his left foot and the injured part collapses into a lump of gore!
+The force twists the head, tearing apart the skin and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The wolverine stands up.
+The miner releases the grip of The miner's right lower arm from The wolverine's fourth left rear toe.
+The miner stands up.
+The wolverine attacks the fish cleaner but He jumps away!
+The wolverine scratches the miner in the right lower leg, bruising the muscle through the XX(giant cave spider silk dress)XX!
+The miner grabs the wolverine by the right front leg with her left hand!
+The wolverine is unable to break the grip of The miner's left hand on The wolverine's right front leg!
+The fish cleaner punches the wolverine in the neck with his right hand, bruising the muscle!
+The wolverine stands up.
+The miner punches the wolverine in the right rear paw with her right hand, bruising the muscle!
+The wolverine misses the miner!
+The fish cleaner grabs the wolverine by the right ear with his right upper arm!
+The fish cleaner charges at the wolverine!
+The fish cleaner collides with the wolverine!
+The wolverine is knocked over and tumbles backward!
+The wolverine stands up.
+The fish cleaner punches the wolverine in the lower body with his left hand, bruising the muscle and bruising the stomach!
+The miner grabs the wolverine by the fourth left rear toe with her right upper arm!
+The wolverine scratches the miner in the left upper leg, bruising the fat through the XX(cave spider silk cloak)XX!
+The XX(cave spider silk cloak)XX is ripped to shreds!
+The miner takes the wolverine down by the fourth left rear toe with The miner's right upper arm!
+The wolverine stands up.
+The fish cleaner grabs the wolverine by the fifth left front toe with his right hand!
+The miner takes the wolverine down by the fourth left rear toe with The miner's right upper arm!
+The wolverine stands up.
+The fish cleaner punches the wolverine in the head with his left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The miner throws the wolverine by the fourth left rear toe with The miner's right upper arm!
+The miner releases the grip of The miner's right upper arm from The wolverine's fourth left rear toe.
+The fish cleaner releases the grip of The fish cleaner's right hand from The wolverine's fifth left front toe.
+The wolverine's left front leg skids along the ground, bruising the muscle!
+The wolverine slams into an obstacle!
+The wolverine stands up.
+The wolverine attacks the fish cleaner but He jumps away!
+The fish cleaner grabs the wolverine by the first left rear toe with his right upper arm!
+The fish cleaner takes the wolverine down by the first left rear toe with The fish cleaner's right upper arm!
+The wolverine stands up.
+The miner punches the wolverine in the head with her left hand, bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The fish cleaner throws the wolverine by the first left rear toe with The fish cleaner's right upper arm!
+The miner scratches the wolverine in the left front leg, tearing the fat and bruising the muscle!
+The wolverine's right rear leg skids along the ground, bruising the muscle!
+The miner scratches the wolverine in the lower body, tearing the fat and bruising the muscle!
+The wolverine's right front leg skids along the ground, bruising the muscle!
+The fish cleaner punches the wolverine in the lower body with his right hand, bruising the muscle and bruising the pancreas!
+The wolverine slams into an obstacle!
+The wolverine stands up.
+The wolverine misses the fish cleaner!
+The fish cleaner punches the wolverine in the right front paw with his right hand, bruising the bone!
+The fish cleaner grabs the wolverine by the teeth with his right lower arm!
+The wolverine misses the fish cleaner!
+The fish cleaner punches the wolverine in the upper body with his right hand, bruising the muscle, jamming the right true ribs through the left lung and tearing apart the left lung!
+The wolverine is having trouble breathing!
+The miner grabs the wolverine by the first right rear toe with her left lower arm!
+The fish cleaner charges at the wolverine!
+The fish cleaner collides with the wolverine!
+The wolverine is knocked over and tumbles backward!
+The wolverine stands up.
+The fish cleaner grabs the wolverine by the second right front toe with his left upper arm!
+The wolverine scratches the fish cleaner in the right foot, bruising the muscle through the x(wolf leather shoe)x!
+The force bends the right ankle!
+The fish cleaner takes the wolverine down by the second right front toe with The fish cleaner's left upper arm!
+The miner charges at the fish cleaner!
+The miner collides with the fish cleaner!
+They tangle together and fall over!
+The wolverine stands up.
+The fish cleaner stands up.
+The wolverine misses the fish cleaner!
+The fish cleaner punches the wolverine in the left rear leg with his left hand, bruising the muscle!
+The wolverine misses the fish cleaner!
+The fish cleaner punches the wolverine in the upper body with his left hand, bruising the muscle and shattering the left true ribs!
+The wolverine scratches the fish cleaner in the left upper arm, bruising the fat through the x(llama wool cloak)x!
+The fish cleaner punches the wolverine in the neck with his right hand, bruising the fat!
+The fish cleaner charges at the wolverine!
+The fish cleaner collides with the wolverine!
+The wolverine is knocked over!
+The wolverine stands up.
+The wolverine misses the fish cleaner!
+The fish cleaner takes the wolverine down by the second right front toe with The fish cleaner's left upper arm!
+The fish cleaner releases the grip of The fish cleaner's left upper arm from The wolverine's second right front toe.
+The miner stands up.
+The wolverine is no longer stunned.
+Wolverine is no longer enraged.
+The wolverine stands up.
+The weather has cleared.
+It is now summer.
+Kñbuk EcemstinthÑd has become a Herbalist.
+Some migrants have arrived.
+Lokum Shetbàthnokim, Miner cancels Dig: Inappropriate dig square.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+Rakust Cerolraz has become a Herbalist.
+és Keskalubal has become a Herbalist.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs barrel.
+x2
+x3
+x4
+x5
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Fish Cleaner cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Miner cancels Brew drink from plant: Needs plants.
+x2
+x3
+x4
+x5
+x6
+x7
+Kñbuk EcemstinthÑd has become a Woodcutter.
+Mîrul Arbaninod has become a Herbalist.
+StÉkud Durlolok has become a Carpenter.
+Kñbuk EcemstinthÑd has become a Herbalist.
+Autumn has come.
+It has started raining.
+Deduk Ralkeskal has become a Herbalist.
+The weather has cleared.
+Mistàm Nïmgusil has created a masterpiece apricot wood barrel!
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Job item lost or destroyed.
+The outpost liaison Sigun Egenkol from Tinîthzon has arrived.
+A caravan from Tinîthzon has arrived.
+Merchants have arrived and are unloading their goods.
+Rakust Cerolraz, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Job item lost or destroyed.
+Kñbuk EcemstinthÑd has become a Woodcutter.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Interrupted by a black bear.
+Meng Tanathel, Carpenter cancels Construct Building: Interrupted by a black bear.
+The dwarves suspended the construction of eagle bone Throne.
+The black bear strikes at the hammerdwarf but the shot is blocked!
+Kñbuk EcemstinthÑd, Woodcutter cancels Gather Plants: Interrupted by a black bear.
+The flying ({iron bolt}) strikes the black bear in the left front leg, chipping the bone!
+A tendon has been torn!
+The flying ({iron bolt}) strikes the black bear in the tail, chipping the bone!
+A tendon has been torn!
+The flying ({iron bolt}) strikes the black bear in the lower body, tearing the muscle and tearing the right kidney!
+Meng Tanathel, Carpenter cancels Construct unknown material Bed: Interrupted by a black bear.
+The hammerdwarf attacks the black bear but He jumps away!
+The outpost liaison punches the black bear in the right rear leg with his right hand, bruising the muscle!
+The hammerdwarf attacks the black bear but He jumps away!
+The axedwarf hacks the black bear in the upper body with his ({bronze battle axe}), tearing the muscle and bruising the left lung!
+An artery has been opened by the attack!
+The outpost liaison attacks the black bear but He jumps away!
+The axedwarf stands up.
+The hammerdwarf bashes the black bear in the left rear leg with her ({iron war hammer}), bruising the muscle!
+The axedwarf hacks the black bear in the upper body with his ({bronze battle axe}) and the injured part is cloven asunder!
+An artery has been opened by the attack!
+A tendon in the middle spine has been torn!
+The ({bronze battle axe}) has lodged firmly in the wound!
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Job item lost or destroyed.
+és Keskalubal, Herbalist cancels Eat: Item inaccessible.
+It has started raining.
+Some migrants have arrived.
+The merchants from Tinîthzon will be leaving soon.
+Rakust Cerolraz, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+x3
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+Deduk Ralkeskal, Herbalist cancels Dig: Inappropriate dig square.
+x2
+x3
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs barrel.
+x2
+Meng Tanathel, Carpenter cancels Brew drink from plant: Needs barrel.
+The weather has cleared.
+There is nothing to catch in the central swamps.
+The merchants from Tinîthzon have embarked on their journey.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+x3
+x4
+x5
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+x3
+It has started raining.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+Minkot Akrulrithlut has become a Herbalist.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+There is nothing to catch in the southeastern swamps.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs barrel.
+Mîrul Arbaninod, Herbalist cancels Drink: Water source vanished.
+Deduk Ralkeskal, Herbalist cancels Drink: Water source vanished.
+The weather has cleared.
+Olin ågamedâm, Glassmaker cancels Gather Plants: Taken by mood.
+Olin ågamedâm, Glassmaker has been possessed!
+Iden Gemsitonol has become a Herbalist.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Throne: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Throne: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Throne: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Throne: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+Meng Tanathel, Carpenter cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+Meng Tanathel, Carpenter cancels Construct unknown material Table: Needs building material non-economic stones.
+x2
+x3
+x4
+Meng Tanathel, Carpenter cancels Construct unknown material Throne: Needs building material non-economic stones.
+x2
+x3
+x4
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Table: Needs building material non-economic stones.
+x2
+x3
+x4
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Throne: Needs building material non-economic stones.
+x2
+x3
+x4
+Rakust Cerolraz, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+Dastot TaroneshtÉn has become a Herbalist.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+Rakust Cerolraz, Herbalist cancels Brew drink from plant: Needs barrel.
+x2
+x3
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Mîrul Arbaninod, Herbalist cancels Eat: Item inaccessible.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+x3
+x4
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs barrel.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Needs barrel.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs barrel.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+StÉkud Durlolok has become a Herbalist.
+Meng Tanathel, Carpenter cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+Winter is upon you.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs barrel.
+x2
+A snow storm has come.
+There is nothing to catch in the southeastern swamps.
+Olin ågamedâm, Glassmaker cancels Strange Mood: Went insane.
+Olin ågamedâm, Glassmaker has gone stark raving mad!
+Kadol ïnulmigrur has grown to become a Duck.
+The weather has cleared.
+Mistàm Nïmgusil, Armorer cancels Construct unknown material Table: Needs building material non-economic stones.
+x2
+x3
+x4
+Mistàm Nïmgusil, Armorer cancels Construct unknown material Throne: Needs building material non-economic stones.
+x2
+x3
+Meng Tanathel, Carpenter cancels Construct unknown material Throne: Needs building material non-economic stones.
+Mîrul Arbaninod, Herbalist cancels Eat: Item inaccessible.
+x2
+An animal has grown to become a Stray Water Buffalo Bull.
+Deduk Ralkeskal, Herbalist cancels Drink: Water source vanished.
+Deduk Masosïnul, Glassmaker cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+x2
+Deduk Masosïnul, Glassmaker cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Deduk Masosïnul, Glassmaker cancels Brew drink from plant: Job item lost or destroyed.
+A snow storm has come.
+Rigïth Inethdum, Herbalist cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+Rigïth Inethdum, Herbalist cancels Give Water: No water source.
+Deduk Masosïnul, Glassmaker cancels Give Water: No water source.
+Vucar Idgireth, Woodcrafter cancels Give Water: No water source.
+Deduk Masosïnul, Glassmaker cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+x2
+Deduk Masosïnul, Glassmaker cancels Give Water: No water source.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: Need empty bucket.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+x2
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: No water source.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+Rakust Cerolraz, Herbalist cancels Give Water: Need empty bucket.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Rakust Cerolraz, Herbalist cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Rakust Cerolraz, Herbalist cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Rakust Cerolraz, Herbalist cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Rakust Cerolraz, Herbalist cancels Give Water: No water source.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+Rakust Cerolraz, Herbalist cancels Give Water: No water source.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Mîrul Arbaninod, Herbalist cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+Deduk Masosïnul, Glassmaker cancels Give Water: No water source.
+x2
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Edâm Domasstorlut, Woodcutter cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+x2
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Edâm Domasstorlut, Woodcutter cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: No water source.
+Rigïth Inethdum, Herbalist cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Rigïth Inethdum, Herbalist cancels Construct unknown material Table: Needs building material non-economic stones.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Rigïth Inethdum, Herbalist cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Construct unknown material Table: Needs building material non-economic stones.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: Need empty bucket.
+Litast Likotaban, Engraver cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Mistàm Nïmgusil, Armorer cancels Give Water: No water source.
+Edâm Domasstorlut, Woodcutter cancels Give Water: No water source.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Edâm Domasstorlut, Woodcutter cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+és Keskalubal, Herbalist cancels Give Water: No water source.
+Edâm Domasstorlut, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+és Keskalubal, Herbalist cancels Give Water: No water source.
+Mistàm Nïmgusil, Armorer cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+Edâm Domasstorlut, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Construct unknown material Table: Needs building material non-economic stones.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Job item lost or destroyed.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Deduk Ralkeskal, Herbalist cancels Give Water: Need empty bucket.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+Urdim Berlaltur, Weaponsmith cancels Give Water: No water source.
+Meng Tanathel, Carpenter cancels Construct unknown material Table: Needs building material non-economic stones.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+Nil Amkoladil, Clothier cancels Give Water: No water source.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+és Keskalubal, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+The weather has cleared.
+Meng Tanathel, Carpenter cancels Give Water: No water source.
+és Keskalubal, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+Meng Tanathel, Carpenter cancels Give Water: No water source.
+Litast Likotaban, Engraver cancels Give Water: No water source.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: No water source.
+Rigïth Inethdum, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: No water source.
+Meng Tanathel, Carpenter cancels Give Water: No water source.
+Rigïth Inethdum, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+Meng Tanathel, Carpenter cancels Give Water: No water source.
+Meng Tanathel, Carpenter cancels Construct unknown material Door: Needs building material non-economic stones.
+Rigïth Inethdum, Herbalist cancels Construct unknown material Door: Needs building material non-economic stones.
+Dastot TaroneshtÉn, Herbalist cancels Give Water: No water source.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Door: Needs building material non-economic stones.
+Rigïth Inethdum, Herbalist cancels Give Water: No water source.
+Rigïth Inethdum, Herbalist cancels Construct unknown material Door: Needs building material non-economic stones.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Door: Needs building material non-economic stones.
+Meng Tanathel, Carpenter cancels Give Water: No water source.
+Rigïth Inethdum, Herbalist cancels Give Water: No water source.
+Meng Tanathel, Carpenter cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+Meng Tanathel, Carpenter cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Herbalist cancels Give Water: No water source.
+x2
+Litast Likotaban, Engraver cancels Give Water: No water source.
+x2
+Mîrul Arbaninod, Herbalist cancels Give Water: No water source.
+x2
+Litast Likotaban, Engraver cancels Give Water: No water source.
+x2
+Mîrul Arbaninod, Herbalist cancels Give Water: No water source.
+x2
+Litast Likotaban, Engraver cancels Give Water: No water source.
+x2
+Mîrul Arbaninod, Herbalist cancels Give Water: No water source.
+x2
+Litast Likotaban, Engraver cancels Give Water: No water source.
+x2
+Mîrul Arbaninod, Herbalist cancels Give Water: No water source.
+x2
+Litast Likotaban, Engraver cancels Give Water: No water source.
+x2
+Mîrul Arbaninod, Herbalist cancels Give Water: No water source.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Deduk Ralkeskal, Herbalist cancels Give Water: No water source.
+Mîrul Arbaninod, Herbalist cancels Give Water: No water source.
+StÉkud Durlolok, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+StÉkud Durlolok, Herbalist cancels Give Water: No water source.
+Deduk Ralkeskal, Herbalist cancels Give Water: No water source.
+x2
+Rakust Cerolraz, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+és Keskalubal, Herbalist cancels Drink: Horrified.
+Rigïth Inethdum, Herbalist cancels Drink: Horrified.
+Meng Tanathel, Carpenter cancels Drink: Horrified.
+Urist Rithlutsibrek, expedition leader cancels Drink: Horrified.
+Olin ågamedâm, Glassmaker has been found dead, dehydrated.
+Meng Tanathel, Carpenter cancels Construct unknown material Coffin: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Mistàm Nïmgusil has become a Woodworker.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Job item lost or destroyed.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Needs plants.
+x2
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Mîrul Arbaninod, Herbalist cancels Brew drink from plant: Needs plants.
+x2
+Urdim Berlaltur, Weaponsmith has been possessed!
+Spring has arrived!
+Sigun Kosoth¢d has grown to become a Guineacock.
+An animal has grown to become a Stray Drake.
+Thief!  Protect the hoard from skulking filth!
+A snow storm has come.
+Mafol Konosoltar, Metalcrafter cancels Drink: Water source contaminated.
+Iden Gemsitonol, Herbalist cancels Drink: Water source contaminated.
+Mîrul Arbaninod, Herbalist cancels Drink: Water source contaminated.
+A elven caravan from Acifale has arrived.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Table: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Table: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Table: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Table: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Brew drink from plant: Needs plants.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+The weather has cleared.
+Merchants have arrived and are unloading their goods.
+There is nothing to catch in the southwestern swamps.
+Urist Rithlutsibrek, expedition leader cancels Eat: Item inaccessible.
+x2
+Cilob Doliloslan has become a Herbalist.
+The Fragrant Hall, a farmer guild, has been established.
+The Mint Company, a herbalist guild, has been established.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Cilob Doliloslan, Herbalist cancels Give Water: Need empty bucket.
+Urdim Berlaltur, Weaponsmith cancels Strange Mood: Went insane.
+Urdim Berlaltur, Weaponsmith has gone berserk!
+StÉkud Durlolok, Herbalist cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+x3
+x4
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Mistàm Nïmgusil, Woodworker cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+és Keskalubal, Herbalist cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+The merchants from Acifale will be leaving soon.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+The merchants from Acifale have embarked on their journey.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+It has started raining.
+Some migrants have arrived.
+Edâm Domasstorlut, Woodcutter cancels Fell Tree: Interrupted by a lamb.
+StÉkud Durlolok, Herbalist cancels Gather Plants: Interrupted by a lamb.
+There is nothing to catch in the eastern swamps.
+Mafol Konosoltar, Metalcrafter cancels Sleep: Interrupted by a weaponsmith.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+Mistàm Nïmgusil, Woodworker cancels Fell Tree: Interrupted by a weaponsmith.
+Edâm Domasstorlut, Woodcutter cancels Fell Tree: Interrupted by a weaponsmith.
+x2
+Mistàm Nïmgusil, Woodworker cancels Fell Tree: Interrupted by a weaponsmith.
+Edâm Domasstorlut, Woodcutter cancels Fell Tree: Interrupted by a weaponsmith.
+You have struck tetrahedrite!
+Cilob Doliloslan, Herbalist cancels Sleep: Interrupted by a weaponsmith.
+Vucar Zuntårtumam, Gelder cancels Fell Tree: Interrupted by a weaponsmith.
+Cilob Doliloslan, Herbalist cancels Sleep: Interrupted by a weaponsmith.
+The lamb kicks the metalcrafter in the right cheek with his left front hoof and the injured part explodes into gore!
+The force twists the head, tearing apart the skin!
+The lamb attacks the metalcrafter but She jumps away!
+Mafol Konosoltar, Metalcrafter: Help!  Save me!
+The lamb kicks the metalcrafter in the right foot with his left front hoof, bruising the muscle through the (cave spider silk shoe)!
+The lamb kicks the metalcrafter in the left upper leg with his left front hoof, bruising the muscle through the (giant cave spider silk cloak)!
+The lamb attacks the metalcrafter but She jumps away!
+Mafol Konosoltar, Metalcrafter: Help!  Save me!
+The lamb kicks the metalcrafter in the left upper leg with his right rear hoof, bruising the muscle through the (giant cave spider silk cloak)!
+The lamb gores the metalcrafter in the lower body with his left horn, bruising the fat through the (giant cave spider silk cloak)!
+The weaponsmith attacks the guineacock but He jumps away!
+The lamb gores the metalcrafter in the neck with his left horn, bruising the muscle through the (giant cave spider silk cloak)!
+The guineacock misses the weaponsmith!
+The weaponsmith misses the guineacock!
+The weaponsmith punches the guineacock in the upper body with his left hand, bruising the muscle and bruising the gizzard!
+The guineacock is propelled away by the force of the blow!
+The guineacock's upper body skids along the ground and the part splits in gore!
+An artery has been opened by the attack!
+The lamb kicks the metalcrafter in the right hand with his right front hoof, bruising the muscle through the (cave spider silk right mitten)!
+The guineacock slams into an obstacle!
+Mafol Konosoltar, Metalcrafter: Help!  Save me!
+The lamb kicks the metalcrafter in the left upper arm with his left rear hoof, bruising the muscle through the (giant cave spider silk cloak)!
+The lamb kicks the metalcrafter in the left lower leg with his right front hoof, bruising the muscle through the (llama wool dress)!
+The force bends the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The metalcrafter falls over.
+The lamb gores the metalcrafter in the right lower arm with his left horn, bruising the muscle through the (giant cave spider silk cloak)!
+The force twists the right elbow, tearing apart the muscle and tearing apart the muscle!
+The lamb kicks the metalcrafter in the head with his right rear hoof, bruising the muscle through the (cave spider silk hood)!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the upper body with his right horn, bruising the muscle, bruising the right false ribs through the (giant cave spider silk cloak)!
+Mafol Konosoltar, Metalcrafter: I've been injured badly.  Waaaaa...
+The lamb kicks the metalcrafter in the lower body with his right rear hoof, bruising the muscle and bruising the right kidney through the (giant cave spider silk cloak)!
+The weaponsmith misses the lamb!
+The lamb gores the metalcrafter in the right upper leg with his left horn, bruising the muscle through the (giant cave spider silk cloak)!
+The lamb gores the metalcrafter in the right foot with his left horn, bruising the fat through the (cave spider silk shoe)!
+The weaponsmith kicks the metalcrafter in the right lower arm with his left foot, bruising the bone through the (giant cave spider silk cloak)!
+The force pulls the right elbow, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The lamb kicks the metalcrafter in the right hand with his left rear hoof, bruising the muscle through the (cave spider silk right mitten)!
+The weaponsmith punches the metalcrafter in the right lower leg with his right hand, bruising the fat through the (llama wool dress)!
+The weaponsmith punches the metalcrafter in the left upper leg with his right hand, bruising the bone through the (giant cave spider silk cloak)!
+The force twists the left hip, tearing apart the muscle and tearing apart the muscle!
+The lamb gores the metalcrafter in the left hand with his left horn, bruising the muscle through the (cave spider silk left mitten)!
+The weaponsmith grabs the metalcrafter by the third toe, right foot with his left lower arm!
+The lamb kicks the metalcrafter in the lower body with his left rear hoof, bruising the muscle and bruising the stomach through the (giant cave spider silk cloak)!
+The weaponsmith punches the metalcrafter in the left lower leg with his left hand, bruising the muscle through the (llama wool dress)!
+The force twists the left knee, tearing apart the muscle and tearing apart the muscle!
+The metalcrafter punches the weaponsmith in the lower body with her left hand, bruising the fat through the (llama wool cloak)!
+The weaponsmith punches the metalcrafter in the upper body with his right hand, bruising the muscle and bruising the heart through the (giant cave spider silk cloak)!
+The metalcrafter punches the weaponsmith in the right upper arm with her left hand, bruising the muscle through the (llama wool cloak)!
+The lamb gores the metalcrafter in the left upper leg with his right horn, bruising the muscle through the (giant cave spider silk cloak)!
+The force twists the left hip!
+The weaponsmith collapses and falls to the ground from over-exertion.
+The metalcrafter punches the weaponsmith in the right upper arm with her left hand, bruising the muscle through the (llama wool cloak)!
+The lamb kicks the metalcrafter in the right foot with his left front hoof, bruising the bone through the (cave spider silk shoe)!
+The force twists the right ankle!
+The weaponsmith punches the metalcrafter in the right hand with his left hand, bruising the fat through the (cave spider silk right mitten)!
+The weaponsmith releases the grip of The weaponsmith's left lower arm on the metalcrafter's third toe, right foot.
+The weaponsmith punches the metalcrafter in the upper body with his right hand, bruising the muscle and shattering the right true ribs through the (giant cave spider silk cloak)!
+The lamb gores the metalcrafter in the lower body with his left horn, bruising the muscle and bruising the stomach through the (giant cave spider silk cloak)!
+The weaponsmith punches the metalcrafter in the right lower arm with his right hand, bruising the muscle through the (giant cave spider silk cloak)!
+Mafol Konosoltar, Metalcrafter: I was attacked.  How exhilarating!
+The lamb bites the metalcrafter in the upper body, bruising the muscle and bruising the heart through the x(giant cave spider silk cloak)x!
+The lamb latches on firmly!
+The weaponsmith punches the metalcrafter in the right foot with his right hand and the injured part collapses into a lump of gore!
+An artery has been opened by the attack!
+The force bends the right ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The metalcrafter breaks the grip of The lamb's teeth on the metalcrafter's upper body.
+The lamb kicks the metalcrafter in the upper body with his left rear hoof, bruising the muscle and bruising the right lung through the x(giant cave spider silk cloak)x!
+The weaponsmith punches the metalcrafter in the right foot with his left hand, bruising the muscle through the (cave spider silk shoe)!
+The weaponsmith bites the metalcrafter in the head, tearing the fat and bruising the muscle through the x(cave spider silk hood)x!
+The metalcrafter has been knocked unconscious!
+The weaponsmith latches on firmly!
+The lamb kicks the metalcrafter in the left lower arm with his right front hoof, bruising the bone through the x(giant cave spider silk cloak)x!
+The force twists the left elbow!
+The weaponsmith shakes the metalcrafter around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The weaponsmith shakes the metalcrafter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith shakes the metalcrafter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weaponsmith shakes the metalcrafter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weaponsmith shakes the metalcrafter around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his right rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the head with his left horn, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith grabs the metalcrafter by the fifth toe, left foot with his right hand!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the head with his left horn, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his left horn, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his left horn, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his left horn, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his right rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his right rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The lamb gores the metalcrafter in the head with his left horn, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The lamb gores the metalcrafter in the head with his right horn, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The lamb kicks the metalcrafter in the head with his right front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the fat!
+The weaponsmith punches the metalcrafter in the head with his right hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+The lamb kicks the metalcrafter in the head with his right rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith releases the grip of The weaponsmith's right hand on the metalcrafter's fifth toe, left foot.
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left front hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his right rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The lamb kicks the metalcrafter in the head with his left rear hoof, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The weaponsmith punches the metalcrafter in the head with his left hand, bruising the muscle through the x(cave spider silk hood)x!
+The force twists the neck, tearing apart the fat!
+Zasit Urdimmeban, Surgeon cancels Fell Tree: Horrified.
+The weaponsmith attacks the lamb but He jumps away!
+The weaponsmith misses the lamb!
+Iden Gemsitonol, Herbalist cancels Construct Building: Interrupted by a lamb.
+The dwarves suspended the construction of Bed.
+The weaponsmith attacks the lamb but He jumps away!
+The weaponsmith misses the lamb!
+The lamb attacks the herbalist but He jumps away!
+The herbalist punches the lamb in the lower body with his left hand, bruising the fat!
+The herbalist attacks the lamb but He jumps away!
+The lamb kicks the herbalist in the right foot with his left front hoof, bruising the fat through the (porcupine leather shoe)!
+The herbalist punches the lamb in the upper body with his left hand, bruising the fat!
+The lamb kicks the herbalist in the left lower arm with his left front hoof, bruising the fat through the (pig tail cloak)!
+The herbalist grabs the lamb by the right front leg with his left lower arm!
+The herbalist punches the lamb in the right rear leg with his right hand, bruising the fat!
+The lamb kicks the herbalist in the right lower arm with his right front hoof, bruising the muscle through the (pig tail cloak)!
+The force pulls the right elbow!
+The herbalist throws the lamb by the right front leg with The herbalist's left lower arm!
+The herbalist misses the lamb!
+The lamb slams into an obstacle!
+The lamb stands up.
+The herbalist punches the lamb in the right front hoof with his left hand, but the attack glances away!
+The lamb kicks the herbalist in the left lower arm with his left rear hoof, bruising the skin through the (pig tail cloak)!
+The herbalist kicks the lamb in the right rear leg with his right foot, bruising the fat!
+The herbalist punches the lamb in the right rear leg with his right hand, bruising the muscle!
+The lamb gores the herbalist in the left lower leg with his right horn, bruising the fat through the (alpaca wool dress)!
+The herbalist bites the lamb in the left rear leg, tearing the fat and bruising the muscle!
+The herbalist latches on firmly!
+The lamb misses the herbalist!
+The herbalist shakes the lamb around by the left rear leg, tearing apart the left rear leg's fat and bruising the bone and tearing apart the lower spine's nervous tissue!
+A tendon in the left rear leg has been bruised!
+A tendon in the lower spine has been torn!
+The lamb falls over.
+The herbalist punches the lamb in the upper body with his left hand, bruising the muscle, bruising the left false ribs!
+The lamb gores the herbalist in the left upper arm with his right horn, bruising the skin through the (pig tail cloak)!
+The herbalist punches the lamb in the left front leg with his left hand, bruising the muscle!
+The lamb misses the herbalist!
+The herbalist kicks the lamb in the right front leg with his right foot, bruising the muscle!
+The lamb misses the herbalist!
+The herbalist releases the grip of The herbalist's left lower arm on the lamb's right front leg.
+The lamb is no longer stunned.
+The herbalist punches the lamb in the right front hoof with his right hand, but the attack glances away!
+The herbalist misses the lamb!
+The herbalist attacks the lamb but He scrambles away!
+The herbalist punches the lamb in the right front leg with his left hand, but the attack glances away!
+The herbalist attacks the lamb but He rolls away!
+The herbalist punches the lamb in the tail with his right hand, but the attack glances away!
+The herbalist punches the lamb in the left rear hoof with his right hand, but the attack glances away!
+The herbalist punches the lamb in the head with his right hand, bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The herbalist attacks the lamb but He rolls away!
+The herbalist kicks the lamb in the right horn with his left foot, but the attack glances away!
+The herbalist punches the lamb in the right front leg with his left hand, bruising the fat!
+The herbalist attacks the lamb but He scrambles away!
+The weaponsmith misses the herbalist!
+The herbalist punches the weaponsmith in the right lower leg with his right hand, bruising the muscle through the (cave spider silk robe)!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith punches the herbalist in the left lower leg with his right hand, bruising the muscle through the (alpaca wool dress)!
+The herbalist punches the weaponsmith in the left ear with his left hand and the injured part explodes into gore!
+The force bends the head, tearing apart the skin!
+The weaponsmith attacks the herbalist but He jumps away!
+The herbalist punches the weaponsmith in the lower body with his left hand, bruising the muscle and bruising the guts through the (llama wool cloak)!
+The weaponsmith attacks the herbalist but He jumps away!
+The weaponsmith misses the herbalist!
+The herbalist punches the weaponsmith in the upper body with his left hand, bruising the muscle and bruising the liver through the (llama wool cloak)!
+The weaponsmith misses the herbalist!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+Iden Gemsitonol, Herbalist: I have improved my fighting.  That was satisfying.
+The weaponsmith misses the herbalist!
+The herbalist punches the weaponsmith in the right upper arm with his right hand, bruising the fat through the (llama wool cloak)!
+The weaponsmith punches the herbalist in the left hand with his right hand, bruising the fat through the (giant cave spider silk left mitten)!
+The weaponsmith passes out from exhaustion.
+The herbalist punches the weaponsmith in the left hand with his left hand, bruising the muscle through the (giant cave spider silk left mitten)!
+The force twists the left wrist, bruising the muscle and bruising the muscle!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist grabs the weaponsmith by the fourth finger, left hand with his right hand!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+Litast Likotaban, Engraver cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Bed.
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The weaponsmith regains consciousness.
+The weaponsmith passes out from exhaustion.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist releases the grip of The herbalist's right hand on the weaponsmith's fourth finger, left hand.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist collapses and falls to the ground from over-exertion.
+The herbalist stands up.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist collapses and falls to the ground from over-exertion.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist grabs the weaponsmith by the upper body with his right upper arm!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist releases the grip of The herbalist's right upper arm on the weaponsmith's upper body.
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist grabs the weaponsmith by the fourth toe, right foot with his left lower leg!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist releases the grip of The herbalist's left lower leg on the weaponsmith's fourth toe, right foot.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist grabs the weaponsmith by the upper left back teeth with his right upper arm!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist releases the grip of The herbalist's right upper arm on the weaponsmith's upper left back teeth.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The weaponsmith regains consciousness.
+The weaponsmith passes out from exhaustion.
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force twists the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist grabs the weaponsmith by the first finger, left hand with his left lower arm!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his right hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force bends the neck, tearing apart the skin!
+The weaponsmith regains consciousness.
+The weaponsmith passes out from exhaustion.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+The herbalist releases the grip of The herbalist's left lower arm on the weaponsmith's first finger, left hand.
+The herbalist punches the weaponsmith in the head with his left hand, bruising the muscle through the (giant wren leather hood)!
+The force pulls the neck, tearing apart the skin!
+Iden Gemsitonol, Herbalist: I must withdraw!
+Sigun Kosoth¢d, Guineacock (Tame) has been found dead.
+Iden Gemsitonol, Herbalist: I must withdraw!
+The weaponsmith regains consciousness.
+The weaponsmith passes out from exhaustion.
+Iden Gemsitonol, Herbalist: I must withdraw!
+The herbalist stands up.
+Vucar Zuntårtumam, Gelder cancels Fell Tree: Interrupted by a weaponsmith.
+Meng Tanathel, Carpenter cancels Brew drink from plant: Job item lost or destroyed.
+The gelder hacks the weaponsmith in the left foot with her (silver battle axe), tearing apart the muscle and bruising the bone through the x(cave spider silk shoe)x!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+The force twists the left ankle, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The weaponsmith falls over.
+The weaponsmith misses the gelder!
+The gelder hacks the weaponsmith in the left lower leg with her (silver battle axe), bruising the muscle through the x(cave spider silk robe)x!
+The force bends the left knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been bruised and a tendon has been bruised!
+The weaponsmith misses the gelder!
+The gelder scratches the weaponsmith in the right lower leg, tearing the fat and bruising the muscle through the X(cave spider silk robe)X!
+The force pulls the right knee!
+The weaponsmith misses the gelder!
+The gelder hacks the weaponsmith in the left upper arm with her (silver battle axe), bruising the bone through the x(llama wool cloak)x!
+The force bends the left shoulder, tearing apart the muscle and tearing apart the muscle!
+The weaponsmith misses the gelder!
+The gelder hacks the weaponsmith in the right lower leg with her (silver battle axe), bruising the muscle through the X(cave spider silk robe)X!
+The force pulls the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The weaponsmith misses the gelder!
+The gelder hacks the weaponsmith in the lower body with her (silver battle axe), bruising the muscle and bruising the right kidney through the x(llama wool cloak)x!
+The weaponsmith misses the gelder!
+The gelder hacks the weaponsmith in the upper body with her (silver battle axe), bruising the muscle and bruising the liver through the X(llama wool cloak)X!
+The weaponsmith misses the gelder!
+The gelder hacks the weaponsmith in the right upper arm with her (silver battle axe) and the injured part is cloven asunder!
+An artery has been opened by the attack!
+The force twists the right shoulder, tearing apart the muscle and tearing apart the muscle!
+Urdim Berlaltur, Weaponsmith: I've been injured badly.  I will not lose hope.
+The weaponsmith misses the gelder!
+The weaponsmith loses hold of the x(cave spider silk shoe)x.
+The weaponsmith loses hold of the x(pig tail sock)x.
+The gelder hacks the weaponsmith in the right foot with her (silver battle axe) and the severed part sails off in an arc!
+The weaponsmith misses the gelder!
+The gelder slaps the weaponsmith in the lower right back teeth with the flat of her (silver battle axe) and the severed part sails off in an arc!
+The weaponsmith misses the gelder!
+The gelder punches the weaponsmith in the head with her left hand, bruising the muscle and bruising the skull through the (giant wren leather hood)!
+The force bends the neck, tearing apart the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The weaponsmith misses the gelder!
+The gelder hacks the weaponsmith in the right lower leg with her (silver battle axe), bruising the muscle through the XX(cave spider silk robe)XX!
+The force twists the right knee, tearing apart the muscle and bruising the bone and tearing apart the muscle and bruising the bone!
+A ligament has been torn and a tendon has been torn!
+The weaponsmith passes out from exhaustion.
+The gelder hacks the weaponsmith in the head with her (silver battle axe), tearing apart the muscle and fracturing the skull through the x(giant wren leather hood)x!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The gelder hacks the weaponsmith in the head with her (silver battle axe) and the injured part is cloven asunder!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+Urdim Berlaltur, Weaponsmith has been struck down.
+Vucar Zuntårtumam, Gelder: Death is all around us.  This is truly horrifying.
+Vucar Zuntårtumam, Gelder: Can it all end so quickly?  Begone fear!
+Mafol Konosoltar, Metalcrafter has been found dead.
+Vucar Zuntårtumam, Gelder: Death...  I feel very uneasy.
+The weather has cleared.
+Meng Tanathel, Carpenter cancels Brew drink from plant: Job item lost or destroyed.
+Vucar Idgireth has created a masterpiece shale ring!
+Rigïth Inethdum, Herbalist cancels Brew drink from plant: Needs barrel.
+StÉkud Durlolok, Herbalist cancels Reaction: Needs barrel.
+x2
+x3
+Urist Rithlutsibrek, expedition leader cancels Reaction: Job item lost or destroyed.
+Cerol Kuletibel has grown to become a Ram.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+x2
+The mountain goat jumps away from The flying ({bismuth bronze bolt})!
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the right front leg, chipping the bone!
+A tendon has been torn!
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Degâl Kñbukrakust, Ranger: I've been rained on.  It makes me very grouchy.
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Litast Likotaban, Engraver cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Bed.
+The mountain goat jumps away from The flying ({bismuth bronze bolt})!
+Vucar Idgireth, Woodcrafter cancels Make unknown material Crafts: Needs building material non-economic stones.
+Degâl Kñbukrakust, Ranger: I have improved my crossbow.  That was satisfying.
+An animal has grown to become a Stray Guineahen.
+Degâl Kñbukrakust has become a Hunter.
+Meng Tanathel, Carpenter cancels Construct unknown material Door: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+Meng Tanathel, Carpenter cancels Construct unknown material Table: Needs building material non-economic stones.
+x2
+Athel Kogankes, Gem Cutter cancels Carve Up/Down Staircase: Inappropriate dig square.
+Meng Tanathel, Carpenter cancels Construct unknown material Table: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+Urist Rithlutsibrek, expedition leader cancels Reaction: Job item lost or destroyed.
+Urist Rithlutsibrek, expedition leader cancels Construct unknown material Table: Needs building material non-economic stones.
+Vucar Zuntårtumam, Gelder cancels Construct unknown material Throne: Needs building material non-economic stones.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+StÉkud Durlolok, Herbalist cancels Construct unknown material Throne: Needs building material non-economic stones.
+x2
+StÉkud Durlolok, Herbalist cancels Construct unknown material Coffin: Needs building material non-economic stones.
+x2
+Zasit Urdimmeban has created a masterpiece apple wood barrel!
+Mistàm Nïmgusil, Woodworker cancels Construct unknown material Coffin: Needs building material non-economic stones.
+x2
+x3
+Edâm Domasstorlut, Woodcutter cancels Reaction: Job item lost or destroyed.
+Deduk Ralkeskal, Herbalist cancels Brew drink from plant: Needs plants.
+x2
+x3
+x4
+x5
+It is now summer.
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the neck, tearing the muscle!
+The mountain goat jumps away from The flying ({bismuth bronze bolt})!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the upper body, tearing the muscle and shattering the right floating ribs!
+A tendon in the right floating ribs has been torn!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the left front leg, chipping the bone!
+A tendon has been torn!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the right front leg, chipping the bone!
+A tendon has been torn!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the left rear leg, chipping the bone!
+A tendon has been torn!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the left rear leg, chipping the bone!
+A tendon has been torn!
+Degâl Kñbukrakust, Hunter: I have improved my archery.  That was satisfying.
+Thief!  Protect the hoard from skulking filth!
+x2
+x3
+Deduk Ralkeskal, Herbalist cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Up/Down Stair.
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the lower body, tearing the muscle and tearing the stomach!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the lower body, tearing the muscle and tearing the guts!
+The mountain goat looks sick!
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the lower body, tearing the muscle and tearing the pancreas!
+An artery has been opened by the attack!
+The ({bismuth bronze bolt}) has lodged firmly in the wound!
+The mountain goat vomits.
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the lower body, tearing the muscle and tearing the spleen!
+The mountain goat retches.
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the neck, tearing the muscle!
+The mountain goat vomits.
+The flying ({bismuth bronze bolt}) strikes the mountain goat in the head, tearing the muscle, chipping the skull and tearing the brain!
+A tendon in the skull has been torn!
+The mountain goat has been knocked unconscious!
+Degâl Kñbukrakust, Hunter cancels Return Kill: Interrupted by combat.
+Degâl Kñbukrakust, Hunter: I must withdraw!
+Athel Kogankes, Gem Cutter cancels Dig: Inappropriate dig square.
+Deduk Ralkeskal, Herbalist cancels Dig: Inappropriate dig square.
+Minkot Akrulrithlut, Herbalist cancels Brew drink from plant: Needs plants.
+Rakust Cerolraz, Herbalist cancels Brew drink from plant: Needs plants.
+Edâm Domasstorlut, Woodcutter cancels Brew drink from plant: Needs plants.
+Minkot Akrulrithlut, Herbalist cancels Brew drink from plant: Needs plants.
+Rakust Cerolraz, Herbalist cancels Brew drink from plant: Needs plants.
+Edâm Domasstorlut, Woodcutter cancels Brew drink from plant: Needs plants.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Edâm Domasstorlut, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Edâm Domasstorlut, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+Edâm Domasstorlut, Woodcutter cancels Brew drink from plant: Needs plants.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+You have struck cinnabar!
+Vucar Idgireth has created a masterpiece cinnabar crown!
+The guildhall petition by The Fragrant Hall has been ignored.
+The guildhall petition by The Mint Company has been ignored.
+There is nothing to catch in the central swamps.
+Vucar Idgireth has created a masterpiece shale figurine of és Shotspirit!
+Vucar Idgireth has created a masterpiece shale amulet!
+Some migrants have arrived.
+Mîrul Arbaninod, Herbalist cancels Eat: Item inaccessible.
+x2
+x3
+Catten Mozibaban, Metalsmith cancels Smelt unknown material Ore: Needs fire-safe bars.
+x2
+x3
+Vucar Idgireth has created a masterpiece shale crown!
+Doren ådkñbuk, Gelder cancels Eat: Item inaccessible.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+Doren ådkñbuk, Gelder cancels Eat: Item inaccessible.
+Urist Rithlutsibrek, expedition leader cancels Brew drink from plant: Needs plants.
+x2
+Athel Kogankes, Gem Cutter cancels Eat: Item inaccessible.
+x2
+Edâm Titthalast, Clothier cancels Eat: Item inaccessible.
+x2
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+x2
+Vucar Idgireth has created a masterpiece shale earring!
+és Keskalubal, Herbalist cancels Brew drink from plant: Needs plants.
+x2
+There is nothing to catch in the southeastern swamps.
+Kulet åtonärith has become a Woodcrafter.
+Vucar Idgireth has created a masterpiece granite scepter!
+x2
+Vucar Idgireth has created a masterpiece shale earring!
+Libash Dastotkulal has become a Herbalist.
+Catten Mozibaban, Metalsmith cancels Smelt unknown material Ore: Needs bars.
+x2
+x3
+Vucar Idgireth has created a masterpiece shale bracelet!
+Vucar Idgireth has created a masterpiece shale amulet!
+Vucar Idgireth has created a masterpiece shale ring!
+Vucar Idgireth has created a masterpiece shale earring!
+Edâm Domasstorlut, Woodcutter cancels Give Water: Need empty bucket.
+Meng Tanathel, Carpenter cancels Give Water: Need empty bucket.
+Vucar Zuntårtumam, Gelder cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Nil Isakmîrul, Animal Dissector cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+x2
+Nil Isakmîrul, Animal Dissector cancels Give Water: Need empty bucket.
+Minkot Akrulrithlut, Herbalist cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Nil Isakmîrul, Animal Dissector cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Mosus Isaknomal, Weaver cancels Give Water: Need empty bucket.
+Nil Isakmîrul, Animal Dissector cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Mosus Isaknomal, Weaver cancels Give Water: Need empty bucket.
+Kel Råsenenseb, Lye Maker cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Nil Isakmîrul, Animal Dissector cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Mosus Isaknomal, Weaver cancels Give Water: Need empty bucket.
+Kel Råsenenseb, Lye Maker cancels Give Water: Need empty bucket.
+Nil Isakmîrul, Animal Dissector cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Doren ådkñbuk, Gelder cancels Give Water: Need empty bucket.
+Kel Råsenenseb, Lye Maker cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Kñbuk EcemstinthÑd, Woodcutter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Lokum Shetbàthnokim, Miner cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+Lokum Shetbàthnokim, Miner cancels Give Water: Need empty bucket.
+Deduk Masosïnul, Glassmaker cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+x2
+Kel Råsenenseb, Lye Maker cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+x2
+Degâl Kñbukrakust, Hunter cancels Give Water: Need empty bucket.
+Urist Rithlutsibrek, expedition leader cancels Give Water: Need empty bucket.
+x2
+x3
+Kel Råsenenseb, Lye Maker cancels Give Water: Need empty bucket.
+x2
+Cilob Doliloslan, Herbalist cancels Give Water: Need empty bucket.
+Moldath Eribgemesh, Carpenter cancels Give Water: Need empty bucket.
+Kel Råsenenseb, Lye Maker cancels Give Water: Need empty bucket.
+Cog Avuzkol, Weaponsmith cancels Give Water: Need empty bucket.
+x2
+x3
+x4
+x5
+Vucar Idgireth has created a masterpiece cinnabar figurine of Nil Lusterlashed!
+Urdim Berlaltur, Ghostly Weaponsmith batters Olin Lolokgeb, Dwarven Child!
+Cilob Doliloslan, Herbalist cancels Eat: Item inaccessible.
+Dumed Nekutshorast has grown to become a Alpaca.
+Vucar Idgireth has created a masterpiece shale amulet!
+Kñbuk EcemstinthÑd, Woodcutter cancels Brew drink from plant: Job item lost or destroyed.
+Edâm Domasstorlut, Woodcutter cancels Brew drink from plant: Job item lost or destroyed.
+Meng Tanathel, Carpenter cancels Brew drink from plant: Job item lost or destroyed.
+Edâm Domasstorlut, Woodcutter cancels Brew drink from plant: Job item lost or destroyed.
+Vucar Idgireth has created a masterpiece shale figurine of oysters!
+Vucar Idgireth has created a masterpiece shale crown!
+Vucar Idgireth has created a masterpiece shale scepter!
+Rigïth Inethdum, Herbalist cancels Brew drink from plant: Job item lost or destroyed.
+Zasit Urdimmeban, Surgeon cancels Construct unknown material Slab: Horrified.
+Vucar Idgireth has created a masterpiece shale figurine of dwarves!
+Vucar Idgireth has created a masterpiece shale bracelet!
+Thåkut Oddommat, Furnace Operator cancels Smelt unknown material Ore: Needs ITE_POWDERS bars.
+x2
+Vucar Idgireth has created a masterpiece shale figurine of Olin Gorgedkey!
+Thåkut Oddommat, Furnace Operator cancels Smelt unknown material Ore: Needs ITE_POWDERS bars.
+x2

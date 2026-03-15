@@ -1,0 +1,214 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-template.json",
+	"f": [
+		{
+			"type": "door",
+			"x": 2,
+			"y": 7,
+			"z": 0
+		},
+		{
+			"type": "door",
+			"x": 4,
+			"y": 7,
+			"z": 0
+		},
+		{
+			"type": "well",
+			"dig": "Channel",
+			"construction": "NONE",
+			"x": 3,
+			"y": 3,
+			"z": 0
+		},
+		{
+			"type": "hatch",
+			"dig": "DownStair",
+			"construction": "DownStair",
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "lever",
+			"x": 0,
+			"y": 2,
+			"z": 0,
+			"target": 6
+		},
+		{
+			"type": "lever",
+			"x": 0,
+			"y": 4,
+			"z": 0,
+			"internal": true,
+			"target": 10
+		},
+		{
+			"type": "floodgate",
+			"x": 6,
+			"y": 3,
+			"z": -1,
+			"ignore": true
+		},
+		{
+			"dig": "UpDownStair",
+			"construction": "UpDownStair",
+			"x": -1,
+			"y": 1,
+			"z": 2
+		},
+		{
+			"dig": "UpDownStair",
+			"construction": "UpDownStair",
+			"x": -1,
+			"y": 1,
+			"z": 1
+		},
+		{
+			"dig": "UpStair",
+			"construction": "UpStair",
+			"x": -1,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "floodgate",
+			"x": -2,
+			"y": 3,
+			"z": 0
+		},
+		{
+			"dig": "Channel",
+			"construction": "NONE",
+			"x": 5,
+			"y": 3,
+			"z": 0
+		},
+		{
+			"construction": "Floor",
+			"x": -1,
+			"y": 3,
+			"z": 0
+		},
+		{
+			"type": "chest",
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "chest",
+			"x": 1,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "table",
+			"x": 0,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "chair",
+			"x": 1,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "table",
+			"x": 0,
+			"y": 5,
+			"z": 0
+		},
+		{
+			"type": "chair",
+			"x": 1,
+			"y": 5,
+			"z": 0
+		},
+		{
+			"type": "table",
+			"x": 0,
+			"y": 6,
+			"z": 0
+		},
+		{
+			"type": "chair",
+			"x": 1,
+			"y": 6,
+			"z": 0
+		},
+		{
+			"dig": "Ramp",
+			"construction": "Ramp",
+			"x": 5,
+			"y": 3,
+			"z": -1
+		}
+	],
+	"r": [
+		{
+			"type": "location",
+			"location_type": "tavern",
+			"min": [-3, -7, 0],
+			"max": [3, -1, 0],
+			"accesspath": [1, 2, 3, 4],
+			"layout": [0, 1, 2, 4, 5, 13, 14, 15, 16, 17, 18, 19, 20],
+			"comment": "well"
+		},
+		{
+			"type": "corridor",
+			"min": [-4, -4, 0],
+			"max": [-4, -4, 0],
+			"layout": [3]
+		},
+		{
+			"type": "cistern",
+			"cistern_type": "well",
+			"min": [-3, -5, -3],
+			"max": [5, -3, -1],
+			"workshop": 0,
+			"accesspath": [3],
+			"layout": [7, 8, 9]
+		},
+		{
+			"type": "cistern",
+			"cistern_type": "reserve",
+			"min": [-11, -7, 0],
+			"max": [-7, -1, 0],
+			"workshop": 0,
+			"layout": [6, 10, 11, 12, 21],
+			"exits": [
+				["_aqueduct_to_river", -3, 3, 0]
+			]
+		},
+		{
+			"type": "stockpile",
+			"stockpile_type": "food",
+			"min": [-1, -7, 0],
+			"max": [3, -7, 0],
+			"workshop": 0,
+			"comment": "tavern - booze stockpile",
+			"stock_disable": [
+				"FoodMeat",
+				"FoodFish",
+				"FoodUnpreparedFish",
+				"FoodEgg",
+				"FoodPlants",
+				"FoodCheesePlant",
+				"FoodCheeseAnimal",
+				"FoodSeeds",
+				"FoodLeaves",
+				"FoodMilledPlant",
+				"FoodBoneMeal",
+				"FoodFat",
+				"FoodPaste",
+				"FoodPressedMaterial",
+				"FoodExtractPlant",
+				"FoodExtractAnimal",
+				"FoodMiscLiquid"
+			]
+		}
+	]
+}

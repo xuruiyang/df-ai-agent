@@ -1,0 +1,10 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-instance.json",
+	"p": [
+		{
+			"type": "workshop",
+			"workshop_type": "Custom",
+			"raw_type": "SCREW_PRESS"
+		}
+	]
+}

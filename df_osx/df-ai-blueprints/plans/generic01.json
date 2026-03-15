@@ -1,0 +1,1009 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/plan.json",
+	"start": "generic01_start",
+	"padding_x": [-16, 16],
+	"padding_y": [-16, 16],
+	"max_failures": 300,
+	"tags": {
+		"generic01_in_corridor": [
+			"generic01_workshop_1x1"
+		],
+		"generic01_corridor_any": [
+			"generic01_corridor",
+			"generic01_corridor_stair"
+		],
+		"generic01_generic": [
+			"generic01_bedrooms",
+			"generic01_cemetery",
+			"generic01_corridor",
+			"generic01_dormitory",
+			"generic01_infirmary",
+			"generic01_jail",
+			"generic01_location",
+			"generic01_nobleroom",
+			"generic01_underground_farm_start",
+			"generic01_workshop_3x3",
+			"generic01_workshop_5x5"
+		],
+		"generic01_wide": [
+			"generic01_barracks",
+			"generic01_stockpile",
+			"generic01_well"
+		]
+	},
+	"outdoor": [
+		"generic01_apiary",
+		"generic01_cage_trap",
+		"generic01_depot",
+		"generic01_mineshaft",
+		"generic01_outdoor_farm",
+		"generic01_outpost_entrance",
+		"generic01_pasture",
+		"generic01_pitting_tower"
+	],
+	"count_as": {
+		"generic01_dormitory/generic/generic": {
+			"generic01_bedroom": 39,
+			"generic01_bedrooms": 4
+		}
+	},
+	"limits": {
+		"generic01_apiary": [1, 1],
+		"generic01_cage_trap": [20, 100],
+		"generic01_barracks": [4, 8],
+		"generic01_bedroom": [120, 300],
+		"generic01_bedrooms": [20, 50],
+		"generic01_cemetery": [3, 10],
+		"generic01_corridor": [5, 300],
+		"generic01_corridor_stair": [0, 50],
+		"generic01_depot": [1, 1],
+		"generic01_dormitory": [0, 5],
+		"generic01_infirmary": [1, 5],
+		"generic01_jail": [1, 3],
+		"generic01_mineshaft": [1, 1],
+		"generic01_mineshaft_segment": [1, 3],
+		"generic01_nobleroom": [4, 8],
+		"generic01_outpost_entrance": [1, 1],
+		"generic01_pasture": [0, 10],
+		"generic01_pitting_tower": [1, 1],
+		"generic01_stair": [0, 100],
+		"generic01_start": [1, 1],
+		"generic01_well": [1, 1]
+	},
+	"instance_limits": {
+		"generic01_location": {
+			"guildhall": [0, 5],
+			"library": [1, 3],
+			"tavern": [0, 2],
+			"temple": [1, 8]
+		},
+		"generic01_outdoor_farm": {
+			"food": [0, 30],
+			"cloth": [0, 30]
+		},
+		"generic01_stockpile": {
+			"ammo": [1, 1],
+			"animals": [1, 2],
+			"armor": [1, 2],
+			"bars_blocks": [1, 5],
+			"cloth": [1, 5],
+			"coins": [0, 1],
+			"corpses": [0, 1],
+			"finished_goods": [1, 5],
+			"food": [2, 10],
+			"fresh_raw_hide": [1, 2],
+			"furniture": [1, 5],
+			"gems": [1, 2],
+			"leather": [1, 5],
+			"refuse": [1, 5],
+			"sheets": [1, 2],
+			"stone": [1, 5],
+			"weapons": [1, 2],
+			"wood": [1, 5]
+		},
+		"generic01_underground_farm_extension": {
+			"food": [10, 50],
+			"cloth": [10, 50]
+		},
+		"generic01_underground_farm_start": {
+			"food": [5, 10],
+			"cloth": [5, 10]
+		},
+		"generic01_workshop_1x1": {
+			"workshop_nestbox": [2, 5],
+			"workshop_quern": [2, 4],
+			"workshop_screwpress": [1, 2]
+		},
+		"generic01_workshop_3x3": {
+			"furnace_glass": [1, 1],
+			"furnace_kiln": [1, 1],
+			"furnace_smelter": [1, 2],
+			"furnace_wood": [1, 2],
+			"workshop_ashery": [1, 1],
+			"workshop_bowyers": [1, 1],
+			"workshop_butchers": [1, 1],
+			"workshop_carpenters": [1, 3],
+			"workshop_clothiers": [1, 3],
+			"workshop_craftsdwarfs": [1, 3],
+			"workshop_dyers": [1, 1],
+			"workshop_farmers": [1, 3],
+			"workshop_fishery": [1, 2],
+			"workshop_jewelers": [1, 1],
+			"workshop_kitchen": [2, 3],
+			"workshop_leatherworks": [1, 1],
+			"workshop_loom": [1, 3],
+			"workshop_masons": [2, 3],
+			"workshop_mechanics": [1, 2],
+			"workshop_metalsmithsforge": [1, 2],
+			"workshop_soapmaker": [1, 1],
+			"workshop_still": [2, 3],
+			"workshop_tanners": [1, 1]
+		},
+		"generic01_workshop_5x5": {
+			"workshop_kennels": [0, 1],
+			"workshop_siege": [0, 1]
+		}
+	},
+	"priorities": [
+		{
+			"continue": true,
+			"name": "Food Stockpile",
+			"action": "dig_immediate",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "stockpile",
+					"stockpile_type": "food",
+					"level": 1,
+					"workshop_not": {}
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "stockpile",
+				"stockpile_type": "food",
+				"level": 1,
+				"workshop_not": {}
+			}
+		},
+		{
+			"continue": true,
+			"name": "Carpenter's Workshop",
+			"action": "dig_immediate",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Carpenters"
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Carpenters",
+				"level": 1
+			}
+		},
+		{
+			"name": "Mason's Workshop",
+			"action": "dig_immediate",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Masons"
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Masons",
+				"level": 1
+			}
+		},
+		{
+			"continue": true,
+			"name": "Starter Farm (Food)",
+			"action": "dig_immediate",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "farmplot",
+					"farm_type": "food",
+					"outdoor": false
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "farmplot",
+				"farm_type": "food",
+				"outdoor": false
+			}
+		},
+		{
+			"continue": true,
+			"name": "Starter Farm (Cloth)",
+			"action": "dig_immediate",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "farmplot",
+					"farm_type": "cloth",
+					"outdoor": false
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "farmplot",
+				"farm_type": "cloth",
+				"outdoor": false
+			}
+		},
+		{
+			"continue": true,
+			"name": "Garbage Dump",
+			"action": "dig",
+			"match": {
+				"type": "garbagedump"
+			}
+		},
+		{
+			"name": "Trade Depot",
+			"action": "dig",
+			"match": {
+				"type": "tradedepot"
+			}
+		},
+		{
+			"name": "Infirmary",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "infirmary"
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "infirmary"
+			}
+		},
+		{
+			"name": "Mechanic's Workshop",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Mechanics",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Mechanics",
+				"level": 1
+			}
+		},
+		{
+			"name": "Still",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Still",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Still",
+				"level": 1
+			}
+		},
+		{
+			"name": "Second Food Stockpile",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "stockpile",
+					"stockpile_type": "food",
+					"level": 1,
+					"workshop_not": {}
+				},
+				"is": 1
+			},
+			"match": {
+				"type": "stockpile",
+				"stockpile_type": "food",
+				"level": 1,
+				"workshop_not": {}
+			}
+		},
+		{
+			"name": "Kitchen",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Kitchen",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Kitchen",
+				"level": 1
+			}
+		},
+		{
+			"continue": true,
+			"name": "Entrance Static Defenses",
+			"action": "unignore_furniture",
+			"match": {
+				"type": "corridor",
+				"comment": "fort entrance"
+			}
+		},
+		{
+			"name": "Mining Outpost",
+			"action": "dig",
+			"match": {
+				"type": "outpost",
+				"outpost_type": "mining",
+				"outdoor": true
+			}
+		},
+		{
+			"name": "Well",
+			"action": "dig",
+			"match": {
+				"type": "location",
+				"location_type": "tavern",
+				"comment": "well"
+			}
+		},
+		{
+			"name": "Craftsdwarf's Workshop",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Craftsdwarfs",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Craftsdwarfs",
+				"level": 1
+			}
+		},
+		{
+			"name": "Additional Mason's Workshop",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Masons",
+					"level": 1
+				},
+				"is": 1
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Masons",
+				"level": 1
+			}
+		},
+		{
+			"name": "Wood Furnace",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "furnace",
+					"furnace_type": "WoodFurnace",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "furnace",
+				"furnace_type": "WoodFurnace",
+				"level": 1
+			}
+		},
+		{
+			"continue": true,
+			"name": "Start Mining Ores",
+			"action": "start_ore_search"
+		},
+		{
+			"name": "Smelter",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "furnace",
+					"furnace_type": "Smelter",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "furnace",
+				"furnace_type": "Smelter",
+				"level": 1
+			}
+		},
+		{
+			"name": "Metalsmith's Forge",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "MetalsmithsForge",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "MetalsmithsForge",
+				"level": 1
+			}
+		},
+		{
+			"name": "Cemetery",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "cemetery"
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "cemetery"
+			}
+		},
+		{
+			"name": "Apiary",
+			"action": "dig",
+			"match": {
+				"type": "corridor",
+				"comment": "apiary"
+			}
+		},
+		{
+			"name": "Farmer's Workshop",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Farmers",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Farmers",
+				"level": 1
+			}
+		},
+		{
+			"name": "Fishery",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Fishery",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Fishery",
+				"level": 1
+			}
+		},
+		{
+			"name": "Loom",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Loom",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Loom",
+				"level": 1
+			}
+		},
+		{
+			"name": "Clothier's Workshop",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Clothiers",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Clothiers",
+				"level": 1
+			}
+		},
+		{
+			"name": "Soap Maker",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Custom",
+					"raw_type": "SOAP_MAKER",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Custom",
+				"raw_type": "SOAP_MAKER",
+				"level": 1
+			}
+		},
+		{
+			"name": "Butcher",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Butchers",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Butchers",
+				"level": 1
+			}
+		},
+		{
+			"name": "Ashery",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Ashery",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Ashery",
+				"level": 1
+			}
+		},
+		{
+			"name": "Tannery",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Tanners",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Tanners",
+				"level": 1
+			}
+		},
+		{
+			"name": "Leatherworker's Workshop",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Leatherworks",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Leatherworks",
+				"level": 1
+			}
+		},
+		{
+			"name": "Dyer's Workshop",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "workshop",
+					"workshop_type": "Dyers",
+					"level": 1
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "workshop",
+				"workshop_type": "Dyers",
+				"level": 1
+			}
+		},
+		{
+			"name": "Jail",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "jail"
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "jail"
+			}
+		},
+		{
+			"continue": true,
+			"name": "Outdoor Cage Traps",
+			"action": "dig",
+			"match": {
+				"type": "corridor",
+				"outdoor": true,
+				"comment": "cage trap"
+			}
+		},
+		{
+			"name": "Library",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "library"
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "location",
+				"location_type": "library"
+			}
+		},
+		{
+			"name": "Temple",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "temple"
+				},
+				"is": 0
+			},
+			"match": {
+				"type": "location",
+				"location_type": "temple"
+			}
+		},
+		{
+			"name": "Pitting Tower",
+			"action": "dig",
+			"match": {
+				"type": "pitcage"
+			}
+		},
+		{
+			"name": "Cavern Outpost",
+			"action": "dig",
+			"match": {
+				"type": "outpost",
+				"outpost_type": "cavern"
+			}
+		},
+		{
+			"name": "Level 1 Stockpiles",
+			"action": "dig",
+			"match": {
+				"type": "stockpile",
+				"level": 1,
+				"workshop_not": {}
+			}
+		},
+		{
+			"continue": true,
+			"name": "Deconstruct Wagon",
+			"action": "deconstruct_wagons"
+		},
+		{
+			"name": "Remaining Level 1 Workshops",
+			"action": "dig",
+			"match": {
+				"type": ["furnace", "workshop"],
+				"level": 1
+			}
+		},
+		{
+			"continue": true,
+			"name": "Allow Unused Common Rooms",
+			"action": "past_initial_phase"
+		},
+		{
+			"name": "Level 2 Food Stockpiles",
+			"action": "dig",
+			"match": {
+				"type": "stockpile",
+				"stockpile_type": "food",
+				"level": 2,
+				"workshop_not": {}
+			}
+		},
+		{
+			"name": "Selected Level 2 and 3 Furnaces",
+			"action": "dig",
+			"match": {
+				"type": "furnace",
+				"furnace_type": ["WoodFurnace", "Smelter"],
+				"level": [2, 3]
+			}
+		},
+		{
+			"name": "Selected Level 2 and 3 Workshops",
+			"action": "dig",
+			"match": {
+				"type": "workshop",
+				"workshop_type": ["Carpenters", "Clothiers", "Craftsdwarfs", "Dyers", "Farmers", "Kitchen", "Loom", "Masons", "Mechanics", "MetalsmithsForge", "Still"],
+				"level": [2, 3]
+			}
+		},
+		{
+			"name": "Remaining Level 2 Stockpiles",
+			"action": "dig",
+			"match": {
+				"type": "stockpile",
+				"level": 2,
+				"workshop_not": {}
+			}
+		},
+		{
+			"name": "Remaining Level 2 Workshops",
+			"action": "dig",
+			"match": {
+				"type": ["workshop", "furnace"],
+				"level": 2
+			}
+		},
+		{
+			"name": "Additional Jails",
+			"action": "dig",
+			"match": {
+				"type": "jail"
+			}
+		},
+		{
+			"name": "Additional Infirmaries",
+			"action": "dig",
+			"match": {
+				"type": "infirmary"
+			}
+		},
+		{
+			"continue": true,
+			"name": "Second Tavern",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "tavern"
+				},
+				"is": 1
+			},
+			"match": {
+				"type": "location",
+				"location_type": "tavern"
+			}
+		},
+		{
+			"continue": true,
+			"name": "Second Library",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "library"
+				},
+				"is": 1
+			},
+			"match": {
+				"type": "location",
+				"location_type": "library"
+			}
+		},
+		{
+			"name": "Second Temple",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "temple"
+				},
+				"is": 1
+			},
+			"match": {
+				"type": "location",
+				"location_type": "temple"
+			}
+		},
+		{
+			"continue": true,
+			"name": "Decorate Locations",
+			"action": "finish",
+			"match": {
+				"status_not": ["plan", "dig"],
+				"type": "location"
+			}
+		},
+		{
+			"name": "Find Next Cavern",
+			"action": "dig_next_cavern_outpost"
+		},
+		{
+			"name": "Additional Barracks",
+			"action": "dig",
+			"match": {
+				"type": "barracks"
+			}
+		},
+		{
+			"name": "Remaining Farm Plots",
+			"action": "dig",
+			"match": {
+				"type": "farmplot"
+			}
+		},
+		{
+			"continue": true,
+			"name": "Enable Optional Furniture in Commons Rooms",
+			"action": "unignore_furniture",
+			"match": {
+				"status_not": ["plan", "dig"],
+				"type": ["bedroom", "nobleroom", "corridor", "workshop", "furnace", "farmplot"]
+			}
+		},
+		{
+			"name": "Remaining Stockpiles",
+			"action": "dig",
+			"match": {
+				"type": "stockpile",
+				"workshop_not": {}
+			}
+		},
+		{
+			"name": "Remaining Nest Boxes",
+			"action": "dig",
+			"match": {
+				"type": "corridor",
+				"comment": "nest box"
+			}
+		},
+		{
+			"name": "Remaining Workshops",
+			"action": "dig",
+			"match": {
+				"type": ["workshop", "furnace"]
+			}
+		},
+		{
+			"name": "Third Tavern",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "tavern"
+				},
+				"is": 2
+			},
+			"match": {
+				"type": "location",
+				"location_type": "tavern"
+			}
+		},
+		{
+			"name": "Third Library",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "library"
+				},
+				"is": 2
+			},
+			"match": {
+				"type": "location",
+				"location_type": "library"
+			}
+		},
+		{
+			"name": "Third Temple",
+			"action": "dig",
+			"count": {
+				"match": {
+					"status_not": "plan",
+					"type": "location",
+					"location_type": "temple"
+				},
+				"is": 2
+			},
+			"match": {
+				"type": "location",
+				"location_type": "temple"
+			}
+		},
+		{
+			"continue": true,
+			"name": "Enable Optional Furniture in Military Rooms",
+			"action": "unignore_furniture",
+			"match": {
+				"status_not": ["plan", "dig"],
+				"type": ["barracks", "jail"]
+			}
+		},
+		{
+			"name": "Remaining Commons Rooms",
+			"action": "dig",
+			"match": {
+				"type": ["bedroom", "cemetery", "nobleroom"]
+			}
+		},
+		{
+			"name": "Decorate Fortress",
+			"action": "finish",
+			"match": {
+				"status_not": "plan"
+			}
+		}
+	]
+}

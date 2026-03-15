@@ -1,0 +1,12 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-template.json",
+	"r": [
+		{
+			"min": [0, 0, 0],
+			"max": [0, 0, 0],
+			"in_corridor": true,
+			"build_when_accessible": true,
+			"placeholder": 0
+		}
+	]
+}

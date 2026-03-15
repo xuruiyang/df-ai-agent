@@ -1,0 +1,165 @@
+{
+	"$schema": "https://ben.lubar.me/df-ai-schemas/room-template.json",
+	"f": [
+		{
+			"x": 5,
+			"y": 1,
+			"z": 0,
+			"dig": "UpDownStair",
+			"construction": "UpDownStair"
+		},
+		{
+			"x": 5,
+			"y": 1,
+			"z": 0,
+			"dig": "UpDownStair",
+			"construction": "UpDownStair"
+		},
+		{
+			"x": 5,
+			"y": 1,
+			"z": 0,
+			"dig": "UpDownStair",
+			"construction": "UpDownStair",
+			"stairs_special": true
+		},
+		{
+			"x": 4,
+			"y": 0,
+			"z": 0,
+			"dig": "UpDownStair",
+			"construction": "UpDownStair",
+			"stairs_special": true
+		},
+		{
+			"type": "cage_trap",
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 1,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 2,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 0,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 1,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 2,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 0,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 1,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 2,
+			"y": 0,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 0,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 1,
+			"y": 1,
+			"z": 0
+		},
+		{
+			"type": "cage_trap",
+			"x": 2,
+			"y": 1,
+			"z": 0
+		}
+	],
+	"r": [
+		{
+			"type": "outpost",
+			"outpost_type": "mining",
+			"min": [-3, -3, 0],
+			"max": [3, 3, 0],
+			"build_when_accessible": true,
+			"layout": [0]
+		},
+		{
+			"type": "outpost",
+			"outpost_type": "mining",
+			"min": [-3, -3, -1],
+			"max": [3, 3, -1],
+			"build_when_accessible": true,
+			"accesspath": [0],
+			"layout": [1]
+		},
+		{
+			"type": "outpost",
+			"outpost_type": "mining",
+			"min": [-3, -3, -2],
+			"max": [3, 3, -2],
+			"build_when_accessible": true,
+			"accesspath": [1],
+			"layout": [2],
+			"exits": [
+				["generic01_mineshaft_segment", 3, 3, -1]
+			]
+		},
+		{
+			"type": "corridor",
+			"corridor_type": "veinshaft",
+			"min": [-1, -5, -2],
+			"max": [1, -4, -2],
+			"accesspath": [2],
+			"layout": [4, 5, 6, 7, 8, 9]
+		},
+		{
+			"type": "corridor",
+			"corridor_type": "veinshaft",
+			"min": [-1, 4, -2],
+			"max": [1, 5, -2],
+			"accesspath": [2],
+			"layout": [10, 11, 12, 13, 14, 15]
+		},
+		{
+			"type": "stockpile",
+			"stockpile_type": "stone",
+			"level": 5,
+			"min": [-2, -2, -2],
+			"max": [2, 2, -2],
+			"in_corridor": true,
+			"build_when_accessible": true,
+			"accesspath": [2],
+			"layout": [3]
+		}
+	]
+}

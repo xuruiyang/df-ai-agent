@@ -1,0 +1,68 @@
+-- Smelt native gold into gold bars + queue more charcoal
+local function add_job(bld, job_type, mat_specs, reaction)
+    local job = df.job:new()
+    job.job_type = df.job_type[job_type]
+    if reaction then job.reaction_name = reaction end
+    job.pos = xyz2pos(bld.centerx, bld.centery, bld.z)
+    for _, spec in ipairs(mat_specs) do
+        local ji = df.job_item:new()
+        ji.item_type = spec.item_type
+        ji.quantity = spec.quantity
+        ji.vector_id = spec.vector_id
+        if spec.flags2 then
+            for k, v in pairs(spec.flags2) do ji.flags2[k] = v end
+        end
+        ji.reaction_class = ""
+        ji.has_material_reaction_product = ""
+        job.job_items:insert('#', ji)
+    end
+    dfhack.job.linkIntoWorld(job)
+    bld.jobs:insert('#', job)
+    job.general_refs:insert('#', {new=df.general_ref_building_holderst, building_id=bld.id})
+end
+
+-- Queue more charcoal
+local WOOD = {{item_type=df.item_type.WOOD, quantity=1, vector_id=df.job_item_vector_id.WOOD}}
+for _, bld in ipairs(df.global.world.buildings.all) do
+    if df.building_furnacest:is_instance(bld) and bld.type == df.furnace_type.WoodFurnace and bld.flags.exists then
+        if #bld.jobs < 5 then
+            local to_add = 5 - #bld.jobs
+            for i = 1, to_add do
+                add_job(bld, "CustomReaction", WOOD, "CHARCOAL_MAKING")
+            end
+            print(string.format("Queued %d charcoal jobs", to_add))
+        end
+    end
+end
+
+-- Queue smelting at smelter
+for _, bld in ipairs(df.global.world.buildings.all) do
+    if df.building_furnacest:is_instance(bld) and bld.type == df.furnace_type.Smelter and bld.flags.exists then
+        if #bld.jobs < 4 then
+            for i = 1, 4 do
+                local job = df.job:new()
+                job.job_type = df.job_type.SmeltOre
+                job.pos = xyz2pos(bld.centerx, bld.centery, bld.z)
+                -- Need fuel bar and ore boulder
+                local ji1 = df.job_item:new()
+                ji1.item_type = df.item_type.BAR
+                ji1.quantity = 1
+                ji1.vector_id = df.job_item_vector_id.BAR
+                ji1.reaction_class = "ITE_POWDERS"  -- fuel class
+                ji1.has_material_reaction_product = ""
+                local ji2 = df.job_item:new()
+                ji2.item_type = df.item_type.BOULDER
+                ji2.quantity = 1
+                ji2.vector_id = df.job_item_vector_id.BOULDER
+                ji2.reaction_class = ""
+                ji2.has_material_reaction_product = ""
+                job.job_items:insert('#', ji1)
+                job.job_items:insert('#', ji2)
+                dfhack.job.linkIntoWorld(job)
+                bld.jobs:insert('#', job)
+                job.general_refs:insert('#', {new=df.general_ref_building_holderst, building_id=bld.id})
+            end
+            print(string.format("Queued 4 smelting jobs"))
+        end
+    end
+end

@@ -1,0 +1,3 @@
+# enable df-ai
+# Start the agent bridge after loading a fortress:
+#   dfhack-run df-agent-bridge start
